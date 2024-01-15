@@ -1,0 +1,4 @@
+Kerry Forsythe - Gathered more detailed summary statistics, gathered new dataset from different source with different genre. Ran statistics and models using this new set. (1/3 total work allocation)
+Roderick Hutterer - Wrote code to retrain the best model using the new genre, wrote final conclusion. (1/3 total work allocation)
+David Torres - Cleaned up overall report, proofread, made previously written parts more detailed, added some statsitics, determined clustering analysis was not relevant. (1/3 total work allocation)
+

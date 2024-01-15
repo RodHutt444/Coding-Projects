@@ -1,0 +1,297 @@
+,disc_number,duration_ms_x,explicit,id,is_local,is_playable,name,popularity,track_number,type_x,album_type,album_name,release_year,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,Genre
+280,1,196652,True,0nbXyq5TXYPCO7pr3N8S4I,False,True,The Box,82,2,track,album,Please Excuse Me for Being Antisocial,2019,0.896,0.586,10,-6.687,0,0.0559,0.104,0.0,0.79,0.642,116.971,Rap
+281,1,237735,True,5yY9lUy8nbvjM1Uyo1Uqoc,False,True,Life Is Good (feat. Drake),78,1,track,single,Life Is Good (feat. Drake),2020,0.676,0.609,2,-5.831,0,0.481,0.0706,0.0,0.152,0.508,142.037,Rap
+282,1,163636,True,696DnlkuDOXcMAnKlTgXXK,False,True,ROXANNE,78,1,track,single,ROXANNE,2019,0.621,0.601,6,-5.616,0,0.148,0.0522,0.0,0.46,0.457,116.735,Rap
+283,1,139741,True,1jaTQ3nqY3oAAYyCTbIvnM,False,True,WHATS POPPIN,78,1,track,album,Sweet Action,2020,0.923,0.604,11,-6.671,0,0.245,0.017,0.0,0.272,0.826,145.062,Rap
+284,1,218364,True,3F5CgOj3wFlRv51JsHbxhe,False,True,Jimmy Cooks (feat. 21 Savage),91,14,track,album,"Honestly, Nevermind",2022,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,Rap
+285,1,247058,True,127QTOFJsJQp5LbJbu3A1y,False,True,Toosie Slide,74,1,track,single,Toosie Slide,2020,0.834,0.454,1,-9.75,0,0.201,0.321,6.15e-06,0.114,0.837,81.618,Rap
+286,1,159714,True,6Ozh9Ok6h4Oi1wUSLtBseN,False,True,BOP,76,3,track,album,KIRK,2019,0.769,0.787,11,-3.909,1,0.367,0.189,0.0,0.129,0.836,126.77,Rap
+287,1,162546,True,6wJYhPfqk3KGhHRG76WzOh,False,True,Blueberry Faygo,74,1,track,single,Blueberry Faygo,2020,0.774,0.554,0,-7.909,1,0.0383,0.207,0.0,0.132,0.349,99.034,Rap
+288,1,188343,True,6jRq8gaZhMUyy5RclRPcAf,False,True,hot girl bummer,81,1,track,album,everything means nothing,2020,0.782,0.559,6,-7.106,0,0.0767,0.125,0.0,0.385,0.685,129.992,Rap
+289,1,240133,False,1ZMiCix7XSAbfAJlEZWMCp,False,True,Falling,85,6,track,album,Fine Line,2019,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,Rap
+290,1,183011,True,598yNsG1JFrGd4n2kMoz7F,False,True,Woah,69,1,track,single,Woah,2019,0.882,0.602,11,-5.554,1,0.245,0.0177,0.0,0.178,0.43,142.959,Rap
+291,1,173333,False,7eJMfftS33KTjuF7lTsMCx,False,True,death bed (coffee for your head),83,1,track,single,death bed (coffee for your head),2020,0.726,0.431,8,-8.765,0,0.135,0.731,0.0,0.696,0.348,144.026,Rap
+292,1,180434,True,3QzAOrNlsabgbMwlZt7TAY,False,True,Ballin' (with Roddy Ricch),80,9,track,album,Perfect Ten,2019,0.809,0.545,7,-6.678,1,0.0735,0.392,0.0,0.151,0.244,97.008,Rap
+297,1,220486,True,07KXEDMj78x68D884wgVEm,False,True,High Fashion (feat. Mustard),74,11,track,album,Please Excuse Me for Being Antisocial,2019,0.831,0.499,11,-8.442,0,0.114,0.269,0.0,0.3,0.511,97.956,Rap
+298,1,205760,True,5f4Hy5mw5SRaUgXX9c6P5S,False,True,Sum 2 Prove,72,13,track,album,My Turn,2020,0.827,0.552,4,-7.571,0,0.274,0.0169,0.0,0.122,0.408,124.011,Rap
+299,1,159669,True,591ks2A0o7ratTpiRdI7M6,False,True,Heart On Ice,72,4,track,album,PTSD,2019,0.732,0.387,10,-8.47,0,0.0741,0.0493,0.0,0.141,0.242,157.875,Rap
+300,1,181929,True,6gxKUmycQX7uyMwJcweFjp,False,True,We Paid (feat. 42 Dugg),75,26,track,album,My Turn (Deluxe),2020,0.926,0.542,1,-5.064,1,0.293,0.135,0.0,0.0877,0.564,135.14,Rap
+301,1,189322,True,6Gg1gjgKi2AK4e0qzsR7sd,False,True,Bandit (with YoungBoy Never Broke Again),76,1,track,single,Bandit (with YoungBoy Never Broke Again),2019,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,Rap
+302,1,200221,True,6EDO9iiTtwNv6waLwa1UUq,False,True,POPSTAR (feat. Drake),75,1,track,single,POPSTAR (feat. Drake),2020,0.8,0.56,5,-4.818,0,0.261,0.057,0.0,0.134,0.45,163.071,Rap
+307,1,147800,False,5RqR4ZCCKJDcBLIn4sih9l,False,True,Party Girl,72,1,track,single,Party Girl,2020,0.728,0.431,6,-9.966,0,0.0622,0.749,0.0,0.0996,0.629,130.022,Rap
+308,1,201600,True,1H7KnK26kc1YyellpbINEn,False,True,The Woo (feat. 50 Cent & Roddy Ricch),77,10,track,album,Shoot For The Stars Aim For The Moon,2020,0.49,0.618,1,-5.655,1,0.104,0.0221,3.77e-06,0.259,0.286,99.7,Rap
+309,1,222997,True,1iSqfoUFnQwV0QW1EfUit8,False,True,Suicidal,75,2,track,album,Melly vs. Melvin,2019,0.735,0.369,9,-9.682,0,0.0688,0.334,0.0,0.126,0.235,140.004,Rap
+310,1,252728,True,44gRhRi2OhEf7moAUj6MD1,False,True,The Bigger Picture,70,1,track,single,The Bigger Picture,2020,0.59,0.618,1,-5.756,1,0.334,0.0127,0.0,0.244,0.153,96.459,Rap
+311,1,210800,True,7FIWs0pqAYbP91WWM0vlTQ,False,True,Godzilla (feat. Juice WRLD),84,7,track,album,Music To Be Murdered By,2020,0.808,0.745,10,-5.26,0,0.342,0.145,0.0,0.292,0.829,165.995,Rap
+312,1,213333,True,5rZlwNFl01HqLWBQGryKSm,False,True,Mood Swings (feat. Lil Tjay),80,13,track,album,Shoot For The Stars Aim For The Moon,2020,0.48,0.602,10,-6.335,0,0.368,0.487,0.0,0.0848,0.269,179.798,Rap
+313,1,216386,True,79s5XnCN4TJKTVMSmOx8Ep,False,True,Dior,83,6,track,album,Meet The Woo,2019,0.548,0.805,7,-5.732,1,0.351,0.212,0.000389,0.408,0.648,142.094,Rap
+314,1,194621,True,2U5WueTLIK5WJLD7mvDODv,False,True,Wishing Well,81,15,track,album,Legends Never Die,2020,0.65,0.613,9,-6.13,0,0.128,0.00336,0.0,0.267,0.0804,149.972,Rap
+315,1,165977,True,39Yp9wwQiSRIDOvrVg7mbk,False,True,THE SCOTTS,77,1,track,single,THE SCOTTS,2020,0.716,0.537,0,-7.648,0,0.0514,0.233,0.0,0.157,0.28,129.979,Rap
+316,1,197529,True,7ge7BHazYbVKi8qyZUX1Bm,False,True,Emotionally Scarred,74,8,track,album,My Turn,2020,0.585,0.641,6,-4.269,0,0.133,0.0286,0.0,0.316,0.266,88.284,Rap
+317,1,235987,True,40TPiJpvwGIyvPjJMDTKfy,False,True,Rags2Riches 2 (feat. Lil Baby),72,19,track,album,Pray 4 Love (Deluxe),2020,0.874,0.443,5,-9.628,0,0.241,0.147,0.0,0.124,0.298,118.004,Rap
+322,1,173288,True,1Z0cZI0UzNbP9L8MzzGxqf,False,True,Walk Em Down (feat. Roddy Ricch),73,6,track,album,Top Shotta,2020,0.867,0.744,2,-5.171,1,0.227,0.268,0.0,0.0713,0.645,84.005,Rap
+323,1,139413,True,4Hpib09wXgD84w4uwTPnYD,False,True,Tap In,68,1,track,single,Tap In,2020,0.954,0.696,10,-7.117,0,0.204,0.00576,0.000498,0.0754,0.432,100.036,Rap
+328,1,144935,True,0fySG6A6qLE8IvDpayb5bM,False,True,VIBEZ,71,4,track,album,KIRK,2019,0.768,0.652,1,-2.708,0,0.307,0.113,0.0,0.107,0.777,154.187,Rap
+329,1,154323,True,6WbTTAGKrQtCQvmc5BuYfh,False,True,Girls in the Hood,67,1,track,single,Girls in the Hood,2020,0.821,0.863,6,-3.159,1,0.353,0.00824,0.0,0.0377,0.874,180.013,Rap
+330,1,198912,True,2Ec33AVlkTTq8BHFgBTdQs,False,True,Futsal Shuffle 2020,65,1,track,single,Futsal Shuffle 2020,2019,0.881,0.457,7,-8.191,0,0.156,0.0327,0.0,0.231,0.296,136.97,Rap
+331,1,157712,True,6gi6y1xwmVszDWkUqab1qw,False,True,OUT WEST (feat. Young Thug),77,5,track,album,JACKBOYS,2019,0.802,0.591,8,-4.895,1,0.225,0.0104,0.0,0.196,0.309,139.864,Rap
+332,1,132303,True,1XdbvPWz4lhyRBMz9cBy8b,False,True,GOOBA,71,3,track,album,TattleTales,2020,0.611,0.688,1,-5.688,1,0.341,0.0264,0.0,0.251,0.393,178.462,Rap
+333,2,160720,True,0xKBkLcF71uUQeTA7FSu4A,False,True,BEST ON EARTH (feat. BIA) - Bonus,69,2,track,album,SHAKE THE SNOW GLOBE,2020,0.846,0.748,5,-3.512,0,0.078,0.188,0.0,0.093,0.597,90.006,Rap
+334,1,157066,False,2YpeDb67231RjR0MgVLzsG,False,True,Old Town Road - Remix,79,1,track,single,7 EP,2019,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,Rap
+335,1,158040,False,3KkXRkHbMCARz0aVfEt68P,False,True,Sunflower - Spider-Man: Into the Spider-Verse,83,2,track,compilation,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,Rap
+336,1,149546,True,7xQAfvXzm3AkraOtGPWIZg,False,True,Wow.,82,17,track,album,Hollywood's Bleeding,2019,0.829,0.539,11,-7.359,0,0.208,0.136,1.78e-06,0.103,0.388,99.96,Rap
+337,1,173325,True,3HWzoMvoF3TQfYg4UPszDq,False,True,Truth Hurts,77,13,track,album,Cuz I Love You (Super Deluxe),2019,0.715,0.624,4,-3.046,0,0.114,0.11,0.0,0.123,0.412,158.087,Rap
+342,1,213593,True,2JvzF1RMd7lE3KmFlsyZD8,False,True,MIDDLE CHILD,81,1,track,single,MIDDLE CHILD,2019,0.837,0.364,8,-11.713,1,0.276,0.149,0.0,0.271,0.463,123.984,Rap
+343,1,180522,True,2IRZnDFmlqMuOrYOLnZZyc,False,True,Going Bad (feat. Drake),80,9,track,album,Championships,2018,0.889,0.496,4,-6.365,0,0.0905,0.259,0.0,0.252,0.544,86.003,Rap
+344,1,2399056,True,4QeHxxiBqEgvB0CE7AwwUa,False,True,"Rolling 110 Deep (feat. Sheek Louch, Styles P, Dave East, Crooked I, Black Thought, Raekwon, Ghostface Killah, Inspectah Deck, Papoose, Loaded Lux, AZ, Bun B, Fred the Godson, Jim Jones, Ransom, Rah Digga, Billy Danze, Lil Fame, Trae tha Truth, Joell Ortiz, Lord Tariq, Cory Gunz, Peter Gunz, Shaq Diesel, Roy Jones Jr., DJ Red Alert, Redman, Young Buck, MC Serch, Big Daddy Kane, MC Shan, ‎KRS-One, Jon Connor, Twista, Drag-On, Chris Rivers, Nino Man, Locksmith, 3D Natee, Trick Trick, Tragedy Khadafi, E-A-Ski, Cassidy, Bumpy Knuckles, Gillie Da Kid, Ice-T, Treach, Kool G Rap, Lil' Cease, RJ Payne, JR Writer, Shoota93, Ms Hustle, Vado, Mysonne, Mistah F.A.B., Saigon, Melle Mel, Grandmaster Caz, Havoc, Tracey Lee, Edi Mean, Young Noble, Mcgruff, Stan Spit, SickFlo, Fredro Starr, Sticky Fingaz, Rass Kass, Termanology, Dj. Doo Wop, Junior Reid, Oun-P, Merkules, Wais P, Maino, Uncle Murda, PT Capone, Mike Cee, Royal Flush, Super Lover Cee, Page Kennedy, Rockness Monsta, Gunplay, Sadat X, Grand Puba, Lord Jamar, Sonja Blade, Coke La Rock, Greg Nice, Smooth B, Consequence, Millyz, Ot the Real, Ron Artest, Kaflow Kaboom, Tone Trump, Hocus 45th, Omar Epps, Bodega Bamz, Bynoe, Prince The King, Aobie, King Kirk, Big Dubez, Tony Moxberg, Styleon, Chuck D & Sauce Money)",43,6,track,album,Accolades,2021,0.576,0.978,0,-2.716,1,0.356,0.268,0.0,0.688,0.594,92.827,Rap
+345,1,163320,True,2gwkD6igEhQbDQegRCcdoB,False,True,Suge,73,2,track,album,Baby On Baby,2019,0.876,0.662,2,-6.482,0,0.426,0.0608,0.0,0.127,0.844,75.445,Rap
+346,1,174853,True,0t3ZvGKlmYmVsDzBJAXK8C,False,True,Goodbyes (feat. Young Thug),81,14,track,album,Hollywood's Bleeding,2019,0.548,0.653,5,-3.875,1,0.081,0.456,0.0,0.103,0.163,150.068,Rap
+347,1,228759,True,0FZ4Dmg8jJJAPJnvBIzD9z,False,True,ZEZE (feat. Travis Scott & Offset),77,5,track,album,Dying to Live,2018,0.861,0.603,8,-5.788,0,0.176,0.0521,0.0,0.0924,0.504,98.043,Rap
+348,1,205426,True,5ry2OE6R2zPQFDO85XkgRb,False,True,Money In The Grave (Drake ft. Rick Ross),78,2,track,single,The Best In The World Pack,2019,0.831,0.502,10,-4.045,0,0.046,0.101,0.0,0.122,0.101,100.541,Rap
+353,1,127934,False,0FzEq5yepkq03NI8axcOBu,False,True,"Save Me, Please",73,1,track,single,First Draft,2022,0.641,0.299,8,-10.046,1,0.0285,0.865,1.35e-06,0.126,0.561,143.121,Rap
+354,1,146470,False,4cacyP5c3PMlfnyjpg13xW,False,True,Betty (Get Money),88,1,track,single,Betty (Get Money),2022,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,Rap
+355,1,288624,True,2t8yVaLvJ0RenpXUIAC52d,False,True,a lot,81,1,track,album,i am > i was,2018,0.837,0.636,1,-7.643,1,0.086,0.0395,0.00125,0.342,0.274,145.972,Rap
+356,1,129264,True,5GBuCHuPKx6UC7VsSPK0t3,False,True,Thotiana,66,3,track,album,Famous Cryp,2018,0.906,0.382,10,-12.89,0,0.269,0.18,0.0,0.113,0.391,104.025,Rap
+357,1,166560,True,6uFn47ACjqYkc0jADwEdj1,False,True,Pop Out (feat. Lil Tjay),79,5,track,album,Die A Legend,2019,0.772,0.639,1,-7.119,1,0.467,0.15,0.0,0.0698,0.261,168.112,Rap
+358,1,204664,True,0QIjsbm2fh1cJ45XO9eGqq,False,True,Wake Up in the Sky,76,1,track,single,Wake Up in the Sky,2018,0.8,0.578,4,-5.144,0,0.0485,0.00381,0.0,0.359,0.367,143.01,Rap
+363,1,192470,True,3j84U36KvLeXNDPv4t5pI8,False,True,Pure Water (with Migos),76,2,track,album,Perfect Ten,2019,0.682,0.559,0,-5.545,1,0.127,0.174,0.0,0.344,0.137,202.015,Rap
+364,1,179449,True,3Ol2xnObFdKV9pmRD2t9x8,False,True,Look Back at It,74,11,track,album,Hoodie SZN,2018,0.791,0.587,3,-5.075,0,0.0413,0.407,0.0,0.148,0.536,96.057,Rap
+365,1,236703,True,2CzUlaKN1mvb0szagSR3ux,False,True,Fuck The World (Summer in London),72,4,track,album,Fuck The World,2020,0.679,0.281,3,-15.506,0,0.184,0.873,0.00335,0.215,0.234,74.996,Rap
+366,1,158332,True,3A2yGHWIzmGEIolwonU69h,False,True,Act Up,68,3,track,album,Girl Code,2018,0.938,0.638,8,-4.713,1,0.189,0.0167,0.0,0.111,0.313,97.075,Rap
+367,1,120133,True,7rvyVWja33WG9R97oeJAjx,False,True,Envy Me,70,1,track,album,Wildboy,2019,0.74,0.488,1,-7.664,0,0.27,0.234,0.0,0.241,0.584,149.042,Rap
+368,1,268434,True,7eBqSVxrzQZtK2mmgRG6lC,False,True,Murder On My Mind,79,13,track,album,I AM YOU,2018,0.759,0.73,0,-7.985,0,0.0516,0.145,3.06e-06,0.11,0.74,115.007,Rap
+369,1,195637,True,6V7g6qM8wheMivMWrzbPTM,False,True,Leave Me Alone,71,12,track,album,LOVE FOR GUALA,2019,0.792,0.743,7,-2.806,1,0.0851,0.107,0.0,0.183,0.742,150.024,Rap
+374,1,126446,True,5KBARWIxeMGkvUax9VtVC9,False,True,My Type,71,3,track,album,ICY,2019,0.899,0.811,2,-6.294,1,0.258,0.000677,0.0,0.0672,0.587,105.038,Rap
+375,1,153693,False,1qRA5BS78u3gME0loMl9AA,False,True,For What It's Worth,78,1,track,album,Buffalo Springfield,1966,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883,Rap
+376,1,189486,True,1wJRveJZLSb1rjhnUHQiv6,False,True,Swervin (feat. 6ix9ine),75,4,track,album,Hoodie SZN,2018,0.581,0.662,9,-5.239,1,0.303,0.0153,0.0,0.111,0.434,93.023,Rap
+377,2,231333,True,2LNMhZ3YijTO7USmqjgJfG,False,True,CLOUT COBAIN | CLOUT CO13A1N,66,5,track,album,TA13OO,2018,0.794,0.448,10,-4.771,0,0.0539,0.591,0.0,0.109,0.588,120.055,Rap
+378,1,199427,True,5N1o6d8zGcSZSeMFkOUQOk,False,True,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),69,1,track,single,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),2019,0.872,0.814,0,-4.568,1,0.155,0.00485,1.96e-06,0.214,0.57,98.985,Rap
+383,1,192539,True,2rMAtCaTj16NptyVfEIeAC,False,True,Cash Shit (feat. DaBaby),67,4,track,album,Fever,2019,0.921,0.635,1,-4.904,1,0.416,0.0218,0.0,0.0946,0.549,130.028,Rap
+384,1,203881,True,5nzhL67GpF9szXWg5y509A,False,True,Close Friends (Lil Baby & Gunna),75,11,track,album,Drip Harder,2018,0.676,0.578,10,-4.669,0,0.375,0.0509,0.0,0.0796,0.698,158.896,Rap
+385,1,299226,True,1kK6DwzyXJSp58u5HYWwuD,False,True,"Go Loko (feat. Tyga, Jon Z)",67,4,track,album,4REAL 4REAL,2019,0.88,0.67,2,-5.177,1,0.0468,0.325,4.17e-06,0.0662,0.131,101.008,Rap
+386,1,176631,True,5BJMeoCXXgbRAWfp6fTulr,False,True,Shotta Flow (feat. Blueface) [Remix],72,9,track,album,Cottonwood,2019,0.894,0.511,2,-4.768,1,0.421,0.0251,0.0,0.14,0.567,120.077,Rap
+387,1,194184,True,3wScL5W8H40zzCKN0atfBk,False,True,Uproar,68,4,track,album,Tha Carter V,2018,0.743,0.87,1,-2.188,1,0.212,0.0595,0.0,0.299,0.884,99.079,Rap
+388,1,240050,True,6iaSML1PIYq936g62BDtBq,False,True,Robbery,83,8,track,album,Death Race For Love (Bonus Track Version),2019,0.623,0.692,2,-5.122,1,0.0504,0.328,0.0,0.153,0.566,79.899,Rap
+389,1,202226,False,760jhRscwGbIIe1m1IIQpU,False,True,Surface Pressure,77,3,track,album,Encanto (Original Motion Picture Soundtrack),2021,0.65,0.584,2,-8.286,1,0.307,0.0174,1.54e-06,0.042,0.37,180.088,Rap
+390,1,190466,True,0PpfPNtQOOvbMNVJijTQj0,False,True,Backin' It Up (feat. Cardi B),58,1,track,single,Backin' It Up (feat. Cardi B),2018,0.796,0.68,10,-4.853,0,0.353,0.0886,0.0,0.268,0.565,164.932,Rap
+391,1,139311,True,29Z5qdYEYNFxly8n6Dt7kp,False,True,Money Twërk,69,16,track,album,4L,2021,0.8,0.611,8,-6.164,0,0.131,0.0169,0.0,0.0884,0.161,130.987,Rap
+392,1,191822,True,1PckUlxKqWQs3RlWXVBLw3,False,True,About Damn Time,90,1,track,single,About Damn Time,2022,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,Rap
+393,1,230400,True,6vWEAOUSxohKxhp0K1BsxL,False,True,Mixed Personalities (feat. Kanye West),71,9,track,album,We All Shine,2019,0.661,0.44,2,-9.104,1,0.0803,0.457,0.0,0.128,0.352,149.937,Rap
+394,1,198973,True,6DCZcSspjsKoFjzjrWoCdn,False,True,God's Plan,84,5,track,album,Scorpion,2018,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,Rap
+395,1,163311,False,6VVqPBFZIbcmv14zNfOc13,False,True,She Likes It (feat. Jake Scott),77,1,track,single,She Likes It (feat. Jake Scott),2021,0.79,0.325,4,-11.689,1,0.127,0.509,0.0,0.155,0.539,126.877,Rap
+396,2,217925,True,2G7V7zsVDxg1yRsu7Ew9RJ,False,True,In My Feelings,77,9,track,album,Scorpion,2018,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,Rap
+397,1,221440,True,3swc6WTsr7rl9DqQKQA55C,False,True,Psycho (feat. Ty Dolla $ign),79,8,track,album,beerbongs & bentleys,2018,0.75,0.56,8,-8.094,1,0.105,0.546,0.0,0.111,0.459,140.06,Rap
+398,2,210746,True,3CA9pLiwRIGtUBiMjbZmRw,False,True,Nice For What,79,4,track,album,Scorpion,2018,0.585,0.909,8,-6.474,1,0.0707,0.0891,9.7e-05,0.119,0.758,93.372,Rap
+399,1,181263,True,4qKcDkK6siZ7Jp1Jb4m0aL,False,True,Look Alive (feat. Drake),75,1,track,single,Look Alive (feat. Drake),2018,0.922,0.581,10,-7.495,1,0.27,0.00104,5.86e-05,0.105,0.595,140.022,Rap
+400,1,142273,True,6vN77lE9LK6HP2DewaN6HZ,False,True,Yes Indeed,83,5,track,album,Harder Than Ever,2018,0.963,0.346,5,-9.309,0,0.53,0.0355,0.0,0.108,0.562,119.957,Rap
+401,1,166605,True,3ee8Jmje8o58CHK66QrVC2,False,True,SAD!,83,4,track,album,?,2018,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,Rap
+402,1,232959,True,5IaHrVsrferBYDm0bDyABy,False,True,Taste (feat. Offset),74,1,track,single,Taste (feat. Offset),2018,0.884,0.559,0,-7.442,1,0.12,0.0236,0.0,0.101,0.342,97.994,Rap
+403,1,179404,True,1M6SuEJZJkZf2S419vIPkB,False,True,FEFE,72,2,track,album,DUMMY BOY,2018,0.931,0.387,1,-9.127,1,0.412,0.088,0.0,0.136,0.375,125.978,Rap
+404,1,303076,True,4wFjTWCunQFKtukqrNijEt,False,True,MotorSport,73,17,track,album,Culture II,2018,0.904,0.518,2,-5.32,1,0.183,0.0305,0.0,0.325,0.188,137.996,Rap
+405,1,212120,False,52okn5MNA47tk87PeZJLEL,False,True,Let You Down,80,6,track,album,Perception,2017,0.662,0.714,5,-5.68,0,0.121,0.312,0.0,0.179,0.464,147.997,Rap
+406,1,245386,True,2DQ1ITjI0YoLFzuADN1ZBW,False,True,No Limit,72,7,track,album,The Beautiful & Damned,2017,0.838,0.771,1,-3.791,1,0.244,0.0117,0.0,0.0853,0.405,175.957,Rap
+411,1,268866,True,5k38wzpLb15YgncyWdTZE4,False,True,Him & I (with Halsey),79,3,track,album,The Beautiful & Damned,2017,0.589,0.731,2,-6.343,1,0.0868,0.0534,0.0,0.308,0.191,87.908,Rap
+412,1,276147,True,6n4U3TlzUGhdSFbUUhTvLP,False,True,Walk It Talk It,76,6,track,album,Culture II,2018,0.907,0.633,2,-5.145,1,0.184,0.0876,2.6e-06,0.106,0.395,145.914,Rap
+413,1,190288,True,2UVbBKQOdFAekPTRsnkzcf,False,True,Stir Fry,77,9,track,album,Culture II,2018,0.817,0.816,2,-5.402,1,0.269,0.00263,0.0,0.159,0.508,181.982,Rap
+414,1,238614,True,0TlLq3lA83rQOYtrqBqSct,False,True,Nonstop,79,2,track,album,Scorpion,2018,0.912,0.412,7,-8.074,1,0.123,0.0165,0.0126,0.104,0.423,154.983,Rap
+415,1,223346,True,75ZvA4QfFiZvzhj2xkaWAh,False,True,I Fall Apart,80,7,track,album,Stoney (Deluxe),2016,0.556,0.538,8,-5.408,0,0.0382,0.0689,0.0,0.196,0.291,143.95,Rap
+416,1,157643,True,4HbiCvH1R7mVOJ7KY7JQBD,False,True,GUMMO,63,2,track,album,Day69: Graduation Day,2018,0.66,0.775,2,-4.926,1,0.172,0.0553,0.0,0.129,0.635,157.036,Rap
+417,1,172800,True,7sO5G9EABYOXQKNPNiE9NR,False,True,Ric Flair Drip (with Metro Boomin),82,3,track,album,Without Warning,2017,0.88,0.428,9,-8.28,1,0.206,0.149,5.05e-05,0.114,0.333,100.007,Rap
+418,1,225773,True,0b9oOr2ZgvyQu88wzixux9,False,True,This Is America,71,1,track,single,This Is America,2018,0.854,0.463,5,-6.159,1,0.137,0.117,0.0,0.354,0.549,120.024,Rap
+419,1,175229,True,1ZAyjvIk9YiD76yYy0TEG6,False,True,Plug Walk,72,5,track,album,The World Is Yours,2018,0.876,0.519,11,-6.531,1,0.143,0.202,0.0,0.108,0.158,94.981,Rap
+420,1,210787,True,2Yl4OmDby9iitgNWZPwxkd,False,True,Be Careful,69,5,track,album,Invasion of Privacy,2018,0.82,0.568,6,-8.23,0,0.411,0.0256,0.0,0.0952,0.535,152.279,Rap
+425,1,224284,True,0dIoGTQXDh1wVnhIiSyYEa,False,True,Bartier Cardi (feat. 21 Savage),67,10,track,album,Invasion of Privacy,2018,0.908,0.524,1,-7.955,1,0.181,0.00111,0.000678,0.383,0.109,138.015,Rap
+426,1,237240,True,0ZNrc4kNeQYD9koZ3KvCsy,False,True,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",68,7,track,album,STAY DANGEROUS,2018,0.745,0.346,1,-7.709,1,0.331,0.00552,0.0,0.0881,0.112,203.911,Rap
+427,1,173600,True,4dVpf9jZjcORqGTLUaeYj9,False,True,Plain Jane,75,8,track,album,Still Striving,2017,0.797,0.844,11,-5.482,1,0.275,0.0651,0.0,0.087,0.52,170.142,Rap
+436,1,135090,True,0JP9xo3adEtGSdUEISiszL,False,True,Moonlight,83,3,track,album,?,2018,0.921,0.537,9,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,Rap
+437,1,154909,True,0y5zzV2ZOS51g38RIIYyvF,False,True,I’m upset,0,2,track,album,Verse CyX,2022,0.656,0.622,5,-8.984,1,0.0838,0.216,1.13e-06,0.112,0.549,109.92,Rap
+438,1,229670,True,51rXHuKN8Loc4sUlKPODgH,False,True,"King's Dead (with Kendrick Lamar, Future & James Blake)",72,1,track,single,"King's Dead (with Kendrick Lamar, Future & James Blake)",2018,0.645,0.705,1,-5.008,1,0.299,0.000813,0.0,0.128,0.376,137.133,Rap
+443,1,129105,True,3sA7HKGzcKTVscdiTCrWpX,False,True,Outside Today,68,4,track,album,Until Death Call My Name (Reloaded),2018,0.851,0.666,11,-5.334,0,0.0694,0.139,0.0,0.105,0.0585,134.068,Rap
+444,1,206400,True,2wGSgTmgSF3xjRrHkTc25R,False,True,Hate It Or Love It,83,4,track,album,The Documentary,2005,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,Rap
+445,1,191600,True,1e4rwBPVI32vZtTJu7mJ4J,False,True,Chun-Li,72,10,track,album,Queen,2018,0.686,0.73,6,-5.077,0,0.374,0.278,4.76e-05,0.106,0.474,128.943,Rap
+446,1,284000,False,3nzXs8ynjIwQvmxjogvCYx,False,True,Rivers and Roads,70,5,track,album,The Head And The Heart,2011,0.501,0.178,0,-9.764,1,0.0343,0.697,5.33e-05,0.0761,0.18,131.141,Rap
+447,1,332300,True,1BuZAIO8WZpavWVbbq3Lci,False,True,Powerglide (feat. Juicy J) - From SR3MM,67,7,track,album,SR3MM,2018,0.713,0.831,1,-4.75,0,0.15,0.0168,0.0,0.118,0.584,173.948,Rap
+448,1,301828,False,5Ek9NwB6PD3QNCDdSUJK5x,False,True,The Great Apes,60,6,track,album,Unlimited Love,2022,0.528,0.882,9,-5.146,0,0.0842,0.0196,0.000226,0.146,0.463,140.722,Rap
+453,1,240506,False,2Za1AlJNvksouPPWbXpR2X,False,True,Good Old Days (feat. Kesha),71,6,track,album,GEMINI,2017,0.712,0.51,8,-8.162,1,0.0633,0.446,2.46e-05,0.112,0.268,122.964,Rap
+458,1,177000,True,7KXjTSCq5nL1LoYtL7XAwS,False,True,HUMBLE.,84,8,track,album,DAMN.,2017,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,Rap
+459,1,150073,True,7EHOorGNbnzDGmJDFVOhcJ,False,True,I’m The One,64,12,track,album,Realer 2,2022,0.883,0.575,1,-7.293,1,0.173,0.0456,0.0,0.117,0.321,128.045,Rap
+460,1,343150,True,0M9ydKzuF3oZTfYYPfaGX1,False,True,Bad and Boujee (feat. Lil Uzi Vert),75,4,track,album,Culture,2017,0.926,0.666,11,-5.314,1,0.244,0.0611,0.0,0.123,0.168,127.079,Rap
+461,1,233901,True,3B54sVLJ402zGa6Xm4YGNe,False,True,Unforgettable,82,2,track,album,Jungle Rules,2017,0.726,0.769,6,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,Rap
+462,1,220293,True,3a1lNhkSLSkpJE4MSHpDu9,False,True,Congratulations,83,12,track,album,Stoney (Deluxe),2016,0.63,0.804,6,-4.183,1,0.0363,0.215,0.0,0.253,0.492,123.146,Rap
+463,1,204600,True,0VgkVdmE4gld66l8iyGjgx,False,True,Mask Off,83,7,track,album,FUTURE,2017,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,Rap
+464,1,182706,True,7GX5flRQZVHRAGd6B4TmDO,False,True,XO Tour Llif3,83,16,track,album,Luv Is Rage 2,2017,0.732,0.75,11,-6.366,0,0.231,0.00264,0.0,0.109,0.401,155.096,Rap
+469,1,253106,True,2EEeOnHehOozLq4aS0n6SL,False,True,iSpy (feat. Lil Yachty),72,1,track,single,iSpy (feat. Lil Yachty),2016,0.746,0.653,7,-6.745,1,0.289,0.378,0.0,0.229,0.672,75.016,Rap
+470,1,250173,True,5tz69p7tJuGPeMGwNTxYuV,False,True,1-800-273-8255,78,10,track,album,Everybody,2017,0.62,0.574,5,-7.788,0,0.0479,0.569,0.0,0.19,0.357,100.023,Rap
+471,1,210937,True,343YBumqHu19cGoGARUTsd,False,True,Fake Love,75,20,track,album,More Life,2017,0.928,0.481,9,-9.35,0,0.287,0.105,0.0,0.176,0.613,134.007,Rap
+472,1,222360,True,0SGkqnVQo9KPytSri1H6cF,False,True,Bounce Back,71,3,track,album,I Decided.,2017,0.78,0.575,1,-5.628,0,0.139,0.106,0.0,0.129,0.273,81.502,Rap
+473,1,239293,False,1PSBzsahR2AKwLJgx8ehBj,False,True,Bad Things (with Camila Cabello),73,10,track,album,bloom,2017,0.697,0.691,2,-4.757,1,0.146,0.214,0.0,0.185,0.305,137.853,Rap
+474,1,242407,True,1rkfJLgTlB6XYNjgZ0sVaK,False,True,T-Shirt,67,2,track,album,Culture,2017,0.865,0.687,10,-3.744,0,0.217,0.242,0.0,0.158,0.486,139.023,Rap
+475,1,276333,True,4knL4iPxPOZjQzTUlELGSY,False,True,Rake It Up (feat. Nicki Minaj),67,4,track,album,I Still Am,2017,0.91,0.444,1,-8.126,0,0.344,0.022,0.0,0.137,0.53,149.953,Rap
+476,1,268186,True,4Q3N4Ct4zCuIHuZ65E3BD4,False,True,Tunnel Vision,74,10,track,album,Painting Pictures,2017,0.497,0.489,11,-7.724,0,0.294,0.0576,9.91e-05,0.122,0.231,171.853,Rap
+477,1,179866,False,2jaNHcSRgPvtMXu5rboE7T,False,True,Rolex® On A Redneck,67,1,track,single,Rolex® On A Redneck,2022,0.651,0.793,7,-4.571,1,0.0311,0.309,0.0,0.371,0.381,130.012,Rap
+478,1,185946,True,6HZILIRieu8S0iqY8kIKhj,False,True,DNA.,80,2,track,album,DAMN.,2017,0.638,0.523,1,-6.664,1,0.357,0.00454,0.0,0.0842,0.422,139.913,Rap
+483,1,227360,True,6SwRhMLwNqEi6alNPVG00n,False,True,LOYALTY. FEAT. RIHANNA.,74,6,track,album,DAMN.,2017,0.658,0.535,9,-8.983,0,0.0573,0.0265,0.0,0.2,0.419,110.684,Rap
+484,1,208120,True,6mapJIPnQ23RTAevUoE0DL,False,True,Swang,77,13,track,album,SremmLife 2 (Deluxe),2016,0.681,0.314,8,-9.319,1,0.0581,0.2,9.82e-06,0.1,0.166,139.992,Rap
+485,1,190311,True,5tFep7dXGd7vEJ668wTPux,False,True,Both (feat. Drake),69,4,track,album,The Return of East Atlanta Santa,2016,0.85,0.405,7,-7.509,0,0.225,0.119,0.000118,0.0707,0.344,139.976,Rap
+490,1,209269,True,1f5cbQtDrykjarZVrShaDI,False,True,Drowning (feat. Kodak Black),79,3,track,album,The Bigger Artist,2017,0.839,0.81,5,-5.274,0,0.0568,0.501,0.0,0.117,0.814,129.014,Rap
+491,1,304041,True,0TBgMKD86t1VP3IzhxCoUl,False,True,Slippery (feat. Gucci Mane),70,6,track,album,Culture,2017,0.92,0.675,1,-5.661,0,0.263,0.307,0.0,0.104,0.749,141.967,Rap
+492,1,181812,True,1e1JKLEDKP7hEQzJfNAgPl,False,True,Magnolia,79,2,track,album,Playboi Carti,2017,0.791,0.582,11,-7.323,0,0.286,0.0114,0.0,0.35,0.443,162.991,Rap
+493,1,126345,True,7floNISpH8VF4z4459Qo18,False,True,Look At Me!,82,1,track,single,Look At Me!,2017,0.763,0.726,1,-6.405,1,0.282,0.259,0.0,0.0976,0.349,139.059,Rap
+494,1,197170,True,3J8Q6aBhjpvao8BsBQ6H9Y,False,True,Everyday We Lit (feat. PnB Rock),64,6,track,album,Long Live Nut,2017,0.758,0.646,7,-4.701,1,0.113,0.128,0.0,0.0776,0.589,155.949,Rap
+495,1,176702,True,15EPc80XuFrb2LmOzGjuRg,False,True,Crew (feat. Brent Faiyaz & Shy Glizzy),76,10,track,album,At What Cost,2017,0.728,0.607,1,-8.417,0,0.132,0.133,0.0,0.0864,0.445,129.938,Rap
+496,1,190557,False,2cYqizR4lgvp4Qu6IQ3qGN,False,True,BUTTERFLY EFFECT,79,15,track,album,ASTROWORLD,2018,0.763,0.628,11,-5.85,1,0.05,0.0531,0.0,0.114,0.193,140.958,Rap
+497,1,215506,True,6HU7h9RYOaPRFeh0R3UeAr,False,True,deja vu,88,5,track,album,SOUR,2021,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,Rap
+498,1,210200,True,6H0AwSQ20mo62jGlPGB8S6,False,True,It's A Vibe,70,9,track,album,Pretty Girls Like Trap Music,2017,0.822,0.502,7,-7.38,1,0.148,0.0312,0.000887,0.114,0.525,73.003,Rap
+499,1,236614,True,2bjwRfXMk4uRgOD9IBYl9h,False,True,Portland,72,11,track,album,More Life,2017,0.925,0.443,1,-8.216,1,0.264,0.0172,0.0,0.276,0.35,136.078,Rap
+504,1,268480,True,63p3Slj0shAFP0Q7dQetj5,False,True,Used To,59,11,track,album,If You're Reading This It's Too Late,2015,0.926,0.427,10,-7.584,0,0.105,0.0703,0.000337,0.0818,0.304,96.025,Rap
+505,1,140000,True,3wGXyJGsCf1myH5MooQIqE,False,True,The Race,73,1,track,album,#SantanaWorld (+),2017,0.766,0.606,9,-6.064,1,0.456,0.00266,0.0,0.166,0.352,160.223,Rap
+506,1,254693,True,3muBQDekYAg7jm6hDu6R0Z,False,True,First Day Out,73,2,track,album,My Moment,2017,0.587,0.711,1,-6.33,1,0.42,0.171,0.0,0.125,0.381,98.008,Rap
+507,1,243836,True,6gBFPUFcJLzWGx4lenP6h2,False,True,goosebumps,85,9,track,album,Birds In The Trap Sing McKnight,2016,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,0.43,130.049,Rap
+508,1,235040,True,4gmmRb6bZJffOOiww1JGTO,False,True,No Heart,74,2,track,album,Savage Mode,2016,0.906,0.444,4,-8.692,0,0.384,0.136,6.44e-05,0.173,0.678,140.063,Rap
+509,1,160656,False,6f5ExP43esnvdKPddwKXJH,False,True,Better Days (NEIKED x Mae Muller x Polo G),83,1,track,single,Better Days (NEIKED x Mae Muller x Polo G),2021,0.717,0.671,0,-5.077,0,0.0337,0.0018,2.54e-06,0.0921,0.699,110.054,Rap
+510,1,324422,False,6UBjSnyP1O5W5ndJoO9vUk,False,True,Night Moves,72,2,track,album,Night Moves,1976,0.705,0.743,1,-6.631,1,0.042,0.432,0.0133,0.103,0.374,118.552,Rap
+515,1,247866,True,275a9yzwGB6ncAW4SxY7q3,False,True,Panda,68,1,track,single,Panda,2016,0.685,0.731,10,-5.503,0,0.414,0.0292,0.0,0.369,0.266,145.245,Rap
+516,1,251466,True,40YcuQysJ0KlGQTeGUosTC,False,True,"Me, Myself & I",78,3,track,album,When It's Dark Out,2015,0.756,0.674,0,-6.518,0,0.0959,0.0184,0.0,0.158,0.389,111.995,Rap
+521,1,201000,False,3VlbOrM6nYPprVvzBZllE5,False,True,Too Good At Goodbyes,76,1,track,album,The Thrill Of It All (Special Edition),2017,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,Rap
+522,1,225205,True,0qy5D3OJre7SPJNMOL9I71,False,True,Broccoli,68,1,track,single,Broccoli,2016,0.886,0.525,8,-7.39,1,0.132,0.236,0.0,0.057,0.708,145.99,Rap
+527,1,216460,False,6SLT0rM0J1CvqmTjFr7wMO,False,True,Don’t Tread On Me,51,18,track,album,Servant Of The Mind (Deluxe),2021,0.561,0.921,0,-6.876,1,0.0495,2.78e-05,0.00129,0.249,0.591,125.033,Rap
+528,1,313546,True,7EiZI6JVHllARrX9PUvAdX,False,True,Low Life (feat. The Weeknd),75,10,track,album,EVOL,2016,0.722,0.331,8,-7.789,1,0.0726,0.337,0.282,0.146,0.102,143.961,Rap
+529,1,183695,True,5TqBAOIBe0bQA0spNdcG3k,False,True,For Free (feat. Drake),58,2,track,album,Major Key,2016,0.916,0.571,10,-8.241,0,0.2,0.0173,1.11e-06,0.153,0.498,103.521,Rap
+530,1,240000,True,0wdKiSBUT7aZkXUIdJWcwC,False,True,2 Phones,69,3,track,album,Islah (Deluxe),2016,0.895,0.681,7,-5.267,0,0.358,0.157,0.0,0.189,0.554,121.918,Rap
+531,1,243490,True,4dASQiO1Eoo3RJvt74FtXB,False,True,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",78,1,track,single,Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors),2016,0.502,0.786,9,-4.378,0,0.317,0.255,0.0,0.65,0.739,169.021,Rap
+532,1,259072,True,5w1vhNA2OEWUQ371QzyMmM,False,True,Down In the DM (feat. Nicki Minaj) - Remix,60,15,track,album,The Art of Hustle (Deluxe),2016,0.791,0.634,1,-7.684,0,0.0639,0.00243,5.43e-05,0.0812,0.323,152.961,Rap
+537,1,212946,True,5mPSyjLatqB00IkPqRlbTE,False,True,Pop Style,64,15,track,album,Views,2016,0.713,0.462,7,-10.027,1,0.123,0.192,2.16e-06,0.105,0.0594,133.053,Rap
+542,1,191942,True,61QSuw5VlC0LTS8WMO356g,False,True,All The Way Up (feat. Infared),66,1,track,single,All The Way Up (feat. Infared),2016,0.536,0.721,10,-6.44,0,0.386,0.062,0.0,0.824,0.393,117.139,Rap
+547,1,222600,True,376KnY4TrgBITxjlnbnmIy,False,True,Cut It (feat. Young Dolph),60,1,track,single,Cut It (feat. Young Dolph),2015,0.875,0.673,7,-4.184,1,0.0932,0.135,0.0,0.292,0.231,130.0,Rap
+548,1,175493,False,3Pzh926pXggbMe2ZpXyMV7,False,True,Ain't No Rest for the Wicked,74,3,track,album,Cage The Elephant (Expanded Edition),2009,0.636,0.849,0,-7.075,1,0.106,0.0438,0.0,0.372,0.917,156.036,Rap
+549,1,239853,True,3NJG6vMH1ZsectZkocMEm0,False,True,Tiimmy Turner,70,1,track,single,Tiimmy Turner,2016,0.603,0.725,6,-3.054,1,0.0393,0.174,0.0,0.0786,0.304,122.803,Rap
+550,1,246652,False,7mykoq6R3BArsSpNDjFQTm,False,True,I Really Want to Stay at Your House,86,5,track,compilation,"Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",2020,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,Rap
+551,1,202450,True,17Q87zeXgsAi9iQQbMu9v0,False,True,Summer Sixteen,59,1,track,single,Summer Sixteen,2016,0.594,0.46,1,-7.607,1,0.382,0.00354,2.71e-05,0.147,0.0541,146.274,Rap
+552,1,228706,False,3XVBdLihbNbxUwZosxcGuJ,False,True,If I Ain't Got You,81,6,track,album,The Diary Of Alicia Keys,2003,0.609,0.444,7,-9.129,1,0.106,0.603,6.86e-06,0.104,0.166,118.402,Rap
+553,1,198944,True,0B8QzDH7YWih85V5SEMnyJ,False,True,Money Longer,75,3,track,album,Lil Uzi Vert vs. The World,2016,0.795,0.568,5,-7.817,0,0.142,0.0541,0.0,0.108,0.478,136.173,Rap
+554,1,153428,True,7zBPzAjKAqQpcv8F8GCq5s,False,True,Uber Everywhere,60,1,track,single,Uber Everywhere,2016,0.779,0.455,1,-15.025,1,0.28,0.0542,0.0,0.177,0.197,140.181,Rap
+555,1,304606,True,0v9Wz8o0BT8DU38R4ddjeH,False,True,No Problem (feat. Lil Wayne & 2 Chainz),68,2,track,album,Coloring Book,2016,0.652,0.795,11,-5.192,0,0.174,0.156,0.0,0.123,0.788,135.018,Rap
+556,1,190186,False,5HGibWoxnkYSkl6mHmAlOE,False,True,That's My Kind Of Night,73,1,track,album,Crash My Party,2013,0.661,0.751,7,-2.909,1,0.0481,0.0571,0.0,0.105,0.875,109.995,Rap
+557,1,135920,True,4KW1lqgSr8TKrvBII0Brf8,False,True,Father Stretch My Hands Pt. 1,83,2,track,album,The Life Of Pablo,2016,0.724,0.573,7,-4.113,1,0.0549,0.118,0.0,0.538,0.438,113.088,Rap
+567,1,97685,False,6OXJL2HaygePLxP2ICvVh0,False,True,"i don't like it, you're not the same",64,1,track,single,"i don't like it, you're not the same",2019,0.533,0.168,11,-13.329,0,0.0472,0.422,0.39,0.135,0.074,114.757,Rap
+572,1,252256,True,20dP2DaMHIAmwWAbp7peSr,False,True,pick up the phone,72,11,track,album,Birds In The Trap Sing McKnight,2016,0.711,0.739,7,-3.804,0,0.129,0.114,0.0,0.226,0.43,136.919,Rap
+573,1,236866,True,2Fe6gDE0mCZz0g98i5QpVL,False,True,MY PYT,51,12,track,album,Shine,2017,0.554,0.481,0,-9.823,1,0.329,0.0139,0.0,0.0787,0.456,191.991,Rap
+574,1,217706,True,7jslhIiELQkgW9IHeYNOWE,False,True,Big Rings,61,2,track,album,What A Time To Be Alive,2015,0.776,0.675,8,-6.224,0,0.266,0.00196,0.0,0.227,0.27,131.984,Rap
+575,1,224213,True,5e9aFSdnkQUrm5y8Dhw0qN,False,True,Might Not,71,3,track,album,Up For Days,2015,0.792,0.563,1,-4.836,1,0.0787,0.318,0.0,0.13,0.321,134.022,Rap
+580,1,247426,False,0nrRP2bk19rLc0orkWPQk2,False,True,Wake Me Up,86,1,track,album,True,2013,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,Rap
+581,1,241400,True,3NxAG2ni1lLa8RKL6a0INc,False,True,Childs Play,69,14,track,album,Views,2016,0.746,0.475,10,-11.243,0,0.113,0.0175,1.1e-05,0.197,0.292,80.006,Rap
+582,1,192772,True,7IAa7vUJ11STN7le8XaxsH,False,True,WTF (Where They From) [feat. Pharrell Williams],52,1,track,single,WTF (Where They From) [feat. Pharrell Williams],2015,0.932,0.819,8,-3.484,0,0.203,0.0181,6.81e-06,0.0577,0.556,119.941,Rap
+583,1,219466,False,4XNrMwGx1SqP01sqkGTDmo,False,True,One More Night,72,1,track,album,Overexposed (Deluxe),2012,0.718,0.82,5,-3.453,0,0.0323,0.0444,0.0,0.0846,0.613,92.998,Rap
+584,1,186480,True,7lRlq939cDG4SzWOF4VAnd,False,True,I'm Not Okay (I Promise),77,5,track,album,Three Cheers for Sweet Revenge,2004,0.21,0.94,9,-3.427,1,0.123,0.00602,0.0,0.269,0.255,179.722,Rap
+585,1,181739,True,46IdjlVO3EmaMqooXZ1Hcu,False,True,"Wat U Mean (Aye, Aye, Aye)",53,1,track,single,"Wat U Mean (Aye, Aye, Aye)",2016,0.923,0.599,6,-4.888,1,0.238,0.07,1.23e-06,0.0951,0.667,138.024,Rap
+586,1,179026,False,0a4MMyCrzT0En247IhqZbD,False,True,Hype Boy,88,2,track,single,NewJeans 1st EP 'New Jeans',2022,0.593,0.935,4,-3.43,0,0.225,0.268,0.0,0.286,0.783,99.976,Rap
+587,1,265600,True,6o2g1BJvtYQssH84kBYs7y,False,True,Back That Azz Up,67,13,track,album,400 Degreez,1998,0.874,0.714,7,-6.664,1,0.129,0.0155,0.0,0.0968,0.541,95.826,Rap
+588,1,222093,True,2d8JP84HNLKhmd6IYOoupQ,False,True,Trap Queen,75,1,track,album,Fetty Wap (Deluxe),2015,0.746,0.873,7,-3.803,1,0.128,0.0244,0.0,0.354,0.817,148.075,Rap
+589,1,177523,False,7eB1V5LvAdxCc7brfGhRRo,False,True,watch,79,4,track,single,dont smile at me,2017,0.441,0.599,0,-8.985,1,0.225,0.333,0.00198,0.103,0.35,165.212,Rap
+590,1,229360,True,2bJvI42r8EF3wxjOuDav4r,False,True,Time of Our Lives,81,4,track,album,Globalization,2014,0.721,0.802,1,-5.797,1,0.0583,0.0921,0.0,0.694,0.724,124.022,Rap
+591,1,52114,False,5BDTkNm8D43uQPIBaHxZ1O,False,True,G.D.F.R.,45,1,track,single,G.D.F.R.,2014,0.595,0.793,4,-8.685,1,0.0617,0.897,0.598,0.0753,0.975,74.905,Rap
+592,1,272973,True,2gSVKxPDww9Eep5rdvtdem,False,True,My Way,74,5,track,album,Chocolate Starfish And The Hot Dog Flavored Water,2000,0.576,0.864,6,-3.981,1,0.0462,0.02,1.68e-06,0.683,0.609,97.225,Rap
+593,1,142212,True,0PT7nlpo11hYYyfnBgtilT,False,True,Nasty Freestyle,63,1,track,single,Nasty Freestyle,2015,0.779,0.472,11,-7.116,1,0.218,0.0577,0.0,0.114,0.412,135.051,Rap
+598,1,176744,True,4T0ScSPdQKmGvruK7pavNP,False,True,"Flex (Ooh, Ooh, Ooh)",65,1,track,single,"Flex (Ooh, Ooh, Ooh) - Single",2015,0.726,0.607,2,-7.68,1,0.0498,0.0389,0.0,0.19,0.891,81.997,Rap
+599,1,220466,True,7e44z4wOjkllaD8eulUeMd,False,True,Truffle Butter,67,20,track,album,The Pinkprint (Deluxe Edition),2014,0.89,0.667,2,-6.862,1,0.0521,0.0579,2.97e-05,0.108,0.522,105.099,Rap
+600,1,223973,True,0hy1SOTEn9ifXTzOwnCwEr,False,True,All Eyes on You (feat. Chris Brown & Nicki Minaj),69,4,track,album,Dreams Worth More Than Money,2015,0.589,0.658,11,-5.288,0,0.203,0.0242,0.0,0.118,0.251,77.521,Rap
+601,1,252040,True,1bzM1cd6oqFozdr4wK6HdR,False,True,Blessings,64,2,track,album,Dark Sky Paradise,2015,0.79,0.621,1,-7.634,1,0.275,0.333,0.0,0.122,0.15,118.895,Rap
+606,1,196412,False,6VrQTLzzuyGIYjUDe4kAZk,False,True,Un Coco,88,18,track,album,Un Verano Sin Ti,2022,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,Rap
+607,1,292593,True,5pfJsMwoRYKampPay8amX0,False,True,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",68,2,track,album,This Unruly Mess I've Made,2016,0.828,0.609,1,-4.402,1,0.0694,0.0916,1.21e-06,0.291,0.707,109.725,Rap
+608,1,173182,True,6Zu3aw7FfjAF9WA0fA81Oq,False,True,Big Energy,78,1,track,single,Big Energy,2021,0.935,0.807,11,-3.838,0,0.114,0.0514,0.0,0.349,0.813,106.017,Rap
+609,1,260453,True,5uqphUYsR45kPYplrYSAQh,False,True,Throw Sum Mo,65,8,track,album,SremmLife,2015,0.859,0.627,6,-7.91,0,0.13,0.0388,0.000202,0.101,0.594,142.062,Rap
+610,1,161840,False,01z2fBGB8Hl3Jd3zXe4IXR,False,True,Come Back to Earth,74,1,track,album,Swimming,2018,0.272,0.238,2,-12.148,0,0.0349,0.89,0.00925,0.275,0.119,83.507,Rap
+611,1,192606,True,2qGfZAgDe1pV2y5xJAhi6R,False,True,Slime Belief,68,2,track,album,Realer,2018,0.748,0.578,9,-5.72,1,0.194,0.257,0.0,0.13,0.166,140.016,Rap
+612,1,237840,True,5fyIGoaaKelzdyW8ELhYJZ,False,True,Feeling Myself,66,5,track,album,The Pinkprint (Deluxe),2014,0.564,0.703,2,-5.459,1,0.269,0.437,0.00927,0.358,0.477,139.045,Rap
+613,1,227560,True,4bBrKDo8rchikwZOtmXbIH,False,True,The Night Is Still Young,66,13,track,album,The Pinkprint (Deluxe),2014,0.656,0.692,1,-6.145,0,0.0563,0.00212,0.00305,0.128,0.693,128.016,Rap
+618,1,188059,True,60PTOzcoFycWBICdumIsFQ,False,True,FOR FUN,76,2,track,single,RED & WHITE,2022,0.775,0.461,7,-6.594,0,0.124,0.157,0.0,0.0687,0.131,134.028,Rap
+619,1,237400,True,49zD0wr2S3d0lZPib0K4e1,False,True,F*ck Up Some Commas,66,18,track,album,DS2 (Deluxe),2015,0.874,0.568,11,-5.896,0,0.224,0.0698,1.38e-05,0.149,0.46,139.995,Rap
+620,1,275840,True,5InOp6q2vvx0fShv3bzFLZ,False,True,Know Yourself,69,4,track,album,If You're Reading This It's Too Late,2015,0.72,0.412,11,-8.687,0,0.223,0.196,0.0,0.342,0.179,114.408,Rap
+621,1,224773,False,3ugAI8vlmz6y4T9BlKhytz,False,True,Beg For It,54,17,track,album,F.A.M.E. (Expanded Edition),2011,0.479,0.433,0,-6.878,0,0.0455,0.164,0.0,0.0739,0.324,58.396,Rap
+622,1,209093,False,1KHKeIouP04dDtl0EetgED,False,True,The Downfall Of Us All,70,1,track,album,Homesick,2009,0.588,0.881,0,-4.62,1,0.0666,0.000252,0.0,0.326,0.709,129.947,Rap
+623,1,206306,True,4jTiyLlOJVJj3mCr7yfPQD,False,True,This Could Be Us,79,5,track,album,SremmLife,2015,0.732,0.69,0,-4.992,0,0.134,0.291,0.0,0.116,0.758,143.072,Rap
+624,1,224258,False,2S5LNtRVRPbXk01yRQ14sZ,False,True,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",68,3,track,album,My House,2015,0.854,0.766,9,-4.697,0,0.141,0.0242,0.0,0.0793,0.784,118.004,Rap
+625,1,236818,True,0biVzpdI2z0vAxwfU9xuuA,False,True,Too Comfortable,69,13,track,album,High Off Life,2020,0.935,0.472,3,-9.304,0,0.0575,0.0455,0.0,0.19,0.659,130.041,Rap
+626,1,195097,False,7kt9e9LFSpN1zQtYEl19o1,False,True,this is me trying,75,9,track,album,folklore,2020,0.515,0.476,9,-9.843,1,0.0328,0.314,4.74e-05,0.171,0.412,135.886,Rap
+627,1,395950,True,7vlPI45Zzzk0palLdKry4k,False,True,The Matrimony (feat. Usher),53,13,track,album,The Album About Nothing,2015,0.416,0.712,5,-6.671,0,0.384,0.438,0.0,0.0642,0.581,78.015,Rap
+632,1,292865,True,5O59s7bCgTFsXDXlWecyQ1,False,True,Apparently,71,11,track,album,2014 Forest Hills Drive,2014,0.802,0.544,5,-9.212,1,0.0686,0.605,0.0,0.102,0.57,133.992,Rap
+633,1,239266,True,4tqcoej1zPvwePZCzuAjJd,False,True,Wet Dreamz,84,3,track,album,2014 Forest Hills Drive,2014,0.495,0.722,6,-8.108,0,0.357,0.0697,0.0,0.113,0.539,175.627,Rap
+634,1,197133,True,0Y0TOsE1q11qgbi7c5WZsG,False,True,R.I.C.O. (feat. Drake),71,6,track,album,Dreams Worth More Than Money,2015,0.727,0.599,1,-6.941,1,0.327,0.317,0.0,0.219,0.386,167.909,Rap
+639,1,210575,True,38T0tPVZHcPZyhtOcCP7pF,False,True,STAR WALKIN' (League of Legends Worlds Anthem),89,1,track,single,STAR WALKIN' (League of Legends Worlds Anthem),2022,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,Rap
+640,1,508000,False,5VBzIn9cBH4BNa1c6Zilba,False,True,How Many More Times - 1993 Remaster,54,9,track,album,Led Zeppelin,1969,0.322,0.68,9,-11.349,1,0.061,0.114,0.0245,0.434,0.518,142.748,Rap
+645,1,177733,True,12d5QFwzh60IIHlsSnAvps,False,True,10 Bands,67,3,track,album,If You're Reading This It's Too Late,2015,0.825,0.756,11,-3.687,0,0.383,0.265,2.15e-06,0.0762,0.888,172.938,Rap
+646,1,161853,False,58UKC45GPNTflCN6nwCUeF,False,True,Fancy Like,78,6,track,album,Country Stuff The Album,2022,0.647,0.765,1,-6.459,1,0.06,0.111,0.0,0.315,0.855,79.994,Rap
+655,1,215110,False,01TyFEZu6mHbffsVfxgrFn,False,True,Show Me How,79,1,track,single,Show Me How,2018,0.791,0.267,5,-11.997,1,0.0415,0.674,0.534,0.102,0.544,165.99,Rap
+656,1,206166,False,3DmW6y7wTEYHJZlLo1r6XJ,False,True,Shower,78,1,track,single,Shower,2014,0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,Rap
+661,1,269693,True,7DTlsMOQjGysXHpwwpHuPl,False,True,Lifestyle,68,1,track,single,Lifestyle,2014,0.546,0.667,1,-5.236,1,0.274,0.0152,0.0,0.0895,0.471,87.666,Rap
+662,1,202213,True,0SqUFLaRXwufRUsJ0t4dXB,False,True,No Mediocre (feat. Iggy Azalea),56,7,track,album,Paperwork (Deluxe Explicit),2014,0.781,0.495,1,-7.449,1,0.0432,0.0957,0.0,0.0778,0.195,95.466,Rap
+667,1,220319,True,1o1Pny4JcE3LdUBeBedbm6,False,True,White Walls (feat. ScHoolboy Q & Hollis),65,9,track,album,The Heist,2012,0.768,0.782,7,-5.545,1,0.141,0.0545,0.0,0.338,0.842,116.492,Rap
+668,1,201160,False,7LcfRTgAVTs5pQGEQgUEzN,False,True,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",72,13,track,album,Hands All Over,2010,0.722,0.758,11,-4.477,0,0.0471,0.0111,0.0,0.308,0.62,128.047,Rap
+669,1,337640,True,6t2eIONH4Sax3R21QWiKNp,False,True,Believe Me,62,1,track,single,Believe Me,2014,0.844,0.491,10,-8.807,0,0.17,0.272,0.0,0.111,0.196,91.935,Rap
+670,1,275226,True,4jtyUzZm9WLc2AdaJ1dso7,False,True,0 To 100 / The Catch Up,71,1,track,single,0 To 100 / The Catch Up,2013,0.559,0.716,11,-3.964,0,0.39,0.737,0.0,0.252,0.504,176.618,Rap
+671,1,268000,True,2bkyTJ4bAnc8a5ly3dg9DX,False,True,Pills N Potions,62,14,track,album,The Pinkprint (Deluxe),2014,0.391,0.604,2,-8.104,1,0.212,0.00812,5.18e-06,0.0443,0.168,169.658,Rap
+672,1,224933,True,1ULa3GfdMKs0MfRpm6xVlu,False,True,We Dem Boyz,65,2,track,album,Blacc Hollywood (Deluxe),2014,0.717,0.862,8,-4.736,1,0.054,0.00689,0.0,0.321,0.52,130.021,Rap
+673,1,236200,False,4Y7XAxTANhu3lmnLAzhWJW,False,True,Fireball (feat. John Ryan),74,3,track,album,Globalization,2014,0.761,0.933,10,-5.38,1,0.056,0.0908,8.53e-05,0.0607,0.836,122.959,Rap
+678,1,231066,True,2L8cFPItBljPNJgPjTnuIf,False,True,No Flex Zone,59,3,track,album,SremmLife,2015,0.925,0.518,8,-5.831,1,0.106,0.00433,0.0,0.0976,0.241,120.064,Rap
+679,1,188320,True,6HfOzLLjsaXsehIFEsrxTk,False,True,Trophies,76,2,track,album,Rise Of An Empire (Deluxe Edition),2014,0.746,0.687,1,-7.475,1,0.382,0.155,0.0,0.137,0.283,143.931,Rap
+680,1,233515,True,7ngdkrVQPgP3AoIxUrTpHT,False,True,Who Do You Love?,69,10,track,album,My Krazy Life,2014,0.68,0.411,9,-9.761,1,0.434,0.0336,0.0,0.0889,0.161,193.131,Rap
+685,1,196906,False,4rVW6XqAsSaf5vOwc8FREW,False,True,Wild (feat. Gary Clark Jr.),68,5,track,album,Bigger Love,2020,0.557,0.585,8,-6.201,1,0.0431,0.036,0.0,0.176,0.305,63.392,Rap
+686,1,340413,False,5Sn6Sn0L2bD9ihdz5pbUed,False,True,"Move That Doh (feat. Pharrell, Pusha T & Casino)",25,3,track,album,Honest,2014,0.876,0.63,2,-4.992,1,0.135,0.0841,0.0,0.0838,0.316,131.033,Rap
+687,1,270120,True,1hzJQIkgXwZevaKsc7iA6D,False,True,About the Money (feat. Young Thug),57,1,track,single,About the Money (feat. Young Thug),2014,0.81,0.721,9,-4.964,0,0.265,0.0487,0.0,0.0886,0.552,101.997,Rap
+688,1,197813,True,2asIUjALYhUbH8hvLUhDWo,False,True,Main Chick (feat. Chris Brown),64,6,track,album,My Own Lane (Expanded Edition),2014,0.775,0.496,10,-5.652,1,0.0354,0.0393,0.0,0.526,0.204,95.072,Rap
+689,1,235320,True,2wAJTrFhCnQyNSD3oUgTZO,False,True,Work Out,81,16,track,album,Cole World: The Sideline Story,2011,0.831,0.427,2,-6.903,1,0.106,0.0531,0.0,0.307,0.216,93.004,Rap
+690,1,243333,True,2Vevs2eAQNNb7NTpKj5kqA,False,True,Cut Her Off,53,3,track,single,In Due Time,2014,0.769,0.611,8,-2.85,1,0.039,0.098,0.0,0.221,0.0901,144.037,Rap
+691,1,188813,True,27E4psA6L8EPkArzqOwT0j,False,True,Stoner Thoughts,57,1,track,single,Stoner Thoughts,2019,0.789,0.527,5,-5.72,1,0.0972,0.123,0.0,0.0445,0.689,81.508,Rap
+692,1,216013,True,5SsR3wtCOafDmZgvIdRhSm,False,True,Man Of The Year,72,12,track,album,Oxymoron (Deluxe),2014,0.749,0.865,3,-5.228,1,0.0413,0.00536,0.0,0.198,0.371,111.914,Rap
+697,1,216247,True,6Xa2q0dapj03CsRzmD0Os5,False,True,Fight Night,67,9,track,album,No Label II,2014,0.874,0.706,1,-5.132,1,0.207,0.182,0.0,0.334,0.895,89.961,Rap
+698,1,234215,False,1rfJQpYr0clcyXssjQjk4T,False,True,V. 3005,50,9,track,album,Because the Internet,2013,0.676,0.446,6,-7.153,0,0.329,0.119,0.0,0.112,0.655,82.912,Rap
+699,1,148750,True,71mHO4fFmS2Xu5XxZbcRND,False,True,Under The Influence (Body Language),75,1,track,single,Under The Influence,2022,0.62,0.62,1,-6.322,0,0.0375,0.0388,0.000213,0.129,0.459,144.835,Rap
+700,1,333746,True,2gSh6B45bWv4gDOhawR8C2,False,True,Part II (On The Run),52,11,track,album,Magna Carta... Holy Grail,2013,0.6,0.636,8,-5.732,1,0.0939,0.279,0.0,0.451,0.351,86.997,Rap
+705,1,148485,False,4h9wh7iOZ0GGn8QVp4RAOB,False,True,I Ain't Worried,97,1,track,single,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",2022,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,Rap
+706,1,202320,True,3qQ6WFhcAx6LOH1UHz1c0U,False,True,Hookah,61,1,track,single,Hookah,2014,0.678,0.484,1,-6.647,0,0.43,0.735,0.0,0.117,0.219,190.04,Rap
+707,1,173213,False,0mzeEr7kHYzVPWF6iTIuwE,False,True,Headlights,64,1,track,single,Headlights,2022,0.635,0.561,1,-7.087,1,0.0569,0.00975,0.000102,0.345,0.454,144.822,Rap
+708,1,229146,True,3sNVsP50132BTNlImLx70i,False,True,Bound 2,89,10,track,album,Yeezus,2013,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,Rap
+713,1,243440,True,7rbECVPkY5UODxoOUVKZnA,False,True,I Wonder,82,4,track,album,Graduation,2007,0.542,0.466,0,-8.665,1,0.0831,0.141,0.000445,0.125,0.124,191.385,Rap
+714,1,202784,True,4pNT8XTKWb2vhcsqwzdXCT,False,True,Survival Tactics,70,4,track,album,1999,2012,0.53,0.843,1,-2.271,1,0.39,0.428,0.0,0.164,0.919,199.946,Rap
+715,1,205702,True,0YH1xT3Z7wR6dZyaCwSziK,False,True,24 Hours (feat. Lil Durk),66,1,track,single,24 Hours (feat. Lil Durk),2021,0.586,0.474,2,-9.21,0,0.18,0.334,0.0,0.118,0.146,91.105,Rap
+716,1,194482,False,2wQ411UQL2MRsdAgPRUstT,False,True,Walk Thru Fire,65,1,track,single,Walk Thru Fire,2018,0.639,0.664,5,-4.926,1,0.0357,0.329,1.53e-06,0.382,0.351,116.028,Rap
+717,1,235613,True,6CjtS2JZH9RkDz5UVInsa9,False,True,Thrift Shop (feat. Wanz),77,3,track,album,The Heist,2012,0.781,0.526,6,-6.986,0,0.293,0.0633,0.0,0.0457,0.665,94.993,Rap
+718,1,90906,False,7GRu6XaTVRIdV4E0Ty4QGX,False,True,Can’t Hold Us (ANR154),21,14,track,compilation,Armada Night Radio 154 (Incl. APEK & Husman Guest Mix),2017,0.556,0.871,10,-6.351,1,0.0752,0.000744,0.00498,0.253,0.219,128.044,Rap
+719,1,174133,True,5DI9jxTHrEiFAhStG7VA8E,False,True,Started From the Bottom,67,3,track,album,Nothing Was The Same,2013,0.793,0.524,8,-7.827,1,0.156,0.0319,0.0,0.156,0.579,86.325,Rap
+720,1,229506,False,0Hf4aIJpsN4Os2f0y0VqWl,False,True,Feel This Moment (feat. Christina Aguilera),78,3,track,album,Global Warming: Meltdown (Deluxe Version),2012,0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,Rap
+721,1,233786,True,4X5f3vT8MRuXF68pfjNte5,False,True,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",77,7,track,album,LONG.LIVE.A$AP (Deluxe Version),2013,0.853,0.693,1,-6.87,1,0.275,0.0239,0.0,0.11,0.662,95.967,Rap
+722,1,255053,True,2XHzzp1j4IfTNp1FTn7YFg,False,True,Love Me,79,11,track,album,I Am Not A Human Being II (Deluxe),2013,0.669,0.634,11,-6.476,1,0.0327,0.0125,0.0,0.0946,0.496,124.906,Rap
+723,1,241160,True,2uwnP6tZVVmTovzX5ELooy,False,True,Power Trip (feat. Miguel),78,4,track,album,Born Sinner (Deluxe Version),2013,0.667,0.608,1,-7.054,1,0.216,0.324,0.000198,0.426,0.475,99.992,Rap
+724,1,229080,False,1BZG99C7Co1r6QUC3zaS59,False,True,Same Old Love,68,4,track,album,Revival (Deluxe),2015,0.672,0.593,11,-4.01,0,0.0304,0.0223,0.0,0.214,0.438,98.02,Rap
+725,1,232114,True,5CM4UuQ9Gnd6K2YyKGPMoK,False,True,Bad Habit,92,1,track,single,Bad Habit,2022,0.686,0.507,1,-7.097,1,0.0357,0.626,7.51e-05,0.383,0.69,168.955,Rap
+726,1,219493,False,03UrZgTINDqvnUMbbIMhql,False,True,Gangnam Style (강남스타일),74,1,track,single,Gangnam Style (강남스타일),2012,0.727,0.937,11,-2.871,0,0.286,0.00417,0.0,0.091,0.749,132.067,Rap
+727,1,198009,False,7a4YwlUER1m7rkWJjYJRAD,False,True,"If I Don't Laugh, I'll Cry",71,1,track,single,"If I Don't Laugh, I'll Cry",2022,0.674,0.595,4,-5.18,1,0.0365,0.358,0.0,0.146,0.207,81.045,Rap
+728,1,247800,True,6REbwUNlppTfcnV4d4ZoZi,False,True,Swimming Pools (Drank),79,1,track,single,Swimming Pools (Drank),2012,0.577,0.447,8,-5.892,1,0.277,0.00627,0.00022,0.0899,0.189,74.236,Rap
+729,1,260276,True,0HFrCOmhCYXlv4NdEwRAuj,False,True,"U.O.E.N.O. (feat. Rick Ross, Future)",60,3,track,album,Gift Of Gab 2 (Deluxe Edition),2013,0.422,0.641,10,-4.947,0,0.323,0.422,0.0,0.317,0.654,187.027,Rap
+730,1,300160,True,2P3SLxeQHPqh8qKB6gtJY2,False,True,Poetic Justice,73,6,track,album,"good kid, m.A.A.d city (Deluxe)",2012,0.779,0.572,6,-9.985,0,0.378,0.157,0.0,0.246,0.647,135.956,Rap
+731,1,310720,True,4Pwjz3DfvfQWV0rO2V8jyh,False,True,"Bitch, Don’t Kill My Vibe",72,2,track,album,"good kid, m.A.A.d city",2012,0.587,0.698,1,-8.948,1,0.0943,0.0152,0.0,0.442,0.0985,133.954,Rap
+732,1,278573,True,5gFoAVTN9YlM9uJCrFZtgl,False,True,Crooked Smile (feat. TLC),71,14,track,album,Born Sinner (Deluxe Version),2013,0.606,0.784,7,-6.293,1,0.268,0.435,0.0,0.689,0.48,80.985,Rap
+733,1,145725,True,0s8ZA3XSOMan0nkS6iqRfu,False,True,I’m Different! (I’m still falling),7,1,track,single,I’m Different! (I’m still falling),2021,0.603,0.818,2,-7.432,1,0.0555,0.188,0.126,0.0839,0.539,155.028,Rap
+734,1,269266,True,0uFvvXbmGIXlf5ZgtHyYpf,False,True,Bugatti,64,11,track,album,Trials & Tribulations,2013,0.6,0.592,1,-4.947,1,0.0545,0.0191,0.0,0.0955,0.0663,130.205,Rap
+735,1,211840,True,1jNrotshHZUS2wj7MU6Lw9,False,True,"FYBR (First Year Being Rich) (feat. A$AP Twelvyy, A$AP Rocky, A$AP Ant, A$AP Ferg, KEY! & Playboi Carti)",47,12,track,album,Cozy Tapes Vol. 2: Too Cozy,2017,0.921,0.442,1,-6.347,1,0.287,0.194,6.11e-06,0.0907,0.0552,124.055,Rap
+736,1,367413,False,61s24wRVyG7NP9m7EjdDKL,False,True,Don’t Stop The Party,64,8,track,album,The Beginning,2010,0.869,0.794,0,-6.191,1,0.0984,0.0303,3.81e-06,0.07,0.656,128.022,Rap
+737,1,293613,True,65rRB2mspD309xE6YimZTl,False,True,Clique,67,2,track,compilation,Kanye West Presents Good Music Cruel Summer,2012,0.66,0.539,9,-5.947,0,0.324,0.0534,0.0,0.222,0.307,109.318,Rap
+738,2,232666,False,4U6mBgGP8FXN6UH4T3AJhu,False,True,"Up Where We Belong - From ""An Officer And A Gentleman""",70,18,track,compilation,The Anthology,1999,0.624,0.306,2,-11.831,1,0.0318,0.634,2.67e-05,0.0632,0.227,139.912,Rap
+739,1,222866,True,6bdFbw9THAMceZtkPWXu8e,False,True,No Worries,60,5,track,album,I Am Not A Human Being II (Deluxe),2013,0.831,0.616,5,-5.611,1,0.153,0.0947,0.0,0.11,0.817,128.012,Rap
+740,1,187906,True,0pgeVJrdNok4KhbiM58ayZ,False,True,All Gold Everything,60,6,track,album,Don't Be S.A.F.E.,2013,0.516,0.755,0,-8.868,0,0.351,0.0258,0.0,0.329,0.633,99.764,Rap
+741,1,308333,True,04a1HkNH7LFsG5mEiLN7vl,False,True,No New Friends - SFTB Remix,58,9,track,album,Suffering From Success,2013,0.703,0.681,2,-6.356,1,0.133,0.00589,0.0,0.449,0.245,124.928,Rap
+742,1,278826,True,7EZPH9Px3gXlxD5KJDwtwc,False,True,Bandz A Make Her Dance (feat. Lil' Wayne & 2 Chainz),63,14,track,album,Stay Trippy,2013,0.871,0.743,2,-5.442,1,0.277,0.00212,0.0,0.141,0.576,130.977,Rap
+743,1,284586,True,7A8d6xGJy2DpNqO2b9DrJu,False,True,Tapout,54,3,track,album,Rich Gang (Deluxe Version),2013,0.762,0.577,8,-5.229,1,0.175,0.0309,0.0,0.108,0.287,142.055,Rap
+744,1,235186,True,6bxUnsSGZCmoHHU5auwtps,False,True,Beware,74,6,track,album,Hall Of Fame (Deluxe),2013,0.7,0.554,1,-5.909,1,0.187,0.219,1.36e-06,0.419,0.0633,97.127,Rap
+745,1,247986,True,3aHkbJXFYpPrup2K8wvDOV,False,True,We Still in this Bitch (feat. T.I. and Juicy J),56,15,track,album,Underground Luxury,2013,0.693,0.733,1,-5.126,1,0.139,0.013,0.0,0.0924,0.497,140.01,Rap
+746,1,193200,True,1KIQ0RscHwxXPJUvhuO5Bl,False,True,Red Nose,65,5,track,album,Remember Me,2014,0.681,0.473,11,-5.733,0,0.449,0.414,0.0,0.0794,0.766,194.826,Rap
+747,1,189013,True,1PNGJBI1Lx0h8QCpkHKZLU,False,True,Tom Ford,53,3,track,album,Magna Carta... Holy Grail,2013,0.863,0.705,8,-6.202,1,0.31,0.05,2.21e-05,0.524,0.599,145.099,Rap
+748,1,256000,True,0YKvEXArXE4GeGzqCsaifN,False,True,Type Of Way,59,1,track,single,Type Of Way,2013,0.854,0.75,6,-5.273,0,0.29,0.0606,0.0,0.0968,0.814,134.919,Rap
+749,1,262306,False,4sX8e5VkqBWA7IIooImSsS,False,True,Neva End,48,8,track,album,Pluto,2012,0.59,0.561,2,-7.613,1,0.058,0.00911,0.0,0.0981,0.15,134.936,Rap
+750,1,195046,True,50a8bKqlwDEqeiEknrzkTO,False,True,ball w/o you,82,10,track,album,i am > i was,2018,0.892,0.633,8,-7.471,1,0.0902,0.0467,0.000189,0.139,0.459,137.994,Rap
+751,1,192026,True,3L0IKstjUgDFVQAbQIRZRv,False,True,R.I.P.,78,2,track,album,Die Lit,2018,0.725,0.725,8,-6.067,0,0.159,0.0119,0.0,0.086,0.515,140.003,Rap
+752,1,220240,True,2LvRR121MWFmmEGkuV2vQP,False,True,HeadBand (feat. 2 Chainz),68,10,track,album,Underground Luxury,2013,0.919,0.506,1,-7.14,1,0.304,0.132,0.0,0.0771,0.273,97.465,Rap
+753,1,250320,False,1hWYT0w2R0J19rlVkiez7X,False,True,Battle Scars (with Guy Sebastian),69,11,track,album,"Food & Liquor II: The Great American Rap Album, Pt. 1",2012,0.517,0.811,5,-4.526,0,0.286,0.186,0.0,0.105,0.494,168.269,Rap
+754,1,237706,True,3O7AjZCLBym23kmf5hj2zn,False,True,Ain’t Worried About Nothin (Headlines),6,11,track,album,Skate Boy,2011,0.588,0.537,9,-6.524,1,0.202,0.408,0.0,0.0887,0.146,151.844,Rap
+755,1,177322,False,4Yxc55NX3tAXC2mHRAhtcW,False,True,"All I Want - From ""High School Musical: The Musical: The Series""",79,1,track,single,"All I Want (From ""High School Musical: The Musical: The Series"")",2019,0.376,0.43,0,-6.585,0,0.0328,0.0902,0.0,0.0912,0.129,77.599,Rap
+756,1,227478,True,0ZLuW8uOXdFNWcI40C0OC2,False,True,"Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",70,15,track,album,Thats What They All Say,2020,0.904,0.723,11,-5.224,0,0.26,0.0631,0.0,0.185,0.835,145.013,Rap

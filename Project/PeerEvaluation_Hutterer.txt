@@ -1,0 +1,11 @@
+Kerry Forsythe - 5.0
+	Kerry was very easy to communicate with. She always responded as quickly as possible when I would message her, and she was always on time to our group meetings.
+During our group meeting, she always had very valuable input, along with very good analysis when evaluating various models in relation to our problem. In terms of work effectiveness,
+she was always punctual when doing her part of this stage of the project, and her work was complete and valuable. She collected very important statistics regarding the models that she trained
+using her code and our data, along with new data to test the effectiveness of our model on foreing data.. During this final stage of the project, she had a very positive attitude 
+as we ran into trouble training our models. She responded well to our ideas, and she never discounted what we had to say.
+
+David Torres - 5.0
+	David had excellent communication skills that matched up with ours. He was on time to all our meetings, and always had valuable input during this stage of the
+project. He was as motiviated to analyze the cluster models he created as we were with our own analysis. He put a lot of effort into proofreading our final report. 
+When it came to work effectiveness, he did his part well. He was always motivated to correct errors in our report. His attitude was always positive towards us, as well as the project.

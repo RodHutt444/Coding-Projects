@@ -1,0 +1,581 @@
+,disc_number,duration_ms_x,explicit,id,is_local,is_playable,name,popularity,track_number,type_x,album_type,album_name,release_year,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,Genre
+4,1,161853,False,58UKC45GPNTflCN6nwCUeF,False,True,Fancy Like,78,6,track,album,Country Stuff The Album,2022,0.647,0.765,1,-6.459,1,0.06,0.111,0.0,0.315,0.855,79.994,Country
+18,1,165569,False,4iXDn9pu5Q9sxv45vE8Lak,False,True,Famous Friends,69,1,track,single,Famous Friends,2020,0.533,0.855,6,-2.901,1,0.0356,0.0553,0.0,0.335,0.64,102.017,Country
+23,1,207973,False,1ZIKpMTRPqhwAoVXWY3tXI,False,True,Chasing After You (with Maren Morris),70,1,track,single,Chasing After You (with Maren Morris),2021,0.596,0.679,4,-6.395,1,0.0394,0.723,0.0,0.116,0.479,131.912,Country
+28,1,195962,True,0NmuYnjETG3u3qx0OmEJev,False,True,Lil Bit,72,1,track,single,Lil Bit,2020,0.707,0.689,4,-7.097,0,0.0387,0.0255,0.0,0.383,0.41,119.987,Country
+29,1,144533,False,472vIK1ldetTxRxG3ovaiY,False,True,Glad You Exist,70,1,track,single,Glad You Exist,2021,0.748,0.551,11,-6.12,1,0.0349,0.235,0.0,0.119,0.66,103.953,Country
+34,1,245625,False,0QULNNd9z5s35entfiiXoa,False,True,Drunk (And I Don't Wanna Go Home),76,1,track,single,Drunk (And I Don't Wanna Go Home),2021,0.612,0.884,5,-4.4,1,0.0459,0.00516,0.0,0.0997,0.626,119.991,Country
+39,1,197453,False,53bZYxVbCYm6w1Gx8U64bz,False,True,Settling Down,64,4,track,album,Wildcard,2019,0.643,0.756,6,-5.8,0,0.0305,0.0215,0.000268,0.101,0.934,90.001,Country
+40,1,202133,False,0uRrG2jRR5tuifsYIJHEao,False,True,Sand In My Boots,79,1,track,album,Dangerous: The Double Album,2021,0.403,0.537,3,-6.628,1,0.031,0.59,0.0,0.112,0.414,69.877,Country
+41,1,175026,False,4mXGooManGPH6xAWRAtRJU,False,True,Hell Of A View,68,5,track,album,Soul,2021,0.689,0.592,5,-6.758,1,0.0235,0.101,0.00867,0.11,0.919,98.997,Country
+42,1,203373,False,5QS8PNEWbqTEZyQ6e9ZbJf,False,True,Things A Man Oughta Know,71,3,track,album,Sayin' What I'm Thinkin',2021,0.659,0.683,3,-5.623,1,0.0312,0.513,4.93e-06,0.133,0.397,139.931,Country
+47,1,375386,True,1hz7SRTGUNAtIQ46qiNv2p,False,True,"GONE, GONE / THANK YOU",79,10,track,album,IGOR,2019,0.518,0.492,10,-8.436,0,0.193,0.216,0.0012,0.146,0.471,78.848,Country
+52,1,178520,False,3cBsEDNhFI9E82vPj3kvi3,False,True,Wasted On You,83,2,track,album,Dangerous: The Double Album,2021,0.505,0.657,11,-5.24,0,0.0318,0.373,0.00107,0.126,0.252,196.0,Country
+53,1,212030,False,1WQ40xJSvgDmD9K7ckJwux,False,True,If I Didn't Love You,73,5,track,album,MACON,2021,0.456,0.679,1,-4.802,1,0.0324,0.176,0.0,0.103,0.483,184.075,Country
+54,1,187683,False,1irAliF0T8sLIOPJp6n7rU,False,True,Single Saturday Night,67,1,track,single,Single Saturday Night,2020,0.623,0.79,7,-5.07,1,0.0473,0.118,0.0,0.226,0.694,81.949,Country
+55,1,215933,False,4sf2L157iEgAR7yrCNLgSq,False,True,Breaking Up Was Easy In The 90's,67,11,track,album,SOUTHSIDE,2020,0.562,0.649,9,-5.4,1,0.0494,0.231,0.0,0.341,0.376,145.913,Country
+56,1,180616,False,1zYZs8Vbjhbzx5M3olcRnm,False,True,Memory I Don't Mess With,69,4,track,album,Hey World,2020,0.617,0.704,6,-7.61,0,0.0258,0.171,0.0,0.0924,0.57,91.541,Country
+57,1,238805,False,3USxtqRwSYz57Ewm6wWRMp,False,True,Heat Waves,84,14,track,album,Dreamland,2020,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,Country
+58,1,205766,True,1tm7c4V0kqLiN0XPVnoUcT,False,True,Runnin' Thru the 7th with My Woadies,76,3,track,single,$outh $ide $uicide,2015,0.686,0.621,11,-7.243,1,0.187,0.0656,0.000221,0.139,0.187,112.082,Country
+59,1,271240,False,07q0QVgO56EorrSGHC48y3,False,True,I Was Made For Lovin' You,83,1,track,album,Dynasty,1979,0.768,0.852,4,-6.215,1,0.038,0.214,7.36e-05,0.0723,0.867,128.373,Country
+60,1,160839,False,1UYfAU2bwgjaM5rIIPQleC,False,True,Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),62,1,track,single,Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),2020,0.627,0.678,2,-4.691,1,0.0294,0.185,0.0,0.374,0.724,100.032,Country
+61,1,215360,False,2CwG4BXIlGmmYLDmDvwMTH,False,True,Blame It On You,63,2,track,album,9,2019,0.484,0.783,2,-5.334,1,0.0308,0.0957,0.000118,0.107,0.594,137.918,Country
+62,1,213493,False,2UikqkwBv7aIvlixeVXHWt,False,True,You Should Probably Leave,78,13,track,album,Starting Over,2020,0.602,0.477,9,-8.425,1,0.032,0.268,3.1e-05,0.173,0.552,183.89,Country
+72,1,210480,False,3dV1fjKOlLnaNK5MeZHXGv,False,True,Cold Beer Calling My Name,66,1,track,single,Cold Beer Calling My Name,2020,0.581,0.86,7,-4.092,1,0.039,0.048,0.0,0.169,0.79,148.318,Country
+73,2,261813,False,5yAu4njFSdM47dfsTkQPZ2,False,True,Runnin' Down A Dream,72,8,track,compilation,The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016,2019,0.471,0.956,9,-6.371,1,0.0403,0.000596,0.62,0.624,0.715,169.798,Country
+74,1,178613,False,1nnsiuuYlvPF9gxXIiyAr8,False,True,I Was On a Boat That Day,63,1,track,single,I Was On a Boat That Day,2021,0.535,0.915,11,-3.819,1,0.0991,0.00699,0.0,0.224,0.731,140.13,Country
+79,1,193429,False,2P5yIMu2DNeMXTyOANKS6k,False,True,Nobody,79,9,track,album,Be the Cowboy,2018,0.398,0.717,0,-5.253,1,0.0398,0.07,0.0,0.085,0.487,117.296,Country
+80,1,174837,False,0Iuw6WPws324i7G7sCejTX,False,True,We Didn't Have Much,68,3,track,album,Straight Outta The Country,2021,0.469,0.673,6,-8.015,1,0.0337,0.418,1.41e-05,0.119,0.578,175.954,Country
+94,1,161773,False,42lqBjPYlmL1EXpMDXvhSN,False,True,Somebody’s Problem,71,3,track,album,Dangerous: The Double Album,2021,0.658,0.538,5,-7.676,1,0.0289,0.657,0.0,0.123,0.62,136.967,Country
+95,1,228266,False,0Lavu1rppGgXfiK27cAMyU,False,True,Minimum Wage,60,1,track,album,Body Language,2021,0.551,0.941,4,-3.793,1,0.0683,0.00179,0.0,0.066,0.744,90.039,Country
+96,1,226266,False,2EEfUuBRZA4Ax1vYcluFS0,False,True,Knowing You,64,5,track,album,Here And Now,2020,0.557,0.565,7,-6.12,1,0.026,0.229,3.9e-06,0.119,0.187,125.956,Country
+109,1,164677,False,4QpWhd7l2NrmGmfw4qGlpa,False,True,Next Girl,61,1,track,single,Next Girl,2020,0.583,0.867,11,-4.17,1,0.0637,0.143,0.0,0.0863,0.962,160.096,Country
+114,1,260776,False,6qBFSepqLCuh5tehehc1bd,False,True,Like I Want You,78,7,track,album,TAKE TIME,2020,0.678,0.355,10,-7.757,0,0.0627,0.759,7.06e-05,0.114,0.438,119.772,Country
+123,1,153337,False,34chhNX59Wo9HMFCsI3K8Y,False,True,Memory,73,1,track,single,Memory,2021,0.434,0.889,9,-5.684,1,0.0509,0.395,0.0,0.273,0.845,113.326,Country
+124,1,186106,False,7IWV29mryrqtO0JVgnPtfv,False,True,Cold As You,72,19,track,album,What You See Ain't Always What You Get (Deluxe Edition),2020,0.598,0.846,6,-4.956,1,0.0355,0.0527,0.0,0.113,0.328,144.04,Country
+125,1,179213,False,4Ec0q0j8hRTCX4QQ5MiHSX,False,True,Just About Over You,66,1,track,single,Just About Over You,2020,0.53,0.524,4,-5.751,1,0.0327,0.544,0.0,0.11,0.514,150.05,Country
+138,1,170560,False,4wBjKhJx6JnGoNJfJs24pd,False,True,Thinking 'Bout You (feat. MacKenzie Porter),74,2,track,album,Blue In The Sky,2022,0.403,0.711,8,-4.189,1,0.0569,0.137,0.0,0.109,0.801,203.803,Country
+139,1,206506,False,1tf4Bfk8JIKryLpWYRvyiI,False,True,Whiskey And Rain,68,1,track,single,Whiskey And Rain,2020,0.653,0.623,8,-4.56,1,0.0244,0.508,3.32e-06,0.285,0.718,100.021,Country
+140,1,215733,False,2VxeLyX666F8uXCJ0dZF8B,False,True,Shallow,85,12,track,album,A Star Is Born Soundtrack,2018,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,Country
+141,1,186293,False,096YtKWNRXdmYKFLelSBto,False,True,Still Goin Down,68,1,track,single,Still Goin Down,2020,0.58,0.751,7,-5.078,1,0.0267,0.49,0.0,0.277,0.718,148.108,Country
+146,1,175920,False,2DINVEELpI3ibUW2EzeDs7,False,True,Undivided,55,1,track,single,Undivided,2021,0.583,0.812,10,-4.684,1,0.0299,0.131,0.0,0.201,0.408,89.992,Country
+147,1,190451,False,4HD9SLK4s9rwRyuFt3n8N7,False,True,Same Boat,64,5,track,album,The Comeback,2021,0.486,0.838,6,-5.407,1,0.0617,0.0523,0.0,0.0845,0.664,171.963,Country
+148,1,231832,False,1yRke3PmsyFrYlFZOAkABk,False,True,half of my hometown (feat. Kenny Chesney),70,9,track,album,kelsea,2020,0.57,0.618,10,-4.966,1,0.0445,0.153,0.0,0.159,0.286,138.034,Country
+149,1,211706,False,3qwPYg8xTWPafQD3YUNaTU,False,True,How They Remember You,54,1,track,album,How They Remember You,2020,0.442,0.8,2,-5.12,1,0.0368,0.0124,0.0,0.0785,0.498,152.004,Country
+154,1,207161,False,15npbUjCgwt2lRvyrJvyxw,False,True,Tequila Little Time,67,9,track,album,Heartache Medication,2019,0.757,0.705,2,-5.084,1,0.0252,0.0375,5.8e-06,0.114,0.855,104.972,Country
+155,1,212720,False,3J5jotqUAjU479WhAiNkpU,False,True,Freedom Was A Highway,68,4,track,album,Bettie James,2020,0.563,0.847,1,-4.493,1,0.0468,0.0891,0.0,0.121,0.666,96.06,Country
+160,1,205746,False,4RN6OApAESI3Sh0gf5iuAM,False,True,Worship You,56,3,track,single,Mixtape Vol. 1 - EP,2020,0.63,0.496,8,-7.011,1,0.0329,0.388,0.0,0.088,0.387,78.024,Country
+165,1,190680,False,0sKEilrw1GrBlG6qsTCrP4,False,True,865,73,5,track,album,Dangerous: The Double Album,2021,0.532,0.584,8,-5.254,1,0.0248,0.723,0.0,0.101,0.367,88.003,Country
+166,1,156894,True,3LVcKphzONOdQ2EATazlZq,False,True,Final Warning,72,1,track,single,Final Warning,2021,0.847,0.912,11,-3.129,1,0.257,0.0781,0.0,0.142,0.88,81.486,Country
+171,1,217801,False,2bVeUlOC5JjTpkQXuUUoYm,False,True,GIVE HEAVEN SOME HELL,74,3,track,album,A ROCK,2020,0.639,0.843,11,-4.975,1,0.0362,0.0525,0.0,0.0854,0.528,126.047,Country
+172,1,199680,False,2pUQX4d3Cjh3umGkVz0XyI,False,True,To Be Loved By You,66,3,track,album,Gold Chain Cowboy,2021,0.475,0.805,10,-4.456,1,0.0377,0.000453,0.0,0.143,0.488,145.976,Country
+173,1,169999,True,5wujBwqG7INdStqGd4tRMX,False,True,Armed And Dangerous,79,5,track,album,Goodbye & Good Riddance,2018,0.736,0.67,10,-6.702,1,0.311,0.186,0.0,0.114,0.845,130.032,Country
+174,1,235766,False,104czjfBY4eGJ1nCfMffYf,False,True,Love Story (Taylor’s Version),3,17,track,compilation,Обратно в клас - pop,2022,0.626,0.79,2,-4.302,1,0.0311,0.135,3.97e-06,0.0989,0.416,119.082,Country
+179,1,213718,False,4FdPnT2cFrpWCmWZd7GXc3,False,True,One Mississippi,69,1,track,single,One Mississippi,2021,0.471,0.846,0,-5.269,1,0.0389,0.00279,2.86e-06,0.145,0.539,100.089,Country
+184,1,269724,True,2O8fDNr7arCI2vvOtnfyt0,False,True,Am I The Only One,56,4,track,album,Frayed At Both Ends,2022,0.617,0.626,1,-4.883,1,0.0268,0.798,4.69e-06,0.12,0.345,112.072,Country
+189,1,277591,False,7l2tmgUhV7Y2aJHjiszifg,False,True,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),72,1,track,single,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),2021,0.661,0.819,11,-6.269,0,0.0519,0.167,0.0,0.0647,0.724,135.937,Country
+190,1,201350,True,1yhft6ZqYadd4GOrKrmK3a,False,True,Dicked Down in Dallas,70,1,track,single,Dicked Down in Dallas,2020,0.51,0.929,6,-4.685,1,0.0456,0.0608,5.39e-06,0.101,0.438,122.036,Country
+199,1,210173,False,2SiXAy7TuUkycRVbbWDEpo,False,True,You Shook Me All Night Long,81,7,track,album,Back In Black,1980,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361,Country
+200,1,203880,False,0OToGPCUGXMj9H1uZKbJsD,False,True,Take Me Home for Christmas,0,28,track,compilation,The Christmas Song - Chestnuts Roasting On an Open Fire,2022,0.694,0.769,6,-4.665,1,0.0325,0.163,0.0,0.0976,0.663,93.033,Country
+201,1,171200,False,6OcCk1dbAb7XNHsC098oEM,False,True,I Quit Drinking,74,1,track,single,I Quit Drinking,2021,0.607,0.418,1,-6.997,1,0.0363,0.394,0.0,0.182,0.386,95.002,Country
+202,1,206146,False,3k9t7uRfDkukXoolPzywtU,False,True,That's What Cowboys Do,9,1,track,album,The West: Then...Now...Next,2006,0.634,0.369,0,-8.944,1,0.0274,0.692,0.441,0.0872,0.507,84.058,Country
+203,1,186458,False,1JTQG8J8jN8tjDTyUWnaRe,False,True,Ride the Lightning - 717 Tapes,70,1,track,single,Ride the Lightning (717 Tapes),2021,0.576,0.474,1,-6.342,1,0.0331,0.75,8.74e-05,0.0944,0.4,77.834,Country
+204,1,230186,False,3fDltEt8rTrKy0lg3UHxqK,False,True,Underneath the Mistletoe,0,35,track,compilation,Hits de Noël 2022,2022,0.601,0.688,5,-5.51,1,0.0321,0.0133,0.0,0.115,0.507,123.951,Country
+205,1,197223,False,2aq7ZO1is1czoQAh076QFU,False,True,Favorite Time Of Year,33,12,track,album,My Gift (Special Edition),2021,0.497,0.897,5,-4.21,1,0.0513,0.00635,0.0,0.305,0.539,142.007,Country
+206,1,286813,False,5lbz5DK5AUXQTBFH9qle3i,False,True,Old Country Church - Hallelujah Version,62,1,track,album,Can I Take My Hounds to Heaven?,2022,0.544,0.556,7,-6.63,1,0.0312,0.47,0.0038,0.0575,0.45,143.6,Country
+207,1,203036,False,4Qum1kECNQrpREev5fvAQ4,False,True,Truth About You,67,1,track,single,Truth About You,2021,0.492,0.708,10,-4.639,1,0.0334,0.0975,0.0,0.12,0.697,161.989,Country
+220,1,213214,True,6VFKuuqSbA1GpMEosUgTwQ,False,True,Nobody But You,72,1,track,single,Nobody But You,2021,0.637,0.299,7,-11.314,1,0.0366,0.742,0.0,0.359,0.364,83.872,Country
+225,1,170906,True,3B4q6KbHbGV51HO3GznBFF,False,True,What I Got,74,2,track,album,Sublime,1996,0.804,0.696,7,-7.47,1,0.0899,0.00877,0.000985,0.314,0.657,95.721,Country
+230,1,198688,False,0Al3wN3keprGTSgG8NBwjr,False,True,I Hope You’re Happy Now,72,3,track,album,Carly Pearce,2020,0.591,0.815,10,-4.725,1,0.0366,0.168,8.68e-06,0.142,0.306,118.024,Country
+231,1,193426,False,6NhS5LwYbJ6xD7BGvlWRJO,False,True,One Margarita,66,1,track,single,One Margarita,2020,0.641,0.842,9,-4.872,1,0.0464,0.0969,0.0,0.169,0.738,89.997,Country
+232,1,204760,False,10xuH52YSXHWFwCaF1fsDd,False,True,Hard To Forget,66,2,track,album,SOUTHSIDE,2020,0.689,0.689,4,-5.517,1,0.045,0.23,0.0,0.57,0.664,130.069,Country
+237,1,209760,False,0kPeZAyIhIfeZNrtfjJGDB,False,True,Bluebird,70,8,track,album,Wildcard,2019,0.661,0.633,7,-5.986,1,0.0348,0.038,2.75e-06,0.124,0.613,81.984,Country
+238,1,223320,False,0nGXi46VcQQ56ZJR428MKS,False,True,Does To Me (feat. Eric Church),69,13,track,album,What You See Is What You Get,2019,0.616,0.849,0,-4.897,1,0.0373,0.311,0.0,0.311,0.638,113.065,Country
+243,1,194866,False,0nYvjcSlCgjcwogQAwIwNp,False,True,Lovin' On You,71,4,track,album,What You See Is What You Get,2019,0.572,0.949,4,-4.865,1,0.06,0.00165,0.000195,0.163,0.53,118.974,Country
+253,1,164668,False,5P3oaNpPDVLRJsL3152SEs,False,True,Cool Again,60,1,track,single,Cool Again,2020,0.608,0.735,4,-5.497,1,0.0371,0.0156,1.69e-06,0.361,0.773,90.007,Country
+258,1,185466,False,0clSHsrHl2irBkObcLEZqS,False,True,I Love My Country,56,5,track,album,Life Rolls On,2021,0.525,0.94,4,-3.546,1,0.065,0.0283,0.0,0.236,0.636,140.093,Country
+259,1,309973,False,51YZAJhOwIC5Gg3jMbAmhZ,False,True,For Whom The Bell Tolls (Remastered),72,3,track,album,Ride The Lightning (Deluxe Remaster),1984,0.512,0.86,0,-6.145,1,0.0703,0.00631,0.00528,0.0652,0.258,117.909,Country
+260,1,213493,False,1z6wl2rwKatfmza6usanWw,False,True,After A Few,64,1,track,single,After A Few,2019,0.617,0.849,10,-4.316,0,0.0355,0.0146,0.0,0.194,0.695,106.998,Country
+261,1,209733,False,7idmHTAQQPUFqdjXkoooXD,False,True,Beer Can’t Fix,69,10,track,album,Center Point Road,2019,0.711,0.774,7,-4.068,1,0.0308,0.0317,0.0,0.124,0.939,111.016,Country
+262,1,186988,False,5M3v6frAiTyqenNAeQVcxC,False,True,What She Wants Tonight,55,1,track,single,What She Wants Tonight,2019,0.484,0.903,8,-3.9,0,0.0882,0.0649,0.0,0.151,0.716,169.948,Country
+263,1,232165,False,7Ce11Oh1kConF6UlkBWnaZ,False,True,God Whispered Your Name,54,1,track,single,God Whispered Your Name,2020,0.594,0.6,2,-6.712,1,0.0498,0.306,0.0,0.149,0.5,145.967,Country
+264,1,184040,False,4DCyfwekbYsNEzsYOG77el,False,True,Some Girls,61,13,track,album,Bet You're from a Small Town,2021,0.424,0.845,8,-5.15,1,0.0484,0.0864,0.0,0.156,0.336,167.988,Country
+273,1,171493,False,7qRVyZDt1Caftkk8CQlKtk,False,True,Here And Now,56,2,track,album,Here And Now,2020,0.506,0.813,9,-3.575,1,0.0532,0.0505,0.0,0.12,0.706,147.996,Country
+278,1,190973,False,47qZzTLLJcuD69AIKnquo4,False,True,One Night Standards,62,2,track,album,Never Will,2020,0.537,0.686,5,-5.022,1,0.0293,0.0287,0.00709,0.0988,0.611,78.052,Country
+279,1,211430,False,4lSfhHd5Knwl8yQw2cVjAD,False,True,Why We Drink,64,1,track,album,Late Nights And Longnecks,2019,0.624,0.903,6,-3.046,1,0.0347,0.00824,0.0,0.309,0.724,116.99,Country
+280,1,193026,False,28uL97M3whSL1UWqr7hsNh,False,True,One Big Country Song,60,1,track,album,Brothers,2019,0.547,0.822,5,-2.85,1,0.0334,0.602,0.0,0.107,0.553,81.981,Country
+281,1,212146,False,2oWuBmQtYMx3LEgahIsJvs,False,True,I Called Mama,52,13,track,album,Here On Earth,2020,0.499,0.619,2,-7.054,1,0.0339,0.571,4.82e-06,0.148,0.514,86.185,Country
+290,1,192586,False,0ifYeH4gNXEyba41xr3I1w,False,True,Everywhere But On,58,3,track,album,Everywhere But On,2019,0.563,0.722,6,-3.972,1,0.0279,0.0345,0.0,0.0795,0.309,149.903,Country
+299,1,213576,False,03jdl5GTBhKsgB1Yw8mVPh,False,True,In Between,66,4,track,album,Disgusting,2014,0.462,0.972,7,-2.642,0,0.138,0.00285,0.0,0.666,0.449,128.092,Country
+304,1,214254,True,7rdUtXasA973gmrr2Xxh3E,False,True,"Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",69,1,track,single,"Homemade Dynamite (Feat. Khalid, Post Malone & SZA) [REMIX]",2017,0.781,0.548,0,-4.997,0,0.0764,0.229,0.0,0.127,0.175,106.996,Country
+317,1,209080,True,0HtOJj7Kl74s1Ngf3MWeif,False,True,She's Mine Pt. 1,66,5,track,album,4 Your Eyez Only,2016,0.439,0.204,2,-15.165,1,0.0587,0.766,0.0913,0.284,0.0408,139.652,Country
+326,1,174067,True,0tyR7Bu9P086aWBFZ4QJoo,False,True,Monsters (feat. blackbear),72,7,track,album,"Wake Up, Sunshine",2020,0.369,0.845,0,-3.449,0,0.0611,0.0493,0.0,0.416,0.782,78.532,Country
+335,1,258293,False,4objxuNfJlJHomkRIPa2Y2,False,True,Drinking Alone,58,7,track,album,Cry Pretty,2018,0.691,0.732,5,-3.715,0,0.0294,0.0326,0.0,0.0608,0.477,97.949,Country
+336,1,199068,False,3aMUiKCIXJeurR5ppEMJZD,False,True,Six Feet Apart,61,1,track,single,Six Feet Apart,2020,0.565,0.598,6,-5.894,1,0.0276,0.335,0.0,0.124,0.449,155.814,Country
+337,1,243106,False,7riuy1t0Kt3SRgMtFxX0FR,False,True,That Ain't My Truck,62,5,track,album,A Thousand Memories,1995,0.64,0.788,7,-9.012,1,0.035,0.232,0.0,0.144,0.774,128.961,Country
+338,1,201343,False,3CS5zwqrjggxlRD0QGJAva,False,True,the other girl (with Halsey),59,4,track,album,kelsea,2020,0.583,0.769,8,-4.859,0,0.159,0.419,0.0,0.0988,0.785,179.869,Country
+339,1,201480,False,6ZU30kIHamg5oiQm4gQQ3A,False,True,Getting Good,52,1,track,single,Getting Good,2019,0.499,0.643,11,-5.416,1,0.0354,0.307,0.0,0.106,0.469,93.805,Country
+340,1,146470,False,4cacyP5c3PMlfnyjpg13xW,False,True,Betty (Get Money),88,1,track,single,Betty (Get Money),2022,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,Country
+341,1,222696,False,42YQlRLrPdejQsdiLAs4uP,False,True,What Could've Been,53,3,track,album,Canyons,2020,0.589,0.54,10,-7.475,1,0.0304,0.177,0.0,0.132,0.408,143.991,Country
+342,1,228706,False,5lH14PEjAXYuMTz0Dd4L1D,False,True,Stick That In Your Country Song,55,1,track,single,Stick That In Your Country Song,2020,0.536,0.863,0,-5.081,0,0.0362,0.0658,0.172,0.118,0.405,89.979,Country
+347,1,252040,True,1bzM1cd6oqFozdr4wK6HdR,False,True,Blessings,64,2,track,album,Dark Sky Paradise,2015,0.79,0.621,1,-7.634,1,0.275,0.333,0.0,0.122,0.15,118.895,Country
+348,1,208506,False,3cFWIhrapYb2VoNOUbo9Re,False,True,Her World or Mine,58,6,track,album,Amos,2018,0.568,0.499,4,-6.597,1,0.0288,0.635,0.0,0.122,0.243,143.761,Country
+353,1,216489,False,5UMjPT47GpOwkUo6e99R3s,False,True,No I in Beer,49,1,track,single,No I in Beer,2020,0.498,0.901,9,-4.372,1,0.0459,0.00626,9.46e-06,0.337,0.809,83.999,Country
+354,1,195586,False,4Yy1VOdLAX7MuKQOcivV4O,False,True,To Hell & Back,59,11,track,album,GIRL,2019,0.463,0.71,0,-7.051,1,0.0859,0.148,0.000192,0.123,0.441,78.144,Country
+363,2,185280,False,075qcpR3BnxD5CWUIx1HTr,False,True,This Bar,73,7,track,album,Dangerous: The Double Album,2021,0.553,0.884,2,-5.306,1,0.0771,0.0921,0.00033,0.0463,0.248,110.074,Country
+364,1,196266,False,5xI2WO75cIHhGX55MlaIgU,False,True,Some People Do,57,12,track,album,Old Dominion,2019,0.632,0.227,9,-9.459,1,0.0378,0.856,0.0,0.101,0.323,112.81,Country
+365,1,316556,False,0gOz9JUXsaKVzLTSmFDtdo,False,True,A Soulmate Who Wasn’t Meant to Be,71,9,track,album,"Do You Love Me, or Are You Just Lonely?",2019,0.571,0.0274,9,-20.274,0,0.0649,0.948,6.43e-06,0.322,0.087,124.209,Country
+370,1,293706,False,0mKnuxVkPi5h0kuvZl44VM,False,True,Cover Me Up,78,13,track,album,Dangerous: The Double Album,2021,0.549,0.44,7,-8.192,1,0.0264,0.232,7.37e-06,0.107,0.214,128.01,Country
+371,1,203466,False,4UN6sBmFTt2IqxN3IRqJT3,False,True,Gaslighter,56,1,track,album,Gaslighter,2020,0.681,0.728,2,-7.317,1,0.0513,0.00624,0.0,0.055,0.693,131.017,Country
+372,1,215033,False,01dBLHq3UWyDRWDZJXj235,False,True,Cheatin’ Songs,59,4,track,album,Let It Roll,2019,0.723,0.723,4,-5.522,1,0.0269,0.043,3.99e-05,0.326,0.694,109.988,Country
+386,1,205106,False,1dyxS3YzBbL0t8rEVwVQ1K,False,True,God's Country,71,1,track,single,God's Country,2019,0.538,0.752,10,-5.106,1,0.0396,0.0608,5.39e-06,0.118,0.217,139.984,Country
+391,1,186733,False,7aEtlGHoiPAfRB084NiDmx,False,True,Beer Never Broke My Heart,79,1,track,album,What You See Is What You Get,2019,0.538,0.863,1,-4.483,1,0.0481,0.0139,0.0,0.0874,0.637,77.001,Country
+392,1,200593,False,2KKijf6Ett4kmVNJze2roh,False,True,The Git Up,71,10,track,album,Honeysuckle & Lightning Bugs,2019,0.847,0.678,9,-8.635,1,0.109,0.0669,0.0,0.274,0.811,97.984,Country
+401,1,199382,False,6ERR6e7h6wCqGoz1TjiUJb,False,True,Knockin' Boots,67,1,track,single,Knockin' Boots,2019,0.739,0.682,2,-3.728,1,0.205,0.129,0.0,0.328,0.634,131.983,Country
+418,1,168960,False,2KqJC0koTBUyDlsMt5ok1V,False,True,Look What God Gave Her,72,4,track,album,Center Point Road,2019,0.739,0.85,2,-3.966,1,0.0308,0.0272,0.0,0.181,0.883,113.0,Country
+419,1,202920,False,4qQwGRtGT7l6ckQtdPEFd4,False,True,Talk You Out Of It,64,4,track,album,Can't Say I Ain't Country,2019,0.651,0.708,4,-4.791,1,0.0376,0.582,0.0,0.0796,0.558,119.964,Country
+420,1,159735,False,6KgBpzTuTRPebChN0VTyzV,False,True,Good as Hell,76,15,track,album,Cuz I Love You (Super Deluxe),2019,0.682,0.919,0,-3.18,0,0.0875,0.256,0.0,0.442,0.535,95.982,Country
+421,1,207933,False,3yOs8FffuG6hPbzQG9lIqV,False,True,I Don't Know About You,68,4,track,album,Laps Around The Sun,2018,0.593,0.81,1,-5.733,1,0.0625,0.602,0.0,0.119,0.712,144.011,Country
+422,1,169920,False,08tq1XcHwVt5PHXUo87i0D,False,True,All To Myself,66,4,track,album,Dan + Shay,2018,0.646,0.781,1,-4.616,1,0.0313,0.208,0.0,0.125,0.565,94.975,Country
+423,1,170977,True,4C6Uex2ILwJi9sZXRdmqXp,False,True,Super Freaky Girl,93,1,track,single,Super Freaky Girl,2022,0.95,0.891,2,-2.653,1,0.241,0.0645,1.77e-05,0.309,0.912,133.01,Country
+424,1,192840,False,5NfJGBAL9mgFPRQxKJmiX2,False,True,Miss Me More,64,2,track,album,Unapologetically (Deluxe Edition),2018,0.643,0.72,2,-7.146,1,0.0527,0.014,0.0,0.0834,0.491,96.028,Country
+425,1,202586,False,3g9OCNXY2aSbGRQGY17qVE,False,True,What Happens In A Small Town,51,1,track,single,What Happens In A Small Town,2018,0.496,0.775,11,-5.304,1,0.0411,0.000927,0.0,0.14,0.478,138.165,Country
+426,1,210373,False,4j6GMcVcqZf1r0GDqMtYp6,False,True,Prayed For You,65,6,track,album,Everywhere But On,2019,0.6,0.698,9,-5.86,1,0.0355,0.0724,1.64e-06,0.113,0.57,140.032,Country
+427,1,182493,False,5AnSllIrgGsCZzZJkVnApx,False,True,Eyes On You,70,4,track,album,Lambs & Lions,2017,0.606,0.652,9,-6.982,1,0.0281,0.323,0.0,0.201,0.476,97.155,Country
+432,1,184173,False,5WA2SHuL5eesmPnYflNzlT,False,True,Rearview Town,59,8,track,album,Rearview Town,2018,0.526,0.85,10,-4.47,0,0.0313,0.023,0.0,0.0948,0.338,141.973,Country
+433,1,216533,False,38nVuIj9mi5a8oopOJhSJk,False,True,Here Tonight,61,2,track,album,Ticket To L.A.,2018,0.517,0.776,11,-5.271,1,0.0362,0.0144,0.0,0.113,0.448,96.002,Country
+442,1,204720,False,52MNypbTWiwybwzhXvsPk5,False,True,Love You Too Late,59,1,track,album,All of It,2018,0.542,0.797,9,-4.45,0,0.0379,0.00111,0.0,0.0906,0.593,113.95,Country
+443,1,191018,False,6Vmb8Ru0BvjWGozOVGApRd,False,True,The Ones That Didn’t Make It Back Home,62,3,track,album,Late Nights And Longnecks,2019,0.537,0.784,3,-4.869,1,0.034,0.0979,0.0,0.224,0.468,137.995,Country
+448,1,172253,False,0bPnT6i9H1p8Vd85GS6Z7I,False,True,Night Shift,75,4,track,album,California Sunrise,2016,0.63,0.754,2,-3.564,1,0.0284,0.0963,0.0,0.268,0.73,95.999,Country
+453,1,170280,False,53kWAAfx7IopXRa31MQHB8,False,True,Good Vibes,72,1,track,single,Good Vibes,2020,0.558,0.877,10,-3.392,1,0.145,0.274,0.0,0.162,0.762,99.988,Country
+454,1,122517,True,2kx5sQgmjYug0GiDh1a4sU,False,True,"Living Life, In The Night",84,1,track,single,"Living Life, In The Night",2018,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,Country
+455,1,187000,False,3Mnr3yyQk1aUPYgbpOQE31,False,True,Make It Sweet,63,1,track,album,Old Dominion,2019,0.424,0.837,7,-4.453,1,0.0472,0.0373,0.0,0.0665,0.554,180.175,Country
+456,1,347520,True,5hc71nKsUgtwQ3z52KEKQk,False,True,Somebody Else,73,10,track,album,"I like it when you sleep, for you are so beautiful yet so unaware of it",2016,0.61,0.788,0,-5.724,1,0.0585,0.195,0.0142,0.153,0.472,101.045,Country
+461,1,202853,False,7qXPZxXn6Xmv1sjh03skiW,False,True,Southbound,62,5,track,album,Cry Pretty,2018,0.614,0.884,0,-4.019,1,0.0402,0.00122,0.0,0.077,0.721,100.531,Country
+462,1,175594,False,6voi5xnLs9JKmWG2oLmgDU,False,True,Raised on Country,57,1,track,single,Raised on Country,2019,0.572,0.794,2,-3.224,1,0.0455,0.395,0.0,0.23,0.79,148.095,Country
+467,1,182160,False,7qEHsqek33rTcFNT9PFqLf,False,True,Someone You Loved,88,4,track,album,Divinely Uninspired To A Hellish Extent,2019,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,Country
+476,1,227800,False,6fybp4N6eW3bsFAvARxyVe,False,True,Ain't Talkin' 'Bout Love - 2015 Remaster,68,4,track,album,Van Halen (Remastered),1978,0.518,0.938,8,-5.964,0,0.0416,0.021,0.000305,0.288,0.71,139.138,Country
+485,1,235266,False,3bDXhWsPiFTHtrsMg5faL2,False,True,What Makes You Country,61,1,track,album,What Makes You Country,2017,0.515,0.948,0,-1.721,1,0.0438,0.0106,0.0,0.134,0.752,159.983,Country
+486,1,194426,False,7grWGhX8SHNmyGOkMNVMCt,False,True,There Was This Girl,69,1,track,album,Different 'Round Here,2019,0.616,0.877,1,-4.223,1,0.0347,0.00258,2.56e-06,0.114,0.94,127.981,Country
+491,1,178333,False,3pJkBPHadRAxBBo484RipI,False,True,Sixteen,66,3,track,album,Life Changes,2017,0.705,0.531,1,-7.031,1,0.0281,0.0135,2.11e-06,0.165,0.425,107.013,Country
+496,1,206293,False,3WBY2lhKzkxaG5bNscQrOG,False,True,Buy My Own Drinks,56,2,track,album,Blue Roses,2019,0.686,0.9,5,-4.406,1,0.0614,0.068,0.0,0.0985,0.962,155.963,Country
+510,1,201832,False,0YVdTI4w1BEqSjGNXcRjX1,False,True,REDNECKER,67,2,track,single,THIS OLE BOY,2018,0.537,0.751,7,-5.472,1,0.0344,0.0506,9.63e-05,0.1,0.51,143.962,Country
+511,1,274186,True,0yhxBvedRdGxsPZHJNI4VA,False,True,I Thought About Killing You,63,1,track,album,ye,2018,0.752,0.396,2,-7.932,1,0.411,0.867,0.0,0.0486,0.417,116.016,Country
+516,1,214786,False,41FLEFSeRCv19OBn0vLiaH,False,True,It All Comes Out in the Wash,53,3,track,album,Wildcard,2019,0.602,0.73,0,-4.925,1,0.0313,0.00106,0.000116,0.095,0.923,164.029,Country
+517,1,228266,False,7vvRkLPIvfjjmCIqNxBuEZ,False,True,Back To Life,66,9,track,album,Keep On Movin',1989,0.817,0.484,7,-11.659,1,0.143,0.0515,0.000213,0.0391,0.671,100.978,Country
+518,1,194840,False,1OfEfwXp9IKC5qRTtiGUWg,False,True,Every Little Honky Tonk Bar,60,1,track,album,Honky Tonk Time Machine,2019,0.66,0.83,5,-5.099,1,0.029,0.292,0.0,0.141,0.856,122.079,Country
+528,1,185413,False,4qgObmdV1KatQHViTYrT6U,False,True,Nothing To Do Town,46,1,track,single,Nothing To Do Town,2019,0.551,0.836,2,-5.182,1,0.0338,0.0249,1.33e-05,0.222,0.911,147.954,Country
+529,1,229880,False,2gE58DQyqgsvsK87SWUN62,False,True,Where Rainbows Never Die,69,3,track,album,Reckless,2010,0.603,0.341,4,-8.892,1,0.0264,0.921,0.00314,0.102,0.365,113.452,Country
+530,1,209264,False,2GHJ7SJUd1KunqhFyI7vFf,False,True,Someone I Used To Know,59,4,track,album,The Owl,2019,0.621,0.746,6,-5.69,0,0.03,0.000927,0.00108,0.102,0.334,107.953,Country
+531,1,255653,True,4bEcoz1OcfMgUbp2ft8ieQ,False,True,911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),75,10,track,album,Flower Boy,2017,0.48,0.61,0,-7.042,1,0.305,0.0456,0.0,0.313,0.297,90.034,Country
+536,1,187333,False,6biq5BjD7UAXpefEgDVbp5,False,True,Closer To You,52,1,track,album,Carly Pearce,2020,0.663,0.686,4,-4.549,0,0.0304,0.124,0.0,0.112,0.444,111.971,Country
+537,1,194898,False,7nGuT0EfqQ1TXcADEKwB6Q,False,True,Day Drunk,62,5,track,album,Things That We Drink To,2018,0.647,0.754,10,-5.446,1,0.0378,0.015,0.0,0.0684,0.755,97.005,Country
+538,1,210475,False,6gSZX6W69nGvEBzlvfvvz2,False,True,She's Somebody's Daughter (The Wedding Version),62,1,track,single,She's Somebody's Daughter (The Wedding Version),2021,0.499,0.375,6,-7.29,1,0.0364,0.803,0.0,0.108,0.4,171.987,Country
+543,1,214095,False,1QJvq84l7YcVCyIkGA602c,False,True,Never Comin Down,49,2,track,album,Graffiti U,2018,0.697,0.82,1,-4.275,1,0.0448,0.00928,0.000118,0.122,0.815,94.995,Country
+548,1,213133,False,3VsnfupUj0vtPG1t8dKbxC,False,True,Neon Church,42,19,track,album,Here On Earth (Ultimate Edition),2021,0.465,0.788,0,-4.808,1,0.0502,0.0774,0.0,0.0854,0.344,128.029,Country
+549,1,211986,False,5FNDpQSkgFiRdUKGfagIRJ,False,True,Stronger Than Me,53,2,track,album,Frank (US Clean e-Version),2003,0.884,0.51,9,-4.679,0,0.0392,0.0436,0.000333,0.0615,0.855,91.453,Country
+550,1,233478,False,3w3y8KPTfNeOKPiqUTakBh,False,True,Locked out of Heaven,87,2,track,album,Unorthodox Jukebox,2012,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,Country
+551,1,196800,False,6EGAfJaLUFzhS4zRBIEQ2J,False,True,You Make It Easy,72,4,track,album,Rearview Town,2018,0.375,0.574,7,-5.305,1,0.0315,0.143,0.0,0.11,0.406,132.025,Country
+552,1,205453,False,0OWZFobGSIW9GrSlQ9C5pc,False,True,Marry Me,71,5,track,album,Life Changes,2017,0.333,0.412,3,-8.633,1,0.029,0.0977,0.0,0.113,0.474,85.028,Country
+553,1,221800,False,4gB7HrYHbJVJ5RFOjxmoq4,False,True,One Number Away,72,6,track,album,This One's for You,2017,0.544,0.781,6,-6.16,0,0.0311,0.00585,0.0,0.191,0.527,144.075,Country
+554,1,356626,False,1ju7EsSGvRybSNEsRvc7qY,False,True,Simple Man,75,4,track,album,Pronounced' Leh-'Nerd 'Skin-'Nerd,1973,0.422,0.752,6,-8.682,1,0.0449,0.0366,0.000119,0.129,0.403,120.471,Country
+555,1,199625,False,6n6OQfBpCgzF9oEg8zhBN7,False,True,Get Along,68,3,track,album,Songs for the Saints,2018,0.632,0.804,7,-6.109,1,0.0503,0.101,0.0,0.17,0.35,92.456,Country
+556,1,208733,False,0AS63m1wHv9n4VVRizK6Hc,False,True,Mercy,83,3,track,album,Illuminate (Deluxe),2017,0.555,0.662,11,-4.952,0,0.0827,0.125,0.0,0.111,0.356,148.128,Country
+557,1,197253,False,3EWMoDIm6lzuR0zQKtuCJX,False,True,Up Down (feat. Florida Georgia Line),74,1,track,album,If I Know Me,2018,0.589,0.882,6,-3.039,1,0.035,0.0813,0.0,0.146,0.793,129.915,Country
+558,1,221800,False,79LAFAkR1ATb4iIQvZuCL0,False,True,Most People Are Good,64,4,track,album,What Makes You Country,2017,0.586,0.732,8,-6.171,1,0.0279,0.176,0.0,0.148,0.582,150.109,Country
+559,1,212106,False,0N9uZRrJQ3lO5TmInEjLxc,False,True,Take Back Home Girl (feat. Tori Kelly),63,1,track,album,Laps Around The Sun,2018,0.493,0.796,11,-3.971,1,0.0691,0.39,0.0,0.0957,0.644,159.988,Country
+560,1,202066,False,2dwoqUYTy6SOy1dFqcTndC,False,True,Drowns The Whiskey (feat. Miranda Lambert),63,7,track,album,Rearview Town,2018,0.552,0.698,8,-4.817,1,0.0306,0.294,0.000103,0.0905,0.6,90.006,Country
+561,1,199693,False,5Z19ylxppfnfdP4JH0u8oj,False,True,Break Up in the End,61,5,track,album,All of It,2018,0.507,0.372,1,-8.433,1,0.0303,0.481,0.0,0.271,0.257,86.422,Country
+566,1,216093,False,53yTYusPQJ1AApL1hi0Dnc,False,True,"Sunrise, Sunburn, Sunset",67,5,track,album,What Makes You Country,2017,0.471,0.897,9,-2.27,1,0.0597,0.193,0.0,0.196,0.719,159.958,Country
+567,1,172866,False,6Ac4NVYYl2U73QiTt11ZKd,False,True,Hooked On A Feeling,74,1,track,single,Hooked On A Feeling,1973,0.547,0.82,8,-6.728,1,0.0805,0.261,0.0,0.3,0.933,118.208,Country
+568,1,226706,False,20X9OeC606XNwEtDBOym5u,False,True,Love Drunk,65,2,track,album,Love Drunk,2009,0.44,0.976,10,-3.17,1,0.141,0.00177,3.39e-06,0.16,0.412,150.005,Country
+573,1,166573,False,33471tzU1VghDg9zNgGRpz,False,True,Hotel Key,67,4,track,album,Happy Endings,2017,0.758,0.867,11,-5.087,1,0.0475,0.152,0.0,0.308,0.964,102.018,Country
+578,1,187026,False,3dlCF1mzW1UKMOb4b1XN17,False,True,I Was Jack (You Were Diane),60,4,track,album,Greetings From...Jake,2019,0.604,0.868,6,-3.539,1,0.0445,0.086,0.0,0.0502,0.553,94.057,Country
+579,1,190226,False,4Vxu50qVrQcycjRyJQaZLC,False,True,Life Changes,65,8,track,album,Life Changes,2017,0.687,0.845,7,-4.37,1,0.0576,0.1,0.0,0.0452,0.809,87.972,Country
+580,1,219600,False,5slddJ629YcePvqD6Uyk8r,False,True,I Lived It,54,11,track,album,Texoma Shore,2017,0.557,0.571,10,-8.106,1,0.0281,0.476,0.00114,0.101,0.392,80.981,Country
+581,1,179826,False,3nBXOlFTADNvG9nkqy2O2W,False,True,"Woman, Amen",60,4,track,album,The Mountain,2018,0.484,0.804,5,-5.889,1,0.0912,0.000837,9.29e-06,0.17,0.391,119.838,Country
+586,1,212066,False,5PBx0zFfehUMyv5H4YXVAU,False,True,Blue Tacoma,67,3,track,album,Yours,2017,0.458,0.897,9,-4.879,1,0.0402,0.0183,0.0,0.174,0.728,160.131,Country
+591,1,185440,False,6CyJlVAEFlNdpggOLanytL,False,True,Hangin' On,57,2,track,album,Losing Sleep,2017,0.434,0.831,8,-4.774,1,0.0453,0.0651,0.0,0.119,0.596,156.034,Country
+596,1,224240,False,0v4z1tuZvn6LGknom9Qx7d,False,True,Babe (Taylor's Version) (From The Vault),72,24,track,album,Red (Taylor's Version),2021,0.584,0.743,4,-7.075,1,0.0931,0.0538,2.83e-06,0.121,0.746,167.844,Country
+605,1,229573,False,2NEBP8SXEqwZt2PRdPXXuy,False,True,Everything's Gonna Be Alright,62,3,track,album,No Zip Code,2018,0.764,0.587,5,-7.002,0,0.0298,0.0721,6.45e-06,0.094,0.494,89.98,Country
+606,1,234146,True,6PnluwP0fjGnpIBsqTdUTq,False,True,Pretty When You Cry,74,7,track,album,Ultraviolence (Deluxe),2014,0.509,0.547,10,-6.548,0,0.0417,0.399,0.0,0.215,0.197,109.436,Country
+607,1,182306,False,2R4AlwtrrkMaRKojcTIzmL,False,True,For the First Time,81,4,track,album,This Old Dog,2017,0.551,0.529,5,-10.469,0,0.0517,0.296,0.0093,0.178,0.521,75.515,Country
+612,1,213183,False,4f3fb3alVLFc8Ga4ncpg7x,False,True,Kiss Somebody,63,2,track,album,Things That We Drink To,2018,0.57,0.684,6,-7.054,1,0.0465,0.136,0.0,0.205,0.531,89.012,Country
+613,1,202285,True,1QPreu0BNOrUfEb8HTd2qG,False,True,Rich Spirit,79,7,track,album,Mr. Morale & The Big Steppers,2022,0.852,0.421,10,-9.153,0,0.208,0.428,2.28e-06,0.106,0.457,95.977,Country
+614,1,206386,False,65GbQI9VDTs7vo6MJL2iJA,False,True,Coming Home,70,1,track,album,Coming Home (Deluxe),2015,0.424,0.465,6,-6.595,1,0.0297,0.461,5.52e-05,0.154,0.462,112.418,Country
+627,1,265843,False,3PG6V5yuFfo4APiovOQoRv,False,True,I Was Born To Love You,67,1,track,single,I Was Born To Love You,2022,0.65,0.271,9,-11.081,1,0.0314,0.794,6.9e-05,0.196,0.21,78.036,Country
+632,1,208733,False,1vHeu2j2MpfMqqvcXKLtic,False,True,Desperate Man,53,8,track,album,Desperate Man,2018,0.711,0.796,10,-5.87,1,0.0341,0.0716,0.0045,0.262,0.901,109.991,Country
+633,1,180301,False,2p2cCrOaNrIOLk5ArtlHy6,False,True,She's with Me,56,1,track,album,Dear Life,2016,0.599,0.931,11,-3.662,1,0.0517,0.0285,0.0,0.102,0.788,111.012,Country
+638,1,275440,False,7HW5WIw7ZgZORCzUxv5gW5,False,True,Don't Go Breaking My Heart,79,10,track,album,Rock Of The Westies,1975,0.729,0.844,5,-8.824,1,0.0344,0.149,2.87e-06,0.0604,0.777,131.459,Country
+639,1,173920,False,0W95eMaAxNVYTquOsXXkC5,False,True,"Female Energy, Part 2",64,2,track,album,WILLOW,2019,0.539,0.39,4,-8.341,0,0.0293,0.0143,0.000125,0.174,0.361,119.791,Country
+648,1,153000,False,7zwn1eykZtZ5LODrf7c0tS,False,True,You Get Me So High,83,9,track,album,Hard To Imagine The Neighbourhood Ever Changing,2018,0.551,0.881,7,-6.099,0,0.0542,0.186,0.0791,0.152,0.387,88.036,Country
+649,1,209586,False,4iThW5yeI2ExwwG0zte69c,False,True,Hide The Wine,52,1,track,album,Every Little Thing,2017,0.567,0.913,5,-4.264,0,0.145,0.0621,0.0,0.0866,0.605,77.287,Country
+666,1,171493,False,11fWR3u9wjDMW4oVDbUbyT,False,True,Happens Like That,57,4,track,album,When The Good Guys Win,2017,0.557,0.807,7,-5.428,1,0.0825,0.189,0.0,0.234,0.578,81.045,Country
+667,1,208238,False,1g3ErLqysBJ5EIGdYYMWFZ,False,True,All Day Long,51,1,track,album,The Big Day,2019,0.767,0.884,2,-3.674,1,0.161,0.028,0.0,0.103,0.717,123.01,Country
+672,1,261800,False,5XQv5uep3VmhEuDWeFwRep,False,True,Kinda Don't Care,54,3,track,album,Kinda Don't Care,2016,0.584,0.752,1,-5.674,1,0.0309,0.0974,3.05e-05,0.0544,0.735,150.046,Country
+673,1,213986,False,5eFfsbjSouG8qOpg9ZqDl6,False,True,Downtown's Dead,50,1,track,single,Downtown's Dead,2018,0.624,0.696,11,-6.006,1,0.0469,0.109,0.0,0.132,0.392,82.001,Country
+674,1,191186,False,0Sbeihd75SGitymHS8Bqbh,False,True,I Hate Love Songs,58,9,track,album,Unapologetically (Deluxe Edition),2018,0.386,0.446,11,-7.807,1,0.0297,0.252,0.0,0.18,0.4,179.995,Country
+679,1,207053,False,0ya80Qhw7hgeJp2L6zvxcj,False,True,Shoot Me Straight - Radio Edit,52,1,track,single,Shoot Me Straight (Radio Edit),2018,0.643,0.782,2,-6.012,1,0.0445,0.00751,1.35e-05,0.082,0.571,96.97,Country
+680,1,198466,False,1Be8liECvEP5NYZjYvukbI,False,True,She Ain't In It,58,7,track,album,California Sunrise,2016,0.395,0.674,5,-4.626,1,0.028,0.127,3.37e-05,0.332,0.585,185.647,Country
+685,1,205266,False,3I74lFPU8RE17EIfYz351J,False,True,The Ones That Like Me,56,2,track,album,The Devil Don't Sleep,2017,0.437,0.834,6,-3.807,1,0.0404,0.0329,1.03e-06,0.383,0.436,154.053,Country
+686,1,225360,False,19P6cJstaoQJHtHW3HOGcg,False,True,The Rest of Our Life,59,1,track,album,The Rest of Our Life,2017,0.617,0.468,2,-6.908,1,0.0291,0.65,0.0,0.141,0.333,119.921,Country
+687,1,234186,False,4ruSkRHMQKBPtYAYpMf0oR,False,True,Three Chords & The Truth,47,8,track,album,Lambs & Lions,2017,0.44,0.889,8,-4.723,1,0.0462,0.0275,0.0,0.143,0.409,166.074,Country
+688,1,278826,True,7EZPH9Px3gXlxD5KJDwtwc,False,True,Bandz A Make Her Dance (feat. Lil' Wayne & 2 Chainz),63,14,track,album,Stay Trippy,2013,0.871,0.743,2,-5.442,1,0.277,0.00212,0.0,0.141,0.576,130.977,Country
+689,1,191986,False,6guWjUuNYziyNXgjFo1IpF,False,True,"Houston, We Got a Problem",69,13,track,album,This One's for You Too (Deluxe Edition),2018,0.521,0.762,9,-5.059,1,0.0362,0.0961,6.15e-06,0.395,0.486,143.866,Country
+690,1,196040,True,19a3JfW8BQwqHWUMbcqSx8,False,True,Famous,74,4,track,album,The Life Of Pablo,2016,0.465,0.735,6,-3.715,1,0.117,0.0711,0.0,0.0975,0.409,173.935,Country
+695,1,209080,False,7qcRDEpmDWS0bLHaZRYE8c,False,True,A Little Dive Bar in Dahlonega,57,7,track,album,Girl Going Nowhere,2018,0.639,0.479,1,-6.192,1,0.0447,0.426,0.0,0.151,0.571,146.084,Country
+696,1,210173,False,4fhKaRCxbWXA3BwAr3Zxjx,False,True,David Ashley Parker From Powder Springs,55,1,track,single,David Ashley Parker From Powder Springs,2018,0.555,0.895,5,-4.787,1,0.0472,0.131,0.0,0.0922,0.38,138.076,Country
+697,1,184163,True,1j0lC0auZK1xIPRwSEb4Rb,False,True,Doing Fine,58,5,track,album,DeAnn,2019,0.653,0.175,5,-13.559,1,0.0366,0.829,0.0,0.197,0.393,84.418,Country
+698,1,224853,False,10M2Ex445zw585Ducldzkw,False,True,In Case You Didn't Know,75,4,track,album,Brett Young,2017,0.607,0.536,10,-7.306,1,0.0305,0.386,0.0,0.102,0.434,147.986,Country
+699,1,222533,False,6xHI9KjUjYT0FPtGO8Mxa1,False,True,Hurricane,77,5,track,album,This One's for You,2017,0.464,0.813,10,-6.185,1,0.0416,0.0153,0.0,0.254,0.515,75.977,Country
+700,1,205733,False,2YMhrXQYKkm4kXLcXKKd5z,False,True,Small Town Boy,69,3,track,album,Current Mood,2017,0.554,0.743,9,-6.016,1,0.0287,0.0251,0.0,0.359,0.673,72.997,Country
+701,1,201893,False,7f08qp3HROTkfrtNpiYGGo,False,True,Dirt On My Boots,75,6,track,album,California Sunrise,2016,0.683,0.796,11,-4.179,1,0.0285,0.111,0.0,0.197,0.531,90.031,Country
+702,1,269373,False,7x8dCjCr0x6x2lXKujYD34,False,True,The Pretender,79,1,track,album,"Echoes, Silence, Patience & Grace",2007,0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984,Country
+703,1,223626,False,2d48mamATjby7wgPjdrSOQ,False,True,Craving You,65,1,track,album,Life Changes,2017,0.613,0.839,9,-3.799,0,0.0352,0.000854,0.0,0.341,0.526,104.975,Country
+704,1,173680,False,29EkMZmUNz1WsuzaMtVo1i,False,True,I Bet You Look Good On The Dancefloor,63,2,track,album,"Whatever People Say I Am, That's What I'm Not",2006,0.535,0.948,6,-4.19,0,0.0356,0.00225,0.0,0.376,0.778,103.183,Country
+705,1,263120,False,23TxRN09aR1RB0G0tFoT0b,False,True,Better Man,66,7,track,album,The Breaker,2017,0.514,0.836,5,-3.663,1,0.0381,0.112,0.0,0.0878,0.501,143.888,Country
+706,1,165000,False,745H5CctFr12Mo7cqa1BMH,False,True,My Girl,80,3,track,album,The Temptations Sing Smokey,1965,0.572,0.418,0,-10.738,1,0.0349,0.635,0.0,0.0961,0.694,104.566,Country
+711,1,183413,False,4VFE6ZNqa8jHAmbYICoAFg,False,True,"God, Your Mama, And Me",64,11,track,album,Dig Your Roots,2016,0.443,0.817,7,-3.729,1,0.0511,0.318,0.0,0.374,0.652,168.1,Country
+712,1,220800,False,1vBpwxsLVwaR4evBIaFmqD,False,True,Drinkin' Problem,70,3,track,album,On The Rocks,2017,0.622,0.763,9,-6.4,1,0.0263,0.055,8.91e-06,0.313,0.621,102.0,Country
+713,1,205200,False,0w3Q14i073jLoew1hgJkwD,False,True,Heartache On The Dance Floor,73,9,track,album,California Sunrise,2016,0.596,0.834,9,-4.308,1,0.0474,0.0563,0.0,0.0866,0.618,116.0,Country
+714,1,176893,False,0OlS52TmtK2gPaEtdmr7DN,False,True,No Such Thing as a Broken Heart,63,1,track,album,Happy Endings,2017,0.651,0.782,8,-4.295,1,0.0718,0.295,0.0,0.107,0.945,171.987,Country
+715,1,203293,False,4T5Z4mbTe7kuGqgLpaRtTh,False,True,Any Ol' Barstool,63,12,track,album,They Don't Know,2016,0.536,0.722,4,-4.163,1,0.0284,0.312,0.0,0.117,0.499,143.78,Country
+716,1,177066,False,0WyFpxYlBCgH1gMXd26OOr,False,True,Flatliner (feat. Dierks Bentley),63,1,track,album,You Should Be Here,2016,0.555,0.896,0,-3.295,1,0.0388,0.00434,0.0,0.145,0.578,114.995,Country
+717,1,216800,False,08wJ1B9yu9sPeoRa5fbpr3,False,True,It Ain't My Fault,65,11,track,album,Pawn Shop,2016,0.735,0.831,9,-5.898,1,0.0332,0.00166,0.217,0.291,0.756,123.017,Country
+718,1,192000,False,4n0xztUAbHPUV8G3NQvF30,False,True,How Not To,60,5,track,album,Obsessed,2016,0.501,0.836,11,-3.587,0,0.0491,0.208,0.0,0.152,0.618,159.863,Country
+719,1,214800,False,0c4ICGb0jvszKj3KPR59JU,False,True,Every Time I Hear That Song,53,4,track,album,If I'm Honest,2016,0.523,0.725,2,-5.448,1,0.0339,0.0558,6.96e-06,0.0937,0.528,155.855,Country
+720,1,154706,False,73WWkaWkIRSP3MYGZ14aY4,False,True,More Girls Like You,60,7,track,album,SLOWHEART,2017,0.555,0.746,2,-5.522,1,0.033,0.00825,0.0,0.0796,0.712,75.01,Country
+721,1,189466,False,5sjIhQzNljMVrDklI91ezp,False,True,A Guy with a Girl,62,8,track,album,If I'm Honest,2016,0.552,0.893,0,-4.593,1,0.0383,0.0158,0.0,0.105,0.777,163.948,Country
+726,1,165173,False,3n2A6l4UayVe3GGKCvfQWV,False,True,Somebody Else Will,56,7,track,album,Kinda Don't Care,2016,0.488,0.744,2,-4.284,0,0.131,0.0353,0.0,0.0952,0.59,180.007,Country
+727,1,212320,False,4Az17HfqonKSWNsaLgTBeK,False,True,If I Told You,62,4,track,album,When Was The Last Time,2017,0.532,0.64,9,-6.684,1,0.0314,0.344,0.0,0.361,0.308,84.029,Country
+728,1,206826,False,4D4xJ4LyDXBWIf9thFSMAJ,False,True,Yours If You Want It,56,1,track,album,Back To Us,2017,0.554,0.903,8,-3.152,1,0.0515,0.0103,0.0,0.107,0.419,112.998,Country
+729,1,194413,False,2WaOQWSv0D1tZNxyLvnGAI,False,True,Yeah Boy,57,11,track,album,The First Time,2015,0.589,0.809,3,-5.292,1,0.0376,0.231,0.0,0.0719,0.496,88.965,Country
+730,1,296800,False,2M9ro2krNb7nr7HSprkEgo,False,True,Fast Car,79,2,track,album,Tracy Chapman,1988,0.711,0.292,4,-15.523,0,0.037,0.313,0.0,0.131,0.194,103.951,Country
+739,1,215080,False,5C6uh95eAL0RBTSGXKQwvk,False,True,Hometown Girl,64,3,track,album,Deep South,2017,0.502,0.792,3,-5.473,0,0.0335,0.304,0.0385,0.143,0.44,155.902,Country
+740,1,212893,False,66pxmg3Jhjm09tHoWR1wVR,False,True,All the Pretty Girls,65,2,track,album,Cosmic Hallelujah,2017,0.612,0.848,6,-3.736,1,0.0368,0.00916,0.0,0.366,0.719,120.996,Country
+741,1,200400,False,6M31fPFCYB8Job3MCjjrDV,False,True,They Don't Know About Us,77,12,track,album,Take Me Home (Expanded Edition),2012,0.514,0.727,0,-6.131,1,0.0492,0.126,0.0,0.0978,0.37,147.917,Country
+742,1,234306,False,3I7krC8kr0gFR7P6vInR1I,False,True,Do I Make You Wanna,67,9,track,album,Summer Forever,2015,0.553,0.747,9,-5.432,1,0.0279,0.106,0.0,0.154,0.521,90.012,Country
+743,1,176986,False,4JjIIBNoho0V2gZjH4nEzR,False,True,Think a Little Less,56,7,track,album,Michael Ray,2015,0.521,0.805,9,-4.481,1,0.0289,0.124,0.000219,0.33,0.527,141.967,Country
+744,2,259279,False,4ckQIgBy1gVeevf7UAereE,False,True,Tin Man,60,1,track,album,The Weight of These Wings,2016,0.425,0.372,0,-10.92,1,0.03,0.861,0.0148,0.0733,0.292,79.456,Country
+745,1,227222,False,0jyYstiiibkN6xlS7INejg,False,True,My Old Man,56,6,track,album,Welcome Home,2017,0.639,0.196,4,-11.478,1,0.0267,0.819,3.63e-05,0.0978,0.3,143.907,Country
+746,1,188933,False,0s6OWiWGuiCcm1Muzch5A8,False,True,Fix a Drink,63,5,track,album,EVERYBODY,2017,0.563,0.887,1,-5.013,1,0.0857,0.0297,0.0,0.352,0.794,158.05,Country
+755,1,136899,True,0YrKSfpvflYnLSBd4Jtu6J,False,True,Time Today,70,9,track,album,A Gangsta’s Pain,2021,0.912,0.608,1,-7.686,1,0.397,0.0458,0.0,0.248,0.327,136.994,Country
+768,1,232640,False,2BvVMDhRtxoOtaexr9pjyn,False,True,Ask Me How I Know,51,1,track,single,2018 Nominees - Original Songwriter Demos - Bonus Tracks,2018,0.528,0.58,1,-6.705,1,0.039,0.171,2.49e-06,0.0875,0.222,144.008,Country
+769,1,211959,False,0QWjl7fUTh1jc3d70IAODd,False,True,Ring on Every Finger,50,2,track,album,The Fighters,2016,0.586,0.92,7,-3.749,1,0.064,0.0241,6.32e-06,0.173,0.639,100.023,Country
+774,1,217333,False,6DRsEO5yuEGBF87qpyMB4d,False,True,Somethin' I'm Good At,56,5,track,album,Brett Eldredge,2017,0.574,0.937,5,-4.34,1,0.112,0.0453,0.0,0.242,0.446,103.006,Country
+779,1,232160,False,421ebjYqaIXEG2KloTbXlH,False,True,Speak to a Girl,48,10,track,album,The Rest of Our Life,2017,0.466,0.504,1,-7.456,1,0.0396,0.641,0.0,0.226,0.222,151.719,Country
+780,1,207306,False,2flWhcGYxQHhb1EeeU2dOL,False,True,Bar at the End of the World,52,6,track,album,Cosmic Hallelujah,2017,0.529,0.8,2,-3.726,1,0.031,0.00541,0.0,0.104,0.687,100.035,Country
+785,1,230831,False,3EWQsarNCItwHn9hE2MHTn,False,True,Last Time for Everything,51,2,track,album,Love and War,2017,0.482,0.739,7,-5.476,1,0.0342,0.422,1.87e-05,0.468,0.613,155.932,Country
+790,1,215641,False,4THuF3jYLaHQlg6VwMVB9N,False,True,There's a Girl,49,1,track,single,There's a Girl,2021,0.527,0.812,7,-5.49,1,0.0389,0.228,0.0,0.0764,0.373,97.188,Country
+803,1,208280,False,21LRaD9rB3v7p7DDCZsW4y,False,True,The Way I Talk,74,10,track,album,If I Know Me,2018,0.604,0.879,4,-3.388,1,0.0322,0.0468,0.0,0.0909,0.757,137.983,Country
+804,1,170746,False,66hAuG73iyknIMW4icfEGg,False,True,We Should Be Friends,48,5,track,album,The Weight of These Wings,2016,0.622,0.701,0,-6.212,1,0.118,0.325,0.0,0.123,0.777,161.094,Country
+817,1,238933,False,1VMQYQQlYHhbudATkSJiP1,False,True,Makin’ Me Look Good Again,60,3,track,album,Spark,2016,0.574,0.586,10,-6.141,1,0.0337,0.354,0.0,0.106,0.26,127.795,Country
+818,1,248053,False,6Wo5YxkdXgwzKQZbDg2r17,False,True,Either Way,61,5,track,album,From A Room: Volume 1,2017,0.655,0.0645,4,-14.765,1,0.0429,0.854,1.11e-05,0.107,0.278,129.399,Country
+819,1,263213,False,6wVViUl2xSRoDK2T7dMZbR,False,True,Bizarre Love Triangle,66,6,track,album,Brotherhood (Collector's Edition),1986,0.613,0.885,10,-7.463,1,0.052,0.0804,0.746,0.0997,0.919,118.506,Country
+820,1,391376,False,40riOy7x9W7GXjyGp4pjAv,False,True,Hotel California - 2013 Remaster,85,1,track,album,Hotel California (2013 Remaster),1976,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,Country
+821,1,244266,False,6gcNSi6b9gvDBjYO059lrF,False,True,Outskirts of Heaven,61,3,track,album,See You Try,2018,0.497,0.434,0,-5.73,1,0.0296,0.333,3.11e-06,0.108,0.266,115.749,Country
+822,1,173453,False,0nrU9kVMgxK0wzLtgICDrc,False,True,Baby Let's Lay Down and Dance,25,1,track,single,Baby Let's Lay Down and Dance,2016,0.688,0.796,7,-7.518,1,0.0297,0.00132,3.13e-06,0.0677,0.608,114.029,Country
+840,1,177720,False,0T5iIrXA4p5GsubkhuBIKV,False,True,Until I Found You,90,1,track,single,Until I Found You,2021,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,Country
+841,1,245320,False,4eMxLQtSdgxdA1Hs6D2YuN,False,True,In Hell I'll Be in Good Company,63,4,track,album,Good Company,2014,0.772,0.235,7,-9.075,0,0.0479,0.753,0.00125,0.111,0.703,154.802,Country
+842,1,194186,False,0BCy325UZyR9z0t0uxwn2N,False,True,H.O.L.Y.,72,4,track,album,Dig Your Roots,2016,0.523,0.666,7,-4.081,0,0.0327,0.401,0.0,0.0728,0.564,78.077,Country
+847,1,259266,False,4Pn0JlCUusD2QHjADuOzuV,False,True,Humble And Kind,69,11,track,album,Damn Country Music,2015,0.355,0.48,11,-7.31,1,0.0282,0.679,2.28e-06,0.12,0.137,100.956,Country
+848,1,197120,False,5CG9Ps5ynNjpKJHmwc95pa,False,True,Somewhere On A Beach,67,5,track,album,Black,2016,0.569,0.638,7,-6.557,1,0.0291,0.000547,0.0,0.0848,0.438,144.042,Country
+849,1,202346,False,4ly1QBXEwYoDmje9rmEgC4,False,True,Head Over Boots,74,3,track,album,California Sunrise,2016,0.563,0.688,7,-4.474,1,0.0262,0.0763,0.0,0.0863,0.622,108.008,Country
+850,1,190173,False,63thx7OANplv4I4BQsanHk,False,True,You Should Be Here,64,8,track,album,You Should Be Here,2016,0.489,0.641,7,-4.455,1,0.0282,0.0592,0.0,0.0857,0.303,136.095,Country
+855,1,197930,False,1LM5zQv5pBKPyO7rm7Uz6U,False,True,My Church,69,3,track,album,HERO (Deluxe Edition),2017,0.517,0.743,9,-4.336,1,0.0363,0.243,3.36e-06,0.107,0.664,76.979,Country
+856,1,220413,False,1N7qGCKRRnvjoy8MGyHgpS,False,True,Came Here to Forget,56,5,track,album,If I'm Honest,2016,0.613,0.667,1,-6.874,0,0.029,0.356,1.29e-05,0.111,0.481,130.023,Country
+857,1,200040,False,2wqXQjOmQ9KoBm9Ssgt4Fo,False,True,Peter Pan,65,2,track,album,The First Time,2015,0.514,0.659,1,-6.142,1,0.0309,0.0284,0.0,0.266,0.463,76.483,Country
+858,1,278613,False,0dbzWSYpMcRtwjI1S7Pkql,False,True,"Huntin', Fishin' And Lovin' Every Day",68,12,track,album,Kill The Lights (Deluxe),2015,0.543,0.81,0,-4.275,1,0.0368,0.14,1.23e-05,0.145,0.395,76.978,Country
+859,1,253933,False,0lQJBl9YEsoMtE8D4yTE9g,False,True,From the Ground Up,66,3,track,album,Obsessed,2016,0.281,0.58,9,-5.967,1,0.0323,0.333,0.0,0.122,0.282,151.568,Country
+860,1,194506,False,4llYMkhHa1w7UAdDFRQcEZ,False,True,Lights Come On,60,1,track,album,They Don't Know,2016,0.567,0.839,6,-4.048,0,0.0698,0.0489,0.0,0.103,0.903,160.062,Country
+861,1,193333,False,67citk3uzWs5qbaIVKTeg8,False,True,Church Bells,67,3,track,album,Storyteller,2015,0.575,0.844,3,-1.772,0,0.0633,0.226,0.0,0.0538,0.542,87.007,Country
+862,1,180360,False,5HJId22hZ2IvFnvNSy6ZbE,False,True,Different For Girls,60,10,track,album,Black,2016,0.655,0.768,4,-5.616,1,0.0365,0.385,0.000257,0.0733,0.431,92.021,Country
+863,1,242407,True,1rkfJLgTlB6XYNjgZ0sVaK,False,True,T-Shirt,67,2,track,album,Culture,2017,0.865,0.687,10,-3.744,0,0.217,0.242,0.0,0.158,0.486,139.023,Country
+864,1,179346,False,5fSPbm5lcwtqwXkeQQswW8,False,True,Record Year,69,9,track,album,Mr. Misunderstood,2015,0.589,0.641,5,-8.12,1,0.0838,0.205,0.0,0.0864,0.57,160.031,Country
+865,1,206506,False,7I5fYc4qKJddht8Ozhqqdx,False,True,Snapback,65,1,track,album,Meat and Candy,2015,0.687,0.793,5,-3.577,1,0.0333,0.302,3.46e-06,0.1,0.673,100.993,Country
+866,1,218946,False,6W9W8dSswA8KNegvl3W97V,False,True,Think of You,65,3,track,album,I'm Comin' Over,2015,0.616,0.893,11,-3.588,1,0.0375,0.000937,0.0,0.111,0.567,111.959,Country
+867,1,190773,False,0RE8WWlaCQM6M4XHUK3u7b,False,True,Home Alone Tonight,57,4,track,album,Kill The Lights (Deluxe),2015,0.501,0.966,8,-1.177,1,0.112,0.0796,0.0,0.0903,0.497,161.881,Country
+868,1,199746,False,0O1x2tRm8ZpfDbcpOWZp7z,False,True,American Country Love Song,60,11,track,album,American Love,2016,0.529,0.891,8,-4.36,1,0.043,0.0457,0.0,0.0942,0.329,104.031,Country
+869,1,173960,False,1jNNHFZmRGXZFHlil5uhei,False,True,Drunk on Your Love,62,9,track,album,Illinois,2015,0.443,0.831,11,-5.606,1,0.0616,0.414,0.0,0.204,0.588,182.064,Country
+870,1,220293,True,7DKS0rX27cCEPsK0R6tFWS,False,True,Wasted Times,74,3,track,album,"My Dear Melancholy,",2018,0.56,0.678,10,-6.167,0,0.0581,0.61,1.42e-05,0.111,0.29,122.585,Country
+871,1,225693,False,0xwPzLmBAYro8BUz7MrtAo,False,True,Make You Miss Me,65,7,track,album,Montevallo,2014,0.614,0.472,7,-6.626,1,0.0297,0.158,0.0,0.111,0.168,146.005,Country
+872,1,211200,False,7wBThXx7BGZHJJ3aN3OPvv,False,True,Confessions Part II,70,5,track,album,Confessions (Expanded Edition),2004,0.845,0.467,1,-7.674,1,0.138,0.0586,0.0,0.0694,0.702,138.007,Country
+873,1,295533,False,7LVHVU3tWfcxj5aiPFEW4Q,False,True,Fix You,85,4,track,album,X&Y,2005,0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178,Country
+874,1,269840,True,3WWAvWDBQANpJeNbvVbjMg,False,True,Heartbeat,74,6,track,album,Camp,2011,0.8,0.545,1,-7.002,0,0.126,0.00373,0.000507,0.0445,0.292,119.965,Country
+875,1,220708,True,6MOst484piqXpzPPRRe8i5,False,True,vice city,72,1,track,single,vice city,2022,0.853,0.467,9,-6.843,0,0.195,0.00596,0.00171,0.203,0.329,87.023,Country
+876,1,184506,False,0iA1unTbTbDOWUSlbwJ1pS,False,True,It Don't Hurt Like It Used To,66,7,track,album,Summer Forever,2015,0.558,0.818,8,-4.07,1,0.0403,0.071,0.0,0.21,0.453,81.034,Country
+877,1,185413,False,2MNapHbu7QASoukvVVIxyr,False,True,Mind Reader,57,6,track,album,Where It's At,2014,0.394,0.8,4,-4.17,0,0.0413,0.0266,0.0,0.184,0.525,162.053,Country
+878,1,209280,False,5S5rw0WLVCAux5B5bWCehK,False,True,I Like The Sound Of That,65,8,track,album,Rewind,2014,0.611,0.8,0,-5.61,1,0.0377,0.257,0.0,0.194,0.527,89.974,Country
+879,1,187480,False,1TGJxtVHgPHKVt6K7sPn1T,False,True,You Look Like I Need A Drink,54,6,track,album,Kinda Don't Care,2016,0.608,0.841,11,-3.626,1,0.028,0.0028,0.0,0.0834,0.917,106.004,Country
+880,1,244146,False,4WRRCuJYRq7gUKiupxVH9W,False,True,Nobody To Blame,64,6,track,album,Traveller,2015,0.534,0.666,9,-9.471,1,0.0335,0.0143,0.0615,0.113,0.59,87.401,Country
+881,1,191600,False,3tA0K5valodHMjA9bCsFtj,False,True,Beautiful Drug,58,1,track,album,JEKYLL + HYDE,2015,0.617,0.847,8,-5.447,0,0.0777,0.0369,2.84e-06,0.123,0.363,125.943,Country
+882,1,236786,False,6naYpFIKihKbGg6lGxpveI,False,True,Backroad Song,61,1,track,album,Remington,2016,0.488,0.833,11,-6.571,1,0.0437,0.0352,0.0172,0.34,0.751,174.006,Country
+883,1,190986,False,3JffB4CABj9lA0NC63kbCp,False,True,She's Got a Way with Words,52,2,track,album,If I'm Honest,2016,0.616,0.697,3,-5.952,1,0.0295,0.326,2.18e-05,0.0827,0.68,148.93,Country
+884,1,181733,True,7ytR5pFWmSjzHJIeQkgog4,False,True,ROCKSTAR (feat. Roddy Ricch),81,7,track,album,BLAME IT ON BABY,2020,0.746,0.69,11,-7.956,1,0.164,0.247,0.0,0.101,0.497,89.977,Country
+885,1,244973,False,4wCmqSrbyCgxEXROQE6vtV,False,True,Somebody That I Used To Know,77,3,track,album,Making Mirrors,2011,0.864,0.495,0,-7.036,1,0.037,0.591,0.000133,0.0992,0.72,129.062,Country
+886,1,324422,False,6UBjSnyP1O5W5ndJoO9vUk,False,True,Night Moves,72,2,track,album,Night Moves,1976,0.705,0.743,1,-6.631,1,0.042,0.432,0.0133,0.103,0.374,118.552,Country
+887,1,201533,False,4WtkYdCG4n80h08Ep5SmDI,False,True,I Met a Girl,52,4,track,album,Vinyl,2016,0.512,0.545,2,-10.154,1,0.0294,0.111,0.00177,0.135,0.346,83.94,Country
+888,1,90228,False,2bRKxuH1o7pTmb1y4GfdEc,False,True,Clean White Noise - Loopable with no fade,85,1,track,album,Best White Noise for Baby Sleep - Loopable with No Fade,2017,0.0,0.00342,8,-28.46,1,0.0,0.791,1.0,0.111,0.0,0.0,Country
+889,1,226600,False,5O2P9iiztwhomNh8xkR9lJ,False,True,Night Changes,88,7,track,album,FOUR (Deluxe),2014,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,Country
+890,1,68362,False,5La5bp76tDzUwBp5dqe6im,False,True,Breakfast On My Mind (MCDONALDS RAP),56,1,track,single,Breakfast On My Mind (MCDONALDS RAP),2021,0.661,0.434,0,-12.158,1,0.459,0.764,0.0,0.431,0.859,107.837,Country
+907,1,237800,False,3qtZwBkPpK2Q8fcYRHm4AX,False,True,It All Started With a Beer - Single Version,51,1,track,single,It All Started with a Beer,2015,0.541,0.505,2,-8.067,1,0.0254,0.405,0.0,0.131,0.367,74.004,Country
+920,1,188053,False,5sRHIWY7oREZYxTSbRybna,False,True,Castaway,60,8,track,album,JEKYLL + HYDE,2015,0.633,0.778,8,-5.201,1,0.0465,0.147,0.0,0.117,0.926,101.092,Country
+925,1,214386,False,483beWfErq5MZAvC0fJ7cr,False,True,21 Summer,59,2,track,album,Pawn Shop,2016,0.644,0.89,2,-6.993,1,0.0332,0.0246,2.57e-05,0.103,0.619,112.027,Country
+930,1,212720,False,1xT8auZdc8Rksi7RSGZoax,False,True,Running For You,49,12,track,album,Wild Ones (Deluxe),2015,0.673,0.626,2,-5.921,1,0.0428,0.0173,1.7e-05,0.0676,0.726,155.997,Country
+939,1,218600,False,28Ity8iD8yajjIi58syN83,False,True,Lovin' Lately,48,2,track,album,Gravity,2014,0.598,0.722,4,-5.544,1,0.0367,0.0443,0.0,0.127,0.752,153.924,Country
+940,1,209721,True,7cdy4PbCdDZZNjyxoZyE0c,False,True,Vacation,67,1,track,single,Vacation,2017,0.736,0.751,8,-5.588,1,0.034,0.0381,0.0,0.105,0.839,150.064,Country
+941,1,319240,False,79dlQxvdsCDApoM8XChkpy,False,True,Mr. Misunderstood,57,1,track,album,Mr. Misunderstood,2015,0.385,0.808,7,-6.67,1,0.045,0.0629,0.0,0.33,0.546,129.22,Country
+942,1,242480,False,3WWVDPjihd1VITBLF10nha,False,True,Forever Country,61,1,track,single,Forever Country,2016,0.201,0.684,7,-5.931,1,0.0389,0.401,1.46e-05,0.0954,0.131,90.056,Country
+943,1,234440,False,3DeLvrawPtl8wSupXgTlSh,False,True,Unlove You,54,2,track,album,Playing With Fire,2016,0.388,0.416,0,-7.344,1,0.0325,0.49,1.86e-05,0.0695,0.111,137.66,Country
+944,1,230573,False,2gbJBL8vlG4j8XuTnmsXnq,False,True,Stone Cold Sober,49,17,track,album,Just As I Am (Platinum Edition),2015,0.461,0.823,9,-5.627,1,0.0383,0.0312,1.14e-05,0.0828,0.419,147.898,Country
+945,1,188560,False,31SJq6bWHSVUYWTXXcnFju,False,True,Not Without A Fight,44,5,track,album,Confessions,2009,0.412,0.905,2,-3.076,0,0.0482,0.000173,0.000257,0.281,0.337,159.985,Country
+958,1,236200,False,1V3eyBz3pfkn9lBOlfle4x,False,True,Thy Will,56,7,track,album,Love Remains,2016,0.373,0.506,0,-5.404,0,0.0273,0.718,1.03e-06,0.118,0.123,157.742,Country
+963,1,176093,False,1RLT391KHFFJwbDb7y3eyd,False,True,Better in Boots,53,8,track,album,Suffer in Peace,2015,0.614,0.805,7,-5.34,1,0.0439,0.00445,2.98e-05,0.0604,0.691,80.02,Country
+964,1,244333,False,5j4hSQH0KaAc8f6cimnXIT,False,True,Fire Away,70,2,track,album,Traveller,2015,0.559,0.301,9,-9.066,1,0.0297,0.055,0.00979,0.101,0.177,116.123,Country
+965,1,191080,False,4PUd2AwQAWY05WWR5qxig9,False,True,Real Men Love Jesus,42,4,track,album,Michael Ray,2015,0.446,0.722,2,-4.537,1,0.0349,0.00614,4.8e-05,0.127,0.389,76.131,Country
+966,1,198493,False,6uHw1tIbsYjES6kT5NbI79,False,True,Shut Up And Fish,50,4,track,album,Start Here,2015,0.609,0.882,3,-2.683,1,0.0526,0.258,1.36e-06,0.315,0.857,126.041,Country
+967,1,156613,False,2QtZvpEiGKqcwMsF1tUW7B,False,True,Hole In A Bottle,45,4,track,album,Bronco,2015,0.686,0.796,8,-5.532,0,0.03,0.047,0.0,0.156,0.733,112.987,Country
+972,1,181680,False,6V3wTb4VVDWRw3YEDgc6Py,False,True,Used to Love You Sober,58,2,track,single,Chapter 1 - EP,2016,0.525,0.674,1,-6.053,1,0.0282,0.0405,0.0,0.339,0.431,147.978,Country
+973,1,227011,True,2wJJNgD6GrKoQ435VxTRv6,False,True,MAYDAY (feat. Ryo from Crystal Lake),61,1,track,album,THE SIDE EFFECTS,2019,0.522,0.97,10,-4.576,0,0.209,5.53e-05,0.0,0.246,0.488,121.054,Country
+974,1,243706,False,6DEaND0SHv3sC11xobZLiy,False,True,Take Your Time,67,1,track,album,Montevallo,2014,0.558,0.719,11,-5.603,1,0.0419,0.101,0.0,0.212,0.483,158.031,Country
+975,1,193320,False,11qh54D0PKkBwelpDxxiEU,False,True,Girl Crush,70,5,track,album,Pain Killer,2014,0.5,0.225,0,-10.22,1,0.0302,0.842,0.0,0.112,0.355,173.788,Country
+976,1,190240,False,1TwLKNsCnhi1HxbIi4bAW0,False,True,House Party,72,3,track,album,Montevallo,2014,0.747,0.861,8,-5.251,1,0.0514,0.113,0.0,0.026,0.859,103.966,Country
+977,1,190586,False,5g15o2Sm55Hn9ShK5yEXgp,False,True,Kick The Dust Up,66,1,track,album,Kill The Lights (Deluxe),2015,0.597,0.86,1,-2.315,1,0.0461,0.196,0.0,0.087,0.818,172.064,Country
+978,1,190733,False,2Fk0WwAqTBesLtKg97nojy,False,True,Crash and Burn,66,2,track,album,Tangled Up,2015,0.69,0.781,5,-5.101,0,0.0305,0.0873,2.28e-06,0.164,0.841,130.02,Country
+979,1,233480,False,0p1HtkrNYxv0iDfEKwXSTp,False,True,Sangria,64,6,track,album,BRINGING BACK THE SUNSHINE,2014,0.646,0.724,9,-6.96,1,0.0265,0.017,1.39e-06,0.153,0.54,115.984,Country
+980,1,205000,False,2kR18wsL3gvXRXdNE4dCGc,False,True,Homegrown,69,4,track,album,JEKYLL + HYDE,2015,0.712,0.807,6,-3.976,1,0.0297,0.0244,0.000122,0.0905,0.936,105.024,Country
+981,1,179077,False,2WKLUgklz0VDX5bKTZ3eYD,False,True,Buy Me a Boat,69,1,track,album,Buy Me a Boat,2015,0.574,0.745,2,-6.663,1,0.0507,0.319,0.0,0.11,0.693,154.042,Country
+982,1,221600,False,72f7jNxopSGvbx3M35i3Zl,False,True,"John Cougar, John Deere, John 3:16",59,2,track,album,Ripcord,2016,0.694,0.779,0,-6.984,1,0.071,0.0688,3.99e-06,0.0803,0.594,84.975,Country
+983,1,198906,False,6hr4weuSidHy2LNMw8UVJ2,False,True,Like A Wrecking Ball,64,7,track,album,The Outsiders,2014,0.693,0.335,0,-10.863,1,0.0395,0.338,0.000552,0.118,0.623,136.071,Country
+984,1,207733,False,5ZManJDV3CexO66nRCkdiV,False,True,Break Up with Him,64,8,track,album,Meat and Candy,2015,0.617,0.632,8,-5.381,1,0.0371,0.0675,0.0,0.108,0.564,151.988,Country
+985,1,241946,True,0Ft6hwGWdCdujdK6TOfBV7,False,True,Lose My Mind,56,17,track,album,TM:103 Hustlerz Ambition (Deluxe),2011,0.705,0.75,1,-4.558,1,0.0524,0.0632,0.0,0.146,0.392,77.748,Country
+990,1,155653,False,5mhW03yGpDpkYHs9aZaxSE,False,True,Loving You Easy,63,2,track,album,JEKYLL + HYDE,2015,0.721,0.585,1,-4.184,1,0.0276,0.0143,2.42e-06,0.0682,0.355,99.0,Country
+991,1,203053,False,2QVzUws1l5mzZ4v46tGHrC,False,True,Love You Like That,63,3,track,album,Bronco,2015,0.559,0.766,11,-5.056,1,0.0295,0.0107,6.98e-05,0.194,0.723,145.26,Country
+992,1,295600,False,1LzNfuep1bnAUR9skqdHCK,False,True,Fade Into You,79,1,track,album,So Tonight That I Might See,1993,0.42,0.33,9,-13.925,1,0.0275,0.245,0.000679,0.0677,0.175,157.143,Country
+993,1,211739,False,0OWhKvvsHptt6vnnNUSM9a,False,True,Oklahoma Smokeshow,77,4,track,single,Summertime Blues,2022,0.544,0.573,8,-5.694,1,0.0356,0.0958,0.0,0.104,0.233,122.977,Country
+994,1,193640,False,0H9Q7Vzu8nYRDBZYKbtU8d,False,True,Sippin’ On Fire,59,6,track,album,Anything Goes,2014,0.476,0.92,10,-3.223,1,0.0329,0.00485,1.15e-05,0.355,0.694,142.952,Country
+995,1,210760,False,4lnnde7PnrXR3pUzQKBe6X,False,True,Little Toy Guns,51,2,track,compilation,Greatest Hits: Decade #1,2014,0.434,0.868,7,-1.208,1,0.0603,0.00407,1.98e-06,0.0919,0.204,161.886,Country
+996,1,187586,False,3y1t2sEahs8idFz2tiYNPO,False,True,Let Me See Ya Girl,57,5,track,album,Cole Swindell,2014,0.523,0.834,6,-3.561,1,0.0281,0.254,0.0,0.393,0.445,92.99,Country
+997,1,231666,False,1pm6AoOYO81llP3gwkTAbI,False,True,Tonight Looks Good on You,57,7,track,album,"Old Boots, New Dirt",2014,0.481,0.75,6,-5.593,0,0.0537,0.219,1.2e-06,0.0958,0.523,169.958,Country
+1002,1,182213,False,6wfTb2he5ANMQSFnlamnyi,False,True,Save It for a Rainy Day,60,9,track,album,The Big Revival,2014,0.538,0.775,7,-5.48,1,0.0291,0.0053,0.0,0.0807,0.614,154.889,Country
+1003,1,200026,False,0knbW9EwgSLfNFMWys1mQm,False,True,Love Me Like You Mean It,57,3,track,album,The First Time,2015,0.645,0.84,4,-5.894,1,0.0518,0.0452,0.0,0.327,0.805,151.94,Country
+1004,1,181400,False,6jRcSR1kOPWJYisvkFfjUV,False,True,Kiss You in the Morning,51,1,track,album,Michael Ray,2015,0.557,0.909,11,-3.405,1,0.0423,0.00769,0.0,0.317,0.857,152.13,Country
+1005,1,221466,False,2XEl9DfBj88c8p2bdfx1qu,False,True,One Hell Of An Amen,56,8,track,album,Just As I Am (Platinum Edition),2015,0.548,0.665,1,-5.622,1,0.0281,0.0139,2.72e-06,0.0769,0.549,138.055,Country
+1006,1,196000,False,16PNN9wK1LbedzcTp7y8y0,False,True,A Guy Walks Into a Bar,57,2,track,album,Suffer in Peace,2015,0.428,0.78,0,-3.472,1,0.0373,0.083,0.0,0.115,0.431,147.986,Country
+1007,1,190426,False,4x7Di9FZJXJoxHjLxjImmp,False,True,Hell Of A Night,57,1,track,album,Where It's At,2014,0.499,0.797,2,-4.845,1,0.0402,0.00472,0.0,0.297,0.591,85.054,Country
+1008,1,165517,True,4mrtQv4t8ikdSOb58jmpLO,False,True,I Don’t Like It,64,5,track,album,Realer 2,2022,0.763,0.6,7,-6.518,1,0.275,0.0917,0.0,0.106,0.328,144.984,Country
+1009,1,190586,False,4B1FxT0hP5dMWL64ubGR6P,False,True,Ain’t Worth The Whiskey,22,14,track,compilation,NOW That's What I Call Country #1s,2016,0.427,0.745,2,-3.866,1,0.0317,0.0329,0.0,0.139,0.507,153.606,Country
+1018,1,223733,False,1G60o2g78glgxC0No8SsvQ,False,True,When You Say Nothing at All,60,10,track,album,Don't Close Your Eyes,1988,0.666,0.296,3,-15.412,1,0.0247,0.691,3.82e-06,0.0552,0.393,80.007,Country
+1019,1,218866,False,46ZfPS5VpSQVU5gb82hg3K,False,True,Anything Goes,66,1,track,album,Anything Goes,2014,0.458,0.976,0,-3.791,1,0.0459,0.00182,0.0,0.193,0.76,154.007,Country
+1020,1,217413,False,2j79NtwxoWDmkiH4MGwdLq,False,True,Lonely Eyes,60,3,track,album,A.M.,2013,0.657,0.674,1,-5.273,1,0.0319,0.0326,1.88e-05,0.0947,0.336,106.005,Country
+1029,1,235293,False,5OQsiBsky2k2kDKy2bX2eT,False,True,Learn to Fly,78,3,track,album,There Is Nothing Left To Lose,1999,0.465,0.919,4,-4.025,1,0.0408,1.83e-05,2.07e-05,0.262,0.537,135.997,Country
+1030,1,195480,False,1WtdhlaiUoDTrVNSwaya0L,False,True,Just Gettin' Started,50,1,track,album,"Old Boots, New Dirt",2014,0.507,0.805,9,-4.611,0,0.0867,0.396,1.16e-06,0.106,0.513,167.983,Country
+1031,1,180346,False,6ll39ALTlddWWQZLjSFlwM,False,True,Young & Crazy,54,1,track,album,Sunshine & Whiskey,2014,0.61,0.876,0,-4.244,1,0.0394,0.0247,0.0,0.31,0.783,115.05,Country
+1032,1,199746,False,6WCqjXvMxAN2yP4dzeoyhF,False,True,Baby Be My Love Song,53,5,track,album,About To Get Real,2015,0.488,0.713,0,-6.148,1,0.0472,0.0569,0.0,0.305,0.483,167.973,Country
+1033,1,198373,False,5gqlIpczfzjHkSToi7FPK3,False,True,Diamond Rings And Old Barstools,0,28,track,album,Sad Country Songs,2022,0.55,0.496,5,-6.325,1,0.025,0.463,0.000135,0.119,0.353,141.898,Country
+1034,1,214949,False,1HE3TzRFmNQ7QQLoEMl0R2,False,True,Gonna Wanna Tonight,54,8,track,album,Ignite the Night (Party Edition),2014,0.584,0.79,2,-6.544,1,0.0412,0.0444,4.22e-05,0.0734,0.691,123.961,Country
+1035,1,220146,False,3yMVUGqVK5iTTkA8kGChH2,False,True,Crushin' It,52,1,track,album,Moonshine in the Trunk,2014,0.595,0.823,2,-5.864,1,0.0483,0.0385,1.35e-06,0.0984,0.745,108.99,Country
+1044,1,184946,False,3YimpODfNhxj3rN81v4WvE,False,True,Raise 'Em Up,54,12,track,album,Fuse (Deluxe Edition),2013,0.609,0.788,4,-7.855,1,0.0416,0.645,3.72e-05,0.174,0.54,108.053,Country
+1045,1,164866,False,02bJ6uGeHKfNOhIc9qyA8e,False,True,Wild Child,69,1,track,album,Dropout Boogie,2022,0.68,0.639,5,-6.233,0,0.0278,0.017,5.09e-06,0.0398,0.957,106.991,Country
+1046,1,251573,True,66Q3fAmSX5eHamgbKa9alP,False,True,Real Friends,67,12,track,album,The Life Of Pablo,2016,0.441,0.744,6,-6.248,0,0.476,0.262,0.000382,0.138,0.124,81.396,Country
+1047,1,262053,False,1B17jo7XD3lJ9AtrdE9kUd,False,True,She Don't Love You,55,9,track,album,Eric Paslay,2014,0.36,0.333,7,-8.491,1,0.0285,0.335,1.09e-06,0.114,0.17,74.53,Country
+1048,1,204386,False,4sl4UWqzHSG7riBKdralwy,False,True,Little Red Wagon,57,3,track,album,Platinum,2014,0.584,0.813,6,-7.221,1,0.0582,0.0297,0.000197,0.272,0.774,95.081,Country
+1057,1,134293,False,2zb0YGNHrTqSGC8RTERD4o,False,True,Maybe I’m to Blame,3,10,track,album,That's Me in the Bar (20th Anniversary Edition),2015,0.428,0.084,11,-16.306,1,0.0358,0.573,1.09e-06,0.111,0.148,77.762,Country
+1058,1,218364,True,3F5CgOj3wFlRv51JsHbxhe,False,True,Jimmy Cooks (feat. 21 Savage),91,14,track,album,"Honestly, Nevermind",2022,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,Country
+1059,1,184386,False,3jSyE8r8vgg8fmwojoMzql,False,True,Already Callin' You Mine,52,10,track,album,Feels Like Carolina,2013,0.59,0.887,1,-2.634,1,0.0353,0.0504,0.0,0.132,0.679,120.061,Country
+1060,1,143226,True,2xyx0o4xNOLLjBSbOOdcbA,False,True,Playing Games (with Bryson Tiller) - Extended Version,78,3,track,album,Over It,2019,0.726,0.408,11,-6.606,0,0.0614,0.603,0.0,0.225,0.459,115.918,Country
+1061,1,275546,True,4FxkQzIhsLAkuiqX5puvU6,False,True,Till It's Gone,64,6,track,album,Love Story,2015,0.523,0.714,4,-7.552,0,0.0683,0.466,0.00359,0.113,0.359,128.968,Country
+1062,1,218786,False,3obQ7Qx6YZt8r1KvTv7uk3,False,True,What We Ain't Got,46,9,track,album,Days of Gold,2013,0.537,0.257,9,-10.447,1,0.0344,0.952,3.89e-05,0.0899,0.169,127.981,Country
+1071,1,78680,True,4aOOExMBUyxKnEYb39SrTg,False,True,Riot,75,1,track,single,Riot,2020,0.509,0.542,3,-8.027,0,0.442,0.019,0.00639,0.23,0.151,97.767,Country
+1076,1,171746,False,6QlmzxCyQGBnp3C2CoaNB3,False,True,Long Stretch Of Love,40,1,track,album,747,2014,0.534,0.937,1,-2.267,1,0.0504,0.0796,0.0,0.0476,0.484,102.161,Country
+1077,1,222493,False,0MMR8NPLI0tq82FaZH14sF,False,True,Going Out Like That,53,1,track,album,Love Somebody,2015,0.635,0.835,6,-4.729,1,0.0331,0.00191,1.83e-06,0.201,0.476,124.012,Country
+1078,1,224960,False,0WgQTMtmw8qJievyeqfnnS,False,True,Run Away with You,51,6,track,album,Gravity,2014,0.535,0.803,6,-4.116,0,0.0465,0.141,0.0,0.297,0.342,147.902,Country
+1095,1,223000,True,0YHI5hydPPth6J5UOzdLDX,False,True,Lay Low,60,9,track,album,Tha Last Meal,2000,0.87,0.653,0,-4.353,1,0.326,0.151,0.0,0.303,0.755,94.84,Country
+1100,1,196520,False,4vHVfwVi2CEc4r7P1Pr9iu,False,True,Biscuits,52,6,track,album,Pageant Material,2015,0.438,0.572,0,-5.542,1,0.0407,0.331,0.0,0.0805,0.84,202.414,Country
+1101,1,250000,False,0HccAcPMNevr8ERJCWlFk3,False,True,Riser,51,8,track,album,RISER,2014,0.512,0.657,0,-7.875,1,0.0325,0.115,0.01,0.0897,0.27,164.029,Country
+1102,1,162053,True,5BbdKBZO0TH0GhfxUfyhL9,False,True,Freestyle,83,13,track,album,Too Hard,2017,0.877,0.517,2,-5.426,0,0.0706,0.217,0.0,0.143,0.255,119.996,Country
+1103,1,170932,False,3SVsgASqZaDDTtL1jaDCyh,False,True,Trailer Hitch,42,3,track,album,Southern Gravity (The Complete Collection),2020,0.716,0.866,5,-4.177,1,0.0438,0.249,0.0,0.0706,0.867,93.007,Country
+1104,1,186453,False,3OFD6HAlPiHqy2XoPNaVMR,False,True,Hard to Be Cool,42,2,track,album,Crickets,2013,0.567,0.879,2,-4.704,1,0.0561,0.00615,1.44e-05,0.356,0.743,121.986,Country
+1105,1,225973,False,5n0CTysih20NYdT2S0Wpe8,False,True,Trouble,73,6,track,album,Tell Me I'm Pretty,2015,0.47,0.623,0,-5.655,1,0.0302,0.392,0.000439,0.0992,0.298,77.861,Country
+1106,1,214506,False,2Z8WuEywRWYTKe1NybPQEW,False,True,Ride,83,3,track,album,Blurryface,2015,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,Country
+1111,1,220906,False,2TR7A4ulH9R1PNwMyd8o8U,False,True,This Is How We Roll,71,12,track,album,Here's To The Good Times...This Is How We Roll,2013,0.555,0.931,8,-2.969,1,0.0367,0.016,0.0,0.405,0.723,132.085,Country
+1112,1,242013,True,4AYX69oFP3UOS1CFmV9UfO,False,True,Bottoms Up (feat. Nicki Minaj),73,5,track,album,"Passion, Pain & Pleasure (Deluxe Version)",2010,0.844,0.601,1,-5.283,1,0.157,0.0205,0.0,0.385,0.331,73.989,Country
+1113,1,226866,False,03fT3OHB9KyMtGMt2zwqCT,False,True,Play It Again,76,9,track,album,Crash My Party,2013,0.506,0.886,11,-3.225,1,0.0655,0.0916,0.0,0.0734,0.595,143.935,Country
+1114,1,182960,False,1dgWTMoHwTUnQhOQ8SR5fV,False,True,American Kids,72,4,track,album,The Big Revival,2014,0.782,0.589,0,-7.37,1,0.0803,0.0476,5.84e-06,0.0366,0.849,85.022,Country
+1115,1,238800,True,1RGIjMFMgJxkZHMDXVYzOJ,False,True,Bartender (feat. Akon),74,7,track,album,Epiphany (Expanded Edition),2007,0.832,0.391,8,-8.504,1,0.0628,0.0564,0.0,0.224,0.436,104.961,Country
+1116,1,254466,False,1soxUgYIZb1qx1c7o1Lc7z,False,True,Drunk On A Plane,70,6,track,album,RISER,2014,0.423,0.73,9,-5.566,1,0.032,0.00495,1.13e-05,0.238,0.66,205.972,Country
+1117,1,238253,False,4svZDCRz4cJoneBpjpx8DJ,False,True,I Did Something Bad,76,3,track,album,reputation,2017,0.696,0.602,0,-6.156,0,0.159,0.0679,2.11e-05,0.0696,0.305,82.989,Country
+1118,1,202626,False,1PoGWZbJPGmViVi7CYbDUK,False,True,Drink A Beer,66,6,track,album,Crash My Party,2013,0.483,0.431,8,-7.656,1,0.0343,0.836,5.19e-05,0.199,0.296,78.26,Country
+1119,1,221173,False,5aj0xPGiEUN3aI2oOYu14S,False,True,I Don't Dance,68,1,track,album,I Don't Dance (Deluxe Edition),2014,0.587,0.559,1,-7.742,1,0.0321,0.399,6.69e-06,0.0992,0.19,92.036,Country
+1120,1,191040,False,5dNGORzxFb5z3v7vSAFkTU,False,True,Beachin',62,2,track,album,Days of Gold,2013,0.527,0.902,6,-5.352,1,0.0601,0.344,4.63e-05,0.0669,0.709,181.964,Country
+1121,1,207173,False,0Knptd72nhoBkF6ZPeUtb3,False,True,"Where It's at, Yep Yep (Instrumental Version)",0,6,track,compilation,Urban Hit Instrumental Wonders,2014,0.562,0.644,10,-10.283,1,0.0384,0.000295,0.721,0.33,0.729,158.005,Country
+1122,1,252493,False,3MykNWa65IP2VN1Qa6B9yK,False,True,Give Me Back My Hometown,56,11,track,album,The Outsiders,2014,0.621,0.676,1,-7.808,1,0.0303,0.506,0.0675,0.0825,0.482,104.008,Country
+1123,1,187400,False,4O1CExxinEpKZi3861NlTK,False,True,Get Me Some Of That,64,3,track,album,It Goes Like This,2013,0.549,0.866,6,-5.306,1,0.0476,0.0733,0.0,0.25,0.767,87.964,Country
+1124,1,224813,False,3M31S6f0z8S3nkFh3eS06W,False,True,Drink to That All Night,64,3,track,album,High Noon,2014,0.639,0.846,9,-6.184,0,0.0439,0.0325,0.0,0.116,0.475,115.965,Country
+1125,1,190587,False,1pbjOhmFwYC09EYU5EwB5L,False,True,Ready Set Roll,61,1,track,album,Ignite the Night (Party Edition),2014,0.513,0.803,0,-4.45,1,0.0777,0.0161,0.0,0.667,0.746,156.038,Country
+1126,1,208226,False,7GmiJVBAzWNikX5VkNQg85,False,True,Hawaiian Roller Coaster Ride,67,1,track,compilation,Lilo & Stitch,2002,0.702,0.624,5,-9.927,1,0.0285,0.314,0.0152,0.0669,0.947,114.542,Country
+1127,1,228106,False,2rO28hRLDbsenVjeWvwqQz,False,True,Meanwhile Back At Mama's,54,8,track,album,Sundown Heaven Town (Deluxe Edition),2014,0.524,0.679,6,-8.68,1,0.0435,0.583,5.79e-05,0.163,0.676,172.977,Country
+1128,1,180613,False,4BBnKqIS2pj2hX0zm0CZZx,False,True,REWIND,61,9,track,album,Formula of Love: O+T=<3,2021,0.665,0.732,5,-4.865,1,0.173,0.768,0.0,0.378,0.436,82.026,Country
+1129,1,179293,False,3un2KQUaQ2brEpd8dK93wI,False,True,Beat of the Music,63,7,track,album,Bring You Back,2013,0.629,0.808,9,-4.125,1,0.0269,0.00898,9.06e-06,0.0751,0.773,110.001,Country
+1130,1,182400,False,6aNwDe5YH5YUPlpHkku52w,False,True,Sunshine & Whiskey,67,2,track,album,Sunshine & Whiskey,2014,0.67,0.737,9,-6.794,1,0.0434,0.223,0.0,0.325,0.754,92.983,Country
+1135,1,250373,False,5rb9QrpfcKFHM1EUbSIurX,False,True,Yeah! (feat. Lil Jon & Ludacris),83,2,track,album,Confessions (Expanded Edition),2004,0.894,0.791,2,-4.699,1,0.112,0.0183,0.0,0.0388,0.583,105.018,Country
+1136,1,256746,False,5vCgOg9VqRaAUbnflCO6P3,False,True,Cop Car,61,3,track,album,Fuse (Deluxe Edition),2013,0.538,0.664,1,-6.318,1,0.0392,0.193,0.0,0.0918,0.366,154.033,Country
+1137,1,171120,False,3gVRILe7XCyNakb6sy5umX,False,True,When She Says Baby,64,2,track,album,Night Train,2012,0.673,0.76,0,-5.126,1,0.0361,0.0682,0.000116,0.309,0.807,113.063,Country
+1138,1,175317,False,3Ne5uYDFzHEFYAPbaBMIck,False,True,AUTOMÁTICO,84,1,track,single,AUTOMÁTICO,2022,0.68,0.808,10,-3.854,0,0.224,0.0911,2.23e-06,0.205,0.868,176.131,Country
+1139,1,188146,False,5E4CJfa6yZNGSKVFSUgaBt,False,True,Whiskey in My Water,56,4,track,album,Redneck Crazy,2013,0.526,0.872,7,-5.079,1,0.0428,0.245,0.0,0.243,0.583,153.929,Country
+1140,1,203120,False,33LSgUa20mKNgeut1XwP2E,False,True,Lettin' The Night Roll,54,3,track,album,Off The Beaten Path (Deluxe Edition),2013,0.542,0.859,2,-5.137,1,0.0424,0.0873,0.0,0.145,0.637,140.9,Country
+1141,1,179800,False,0U6uTxVPeoXFcxlXMIWgAR,False,True,River Bank,50,2,track,album,Moonshine in the Trunk,2014,0.639,0.875,7,-5.793,1,0.0372,0.0929,0.0,0.296,0.892,117.028,Country
+1142,1,222613,False,1MDogqDrStFSO9cdUTUFem,False,True,Doin' What She Likes,52,7,track,album,Based on a True Story... (Deluxe Edition),2013,0.581,0.767,10,-6.28,1,0.0406,0.157,0.0,0.278,0.832,152.011,Country
+1143,1,178840,False,1pxXqJZBrCREdC0s4Xs6Xz,False,True,Day Drinking,62,2,track,album,Pain Killer,2014,0.591,0.959,9,-2.515,1,0.057,0.103,0.0,0.779,0.86,163.883,Country
+1148,1,201680,False,0rX4YStqUt1k1VEBe1U4HJ,False,True,Small Town Throwdown,53,9,track,album,Just As I Am (Platinum Edition),2015,0.555,0.863,7,-3.867,1,0.0379,0.0246,0.0,0.0563,0.699,98.006,Country
+1149,1,232106,False,2EvddT8rcO99bKH0rDHAYG,False,True,We Are Tonight,66,5,track,album,We Are Tonight,2013,0.559,0.812,11,-5.347,1,0.0371,0.0323,0.0,0.195,0.472,127.911,Country
+1154,1,199906,False,3QcuZo6WLcFkqqLmDs0d95,False,True,Doctor My Eyes,67,4,track,album,Jackson Browne (Saturate Before Using),1972,0.48,0.626,5,-8.406,1,0.0294,0.266,5.7e-05,0.0857,0.542,75.63,Country
+1155,1,191573,False,4u7KjVIQPdzGCcAwg4W5Kl,False,True,Who I Am With You,60,7,track,album,A.M.,2013,0.466,0.702,0,-4.308,1,0.032,0.0983,1.29e-05,0.242,0.47,150.309,Country
+1156,1,167960,False,0YNtAadZvKBBEFARtfoCV8,False,True,Compass,70,16,track,album,Hard To Imagine The Neighbourhood Ever Changing,2018,0.7,0.82,5,-5.499,0,0.0329,0.238,0.318,0.658,0.667,109.998,Country
+1157,1,177400,False,2WaYW84yWij5NSCpgSeU2R,False,True,You Make Me Feel So Young - Remastered 1998,65,1,track,album,Songs For Swingin' Lovers! (Remastered),1956,0.577,0.306,9,-11.559,1,0.0427,0.383,0.0,0.18,0.568,125.166,Country
+1158,1,185979,True,0bxmVPKnEopTyuMMkaTvUb,False,True,Issues/Hold On,65,3,track,album,K.T.S.E.,2018,0.528,0.523,7,-4.82,1,0.0523,0.833,1.53e-06,0.103,0.692,93.06,Country
+1159,1,248586,False,7ywzEdEuVG1lsjsRCGJfLy,False,True,When I Look At You,63,3,track,album,The Time Of Our Lives,2009,0.459,0.545,6,-4.874,1,0.0282,0.142,0.0,0.105,0.194,137.941,Country
+1160,1,230037,False,6bNk8Nakwq8nM6EGUy4nOP,False,True,Kiss Goodnight,57,8,track,album,RAZZMATAZZ,2020,0.491,0.598,7,-6.124,1,0.0353,0.0124,9.77e-06,0.284,0.44,177.96,Country
+1161,1,231693,False,4mnuiEDq1ADXUTYWJxLo4B,False,True,Helluva Life,54,4,track,album,Sunshine & Whiskey,2014,0.564,0.76,6,-5.667,1,0.0277,0.0676,0.0,0.144,0.528,134.015,Country
+1162,1,160000,True,3W9jnJBPYeihwNSXsr65f9,False,True,NO SNITCHING (with Dusty Locane),81,1,track,album,DOUBLE M'S,2022,0.731,0.653,1,-8.767,1,0.348,0.0627,0.0,0.348,0.424,155.943,Country
+1163,1,252880,False,6VsvKPJ4xjVNKpI8VVZ3SV,False,True,invisible string,73,11,track,album,folklore,2020,0.653,0.452,4,-11.143,0,0.055,0.838,7.73e-05,0.108,0.45,83.433,Country
+1164,1,159826,False,1ugf7FcFQ0s95CTB0btuzz,False,True,Keep Them Kisses Comin',51,2,track,album,Never Regret,2013,0.704,0.767,6,-5.708,1,0.0398,0.0524,0.000469,0.361,0.889,120.035,Country
+1177,1,178466,False,3vYQTgxQWWM4VIDHi7qhQ5,False,True,Everything I Shouldn't Be Thinking About,43,1,track,album,Just Feels Good,2013,0.68,0.947,8,-3.703,1,0.0338,0.0433,1.18e-05,0.204,0.895,115.983,Country
+1182,1,328421,False,78TzliRJJhCgsZ0ARUm8vI,False,True,A Sad Song About a Girl I No Longer Know,57,3,track,single,Bedside Kites,2018,0.444,0.418,9,-12.343,1,0.0296,0.845,0.00106,0.0747,0.225,81.829,Country
+1183,1,156008,False,1hf0PdHw0lnVxq5lfzwjSl,False,True,strawberry chainsaw,67,1,track,single,strawberry chainsaw,2022,0.615,0.879,5,-3.977,1,0.0451,0.234,2.35e-05,0.422,0.627,100.028,Country
+1184,1,139655,False,4aOn1poQUctDNYifxmgK61,False,True,July (Later On),56,1,track,single,July (Later On),2022,0.624,0.303,8,-9.455,0,0.0352,0.844,2.25e-05,0.162,0.775,173.912,Country
+1185,1,237333,False,3I09LQbHS3NSU46Ly3tPpR,False,True,Feeling Good,68,1,track,album,It's Time,2005,0.535,0.548,1,-6.51,1,0.037,0.533,1.48e-06,0.123,0.477,115.144,Country
+1202,1,209453,False,5FgLLtrDU4Ex2ezB9anpH5,False,True,The Heart Of Dixie,42,3,track,album,Danielle Bradbery,2013,0.456,0.637,6,-4.773,1,0.0354,0.0171,0.0,0.194,0.436,155.95,Country
+1203,1,220226,False,1y4eb6hmAvsqlDOl3fx9kk,False,True,Hot N Cold,71,7,track,album,One Of The Boys,2008,0.706,0.841,7,-3.956,1,0.0418,7.95e-05,0.0,0.0688,0.861,132.032,Country
+1208,1,272266,False,4Fpq4QkR06QRDkujBUk0JY,False,True,I Got A Car,55,1,track,album,Love Is Everything,2013,0.602,0.631,4,-7.371,1,0.033,0.332,0.0,0.12,0.472,138.389,Country
+1209,1,198840,False,5UY3Vzkc5INzJ3wBJm5FlD,False,True,Wake up Lovin' You,48,1,track,album,The Journey (Livin' Hits),2013,0.538,0.652,8,-3.521,1,0.0308,0.362,6.03e-06,0.083,0.515,75.028,Country
+1214,1,169353,False,2qxmye6gAegTMjLKEBoR3d,False,True,Let Me Down Slowly,85,4,track,album,Narrated For You,2018,0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,Country
+1219,1,263265,False,0Bo95z626OhKicgVoPBOrS,False,True,All Alright,45,1,track,single,"The Grohl Sessions, Vol. 1",2013,0.321,0.556,8,-6.752,1,0.0292,0.0746,7.67e-05,0.111,0.511,154.62,Country
+1220,1,171600,True,2ydUT1pFhuLDnouelIv4WH,False,True,The Rock Show,71,6,track,album,Take Off Your Pants And Jacket,2001,0.41,0.959,9,-4.563,1,0.0869,0.000324,0.0,0.0766,0.83,193.155,Country
+1221,1,261346,False,4tK5L8FD5Gl1dSwhzXuU6K,False,True,Lookin' For That Girl,33,1,track,single,Lookin' For That Girl,2014,0.494,0.843,6,-4.454,1,0.0342,0.00611,1.21e-05,0.0995,0.398,153.963,Country
+1222,1,257604,True,0k1WUmIRnG3xU6fvvDVfRG,False,True,Way 2 Sexy (with Future & Young Thug),81,7,track,album,Certified Lover Boy,2021,0.803,0.597,11,-6.035,0,0.141,0.000619,4.5e-06,0.323,0.331,136.008,Country
+1223,1,159346,False,0spRhrdp5a0qHBzcYwtFIX,False,True,Everybody's Got Somebody but Me (feat. Jason Mraz) - Encore,52,9,track,album,Hunter Hayes (Encore),2011,0.638,0.53,5,-6.928,1,0.063,0.337,0.0,0.179,0.882,151.618,Country
+1224,1,203411,False,7KoFHvEScguiEnD06xYtSt,False,True,Payback (feat. Icona Pop),57,1,track,single,Payback (feat. Icona Pop),2022,0.672,0.8,7,-4.919,0,0.0372,0.113,0.000302,0.132,0.8,118.013,Country
+1233,1,199640,False,4CLPNURPcKztF9RRdcWLGP,False,True,Follow Your Arrow,67,11,track,album,Same Trailer Different Park,2013,0.448,0.649,5,-5.925,1,0.0434,0.418,0.0,0.0976,0.575,195.925,Country
+1234,1,102813,False,1eUGmzzvahJjOSWgDHuRlv,False,True,Girl With The Tattoo Enter.lewd,78,3,track,album,All I Want Is You,2010,0.372,0.239,6,-11.314,0,0.0296,0.856,0.000175,0.168,0.127,113.451,Country
+1235,1,189440,False,2ieTFoBjqGVw8SfT4OSwVJ,False,True,Clockwork,55,3,track,album,About To Get Real,2015,0.593,0.629,0,-4.85,1,0.0285,0.0423,0.0,0.143,0.444,171.997,Country
+1236,1,226680,False,5rLi8B8qgk6qThwRnKHW2P,False,True,The Ballad of Mona Lisa,68,1,track,album,Vices & Virtues,2011,0.436,0.893,9,-4.18,0,0.0556,0.000362,0.0,0.103,0.0794,124.113,Country
+1241,1,298373,False,3xdjjKMcMOFgo1eQrfbogM,False,True,Wagon Wheel,79,3,track,album,True Believers,2013,0.537,0.66,9,-7.174,1,0.0296,0.455,0.0,0.135,0.574,148.096,Country
+1242,1,288760,False,39FwE8edwuyiaa4PrGBkP7,False,True,Boys 'Round Here (feat. Pistol Annies & Friends),67,1,track,album,Based on a True Story... (Deluxe Edition),2013,0.611,0.688,2,-6.369,1,0.0529,0.251,2.35e-06,0.248,0.649,169.895,Country
+1243,1,234760,False,6GBUsjHfZuweYf5lQEz6mP,False,True,Crash My Party,62,3,track,album,Crash My Party,2013,0.526,0.816,7,-4.009,1,0.0421,0.0285,0.0,0.22,0.414,144.032,Country
+1244,1,236865,False,4FkgULes13bk2eHrsJg4q9,False,True,I Want Crazy - Encore,65,14,track,album,Hunter Hayes (Encore),2011,0.562,0.878,8,-4.806,1,0.0387,0.0539,0.0,0.112,0.558,103.029,Country
+1245,1,276880,False,4wFUdSCer8bdQsrp1M90sa,False,True,Highway Don't Care,64,11,track,album,Two Lanes Of Freedom,2013,0.47,0.79,2,-5.352,1,0.039,0.0216,0.0,0.0863,0.495,158.061,Country
+1246,1,222013,False,6s9ICeczYOfbHHIaSMq9jd,False,True,Get Your Shine On,63,3,track,album,Here's To The Good Times,2012,0.497,0.927,0,-4.52,1,0.0371,0.00286,1.26e-06,0.413,0.607,96.991,Country
+1247,1,177773,False,2mXsZsJBThTaJXbNcg5QD4,False,True,Mama's Broken Heart,70,5,track,album,Four The Record,2011,0.768,0.809,4,-4.204,0,0.0616,0.278,0.0,0.139,0.748,111.989,Country
+1248,1,215720,False,5yIiXdLRE85OBiQmCaUenq,False,True,Sure Be Cool If You Did,56,2,track,album,Based on a True Story... (Deluxe Edition),2013,0.576,0.726,11,-4.625,1,0.035,0.255,0.0,0.108,0.582,136.802,Country
+1249,1,193773,False,6enPOmd3vSFpI4jjms8kXN,False,True,Runnin' Outta Moonlight,66,1,track,album,How Country Feels,2013,0.526,0.801,2,-3.717,1,0.0393,0.0354,3.17e-06,0.0637,0.769,172.024,Country
+1250,1,194680,False,3z0a8G407NbxfjTRffvQiP,False,True,Better Dig Two,60,1,track,album,Pioneer,2013,0.64,0.669,7,-5.17,1,0.0519,0.413,0.0,0.0779,0.646,155.844,Country
+1251,1,186080,False,6GsAD8PgHxmEuIPTG8GP3M,False,True,It Goes Like This,66,5,track,album,It Goes Like This,2013,0.543,0.837,11,-6.448,1,0.0608,0.117,0.0,0.0872,0.506,168.056,Country
+1256,1,216040,False,4lcXNTm9JrQpJYXqsENmFI,False,True,Redneck Crazy,60,3,track,album,Redneck Crazy,2013,0.487,0.667,7,-4.216,0,0.0309,0.153,0.0,0.161,0.463,145.854,Country
+1257,1,183333,False,6cqxDqWwB9o3j3eHMSV2mA,False,True,Different 'Round Here,65,2,track,album,Different 'Round Here,2019,0.502,0.677,1,-6.466,1,0.0293,0.00416,7.21e-06,0.0796,0.403,142.039,Country
+1262,1,292593,True,5pfJsMwoRYKampPay8amX0,False,True,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",68,2,track,album,This Unruly Mess I've Made,2016,0.828,0.609,1,-4.402,1,0.0694,0.0916,1.21e-06,0.291,0.707,109.725,Country
+1263,1,200785,False,47f6eZgviwSZciXGv2iWYg,False,True,"Hey Boy, Hey Girl",60,1,track,single,"Hey Boy, Hey Girl",2019,0.661,0.516,8,-11.207,1,0.0425,0.0013,0.0,0.0998,0.333,140.077,Country
+1264,1,155294,True,60aSGEAiNpUmrQ9JHwchH3,False,True,Don’t Even Bother (feat. Veeze & Baby Smoove),44,4,track,album,Michigan Boy Boat,2021,0.783,0.583,8,-7.867,1,0.061,0.076,0.0,0.146,0.222,124.633,Country
+1265,1,232306,False,5ytc87gcx6dZ4nWRNykinV,False,True,Night Train,63,9,track,album,Night Train,2012,0.496,0.708,5,-5.175,1,0.0293,0.0512,1.06e-06,0.182,0.502,158.121,Country
+1266,1,215920,False,75p6fgACKYIyIhsoG411SZ,False,True,Hey Pretty Girl,59,7,track,album,Up All Night,2012,0.291,0.4,2,-10.615,1,0.0306,0.145,1.86e-05,0.259,0.0935,83.112,Country
+1267,1,225640,False,6s3dgEQgen7G85NtYUTEbD,False,True,Every Storm (Runs Out Of Rain),62,2,track,album,Set You Free,2013,0.525,0.693,0,-6.972,1,0.0327,0.046,9.55e-06,0.247,0.363,107.012,Country
+1268,1,163066,False,6XD3HMATLswheYevIfKkSi,False,True,All Over The Road,66,1,track,album,All Over The Road,2012,0.491,0.841,5,-3.579,1,0.0421,0.0471,0.0,0.0886,0.721,199.851,Country
+1269,1,180386,True,7KA4W4McWYRpgf0fWsJZWB,False,True,See You Again (feat. Kali Uchis),85,4,track,album,Flower Boy,2017,0.558,0.559,6,-9.222,1,0.0959,0.371,7.49e-06,0.109,0.62,78.558,Country
+1270,1,251333,False,19PJ75UGKjpBo0muDNyxPW,False,True,Give It All We Got Tonight,59,2,track,album,Love Is Everything,2013,0.577,0.649,7,-7.031,1,0.027,0.253,5.03e-06,0.0798,0.339,130.313,Country
+1271,1,297946,False,5mFYtqhN4T2D9IPSaZnVDw,False,True,Two Black Cadillacs,58,3,track,album,Blown Away,2012,0.555,0.854,5,-4.468,0,0.0609,0.0223,3.95e-06,0.0672,0.448,119.991,Country
+1272,1,297000,True,4Hxcb6wDlelhZpk5fc5jmD,False,True,Anywhere With You,63,4,track,album,Surrender,2022,0.387,0.728,9,-5.33,1,0.053,0.283,0.00516,0.108,0.129,123.35,Country
+1273,1,188706,False,53Dj5PCDhb22qWqmre3YQs,False,True,Aw Naw,64,1,track,album,A.M.,2013,0.652,0.859,2,-3.746,1,0.0358,0.0639,0.0,0.0777,0.491,109.971,Country
+1274,1,186746,False,52erNkfUKv34u02CjcHOPj,False,True,If I Didn't Have You,61,12,track,compilation,On the Other Hand - All the Number Ones,2015,0.674,0.578,4,-10.919,1,0.0663,0.164,0.0,0.103,0.961,172.498,Country
+1275,1,225426,False,1RfPA6mxhOvc5dVK9MHReF,False,True,Pirate Flag,57,1,track,album,Life on a Rock,2013,0.559,0.795,7,-6.255,1,0.052,0.0787,4.83e-06,0.102,0.553,160.039,Country
+1276,1,281453,False,2EUHzmBZux7SSra71cGkIB,False,True,Beat This Summer,48,3,track,album,Wheelhouse,2013,0.563,0.722,6,-5.252,1,0.0407,0.313,0.0,0.393,0.801,150.039,Country
+1277,1,256026,True,6Jc69KjFo9QNailcyDJh2I,False,True,One of Those Nights (feat. The Weeknd),56,19,track,album,Stay Trippy (Deluxe),2013,0.75,0.589,5,-6.934,0,0.0348,0.0315,1.95e-06,0.0959,0.0812,130.029,Country
+1278,1,234840,False,6aPc6SSWgTsiXrrUpJCPlj,False,True,I Drive Your Truck,61,6,track,album,Hard 2 Love,2012,0.51,0.649,11,-6.215,1,0.0348,0.0978,0.00206,0.119,0.118,141.963,Country
+1279,1,180720,False,5ZMFVgZSYvbq3SmgRwaGMa,False,True,Point At You,52,5,track,album,Off The Beaten Path (Deluxe Edition),2013,0.626,0.805,7,-5.81,1,0.0449,0.0126,0.0,0.156,0.882,116.03,Country
+1280,1,207893,False,4HFNGbVmsMV5lHUvDuXLkl,False,True,Parking Lot Party,57,4,track,album,Hard 2 Love,2012,0.54,0.86,1,-5.763,1,0.081,0.00646,0.0,0.629,0.856,171.72,Country
+1281,1,255480,False,29AR5X5yKPd4DBIAiqUMDy,False,True,Southern Girl,52,4,track,album,Two Lanes Of Freedom (Accelerated Deluxe),2013,0.731,0.772,7,-4.559,1,0.0258,0.0407,0.0,0.449,0.928,110.04,Country
+1282,1,204179,True,5kcuHw8WtxauIWI5crMcLM,False,True,Tornado Warnings,67,4,track,album,emails i can't send,2022,0.7,0.571,3,-7.713,1,0.0591,0.171,0.0,0.0938,0.579,115.036,Country
+1283,1,193186,False,0h3DPHckCUqcWswjVMvdE9,False,True,The Only Way I Know (with Luke Bryan and Eric Church),60,6,track,album,Night Train,2012,0.511,0.798,7,-4.314,1,0.0498,0.227,6.51e-06,0.184,0.607,183.303,Country
+1284,1,173104,False,37y7iDayfwm3WXn5BiAoRk,False,True,Dark Red,90,1,track,single,Dark Red,2017,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,Country
+1293,1,198733,False,3wxgj5N8ZKoZWHDw6FJUf2,False,True,Like Jesus Does,58,4,track,album,Chief,2011,0.576,0.355,1,-8.388,1,0.033,0.439,4.55e-05,0.13,0.299,137.232,Country
+1294,1,252866,False,28ov70yrukmJDAFtiThdTS,False,True,More Than Miles,43,13,track,album,Halfway To Heaven (Deluxe Edition),2010,0.47,0.778,5,-5.992,1,0.037,0.0295,0.000225,0.354,0.448,152.005,Country
+1295,1,180813,False,6czEmVcntPHqHBYt2eRpgY,False,True,Jump Right In,58,1,track,album,Uncaged,2012,0.699,0.819,1,-5.111,1,0.058,0.0886,0.0,0.143,0.654,104.02,Country
+1296,1,206946,False,1rGLPyb4LMojT4wpxiZTp8,False,True,Sunny and 75,60,9,track,album,Crickets,2013,0.531,0.893,0,-4.422,1,0.055,0.184,1.01e-06,0.101,0.323,120.045,Country
+1297,1,206893,False,5UDqWOgDdixYMAgAyNbpgh,False,True,Merry Go 'Round,62,3,track,album,Same Trailer Different Park,2013,0.651,0.466,6,-9.403,1,0.0305,0.541,0.0027,0.116,0.326,86.953,Country
+1298,1,265173,False,77oU2rjC5XbjQfNe3bD6so,False,True,Beast Of Burden - Remastered 1994,73,9,track,album,Some Girls,1978,0.783,0.878,1,-3.864,0,0.0308,0.39,0.000778,0.0426,0.885,100.626,Country
+1311,1,158293,False,4elsQHzndSMtjrsbcwnZgf,False,True,I Can Take It From There,48,1,track,album,Neon,2011,0.686,0.816,3,-5.953,1,0.0318,0.155,0.0,0.252,0.871,113.939,Country
+1324,1,204483,False,0gqn3C7nDbokMkIrbRoyqF,False,True,Goodbye Town,57,2,track,album,Frayed At Both Ends,2022,0.585,0.358,2,-7.918,1,0.0369,0.691,2.64e-05,0.116,0.532,177.986,Country
+1337,1,177066,False,09oZ9eXQ2fo6YDrPzJqAoP,False,True,Outta My Head (with John Mayer),66,10,track,album,Free Spirit,2019,0.729,0.545,0,-7.818,1,0.0316,0.0174,0.000274,0.369,0.514,103.012,Country
+1338,1,212466,False,3Q74BN3z8lQIkiBC80zd07,False,True,Drinks After Work,44,2,track,album,Drinks After Work,2013,0.67,0.837,0,-4.723,1,0.0278,0.0966,8.08e-06,0.106,0.805,102.507,Country
+1339,1,220492,False,4Of7rzpRpV1mWRbhp5rAqG,False,True,Bruises,81,2,track,album,Divinely Uninspired To A Hellish Extent,2019,0.736,0.308,4,-7.83,1,0.0677,0.946,0.0,0.186,0.361,111.202,Country
+1340,1,266946,False,1ThdZzM4DCcNIRf9EyBMg5,False,True,All Kinds of Kinds,41,1,track,album,Four The Record,2011,0.392,0.741,0,-4.01,1,0.0325,0.12,1.34e-06,0.132,0.461,157.166,Country
+1341,1,247636,False,1qnTHygVZmg87IBnnnXY0I,False,True,I Can’t Shake You,0,2,track,single,Desire,2020,0.584,0.808,2,-7.033,1,0.0386,0.0465,4.23e-05,0.0762,0.587,110.014,Country
+1342,1,199111,True,48qgXl0CQUVYJVn6xv0rsP,False,True,Nothing Changed,72,1,track,single,Nothing Changed,2022,0.907,0.59,5,-6.128,0,0.108,0.18,0.0,0.184,0.681,134.902,Country
+1343,1,362813,False,61w5i6NlAZXBa5FTTbDL0r,False,True,When I See This Bar,42,2,track,album,Life on a Rock,2013,0.712,0.726,7,-7.346,1,0.0248,0.0284,4.48e-05,0.104,0.558,111.069,Country
+1344,1,249733,False,5i0urffBRKl09GSX2Jhdeh,False,True,Could It Be I'm Falling in Love,61,10,track,album,Spinners,1973,0.382,0.727,9,-6.677,0,0.0861,0.729,0.0,0.196,0.826,207.265,Country
+1349,1,254320,False,3fwKVZ73y7UUGMyR6rVCRa,False,True,Golden Days,59,8,track,album,Death of a Bachelor,2016,0.556,0.708,7,-5.708,1,0.039,0.00329,0.0,0.329,0.206,128.006,Country
+1350,1,208192,True,6T7tWJsjBpLb95rNqSLcih,False,True,Pieces,67,18,track,album,Beautiful Mind,2022,0.565,0.558,5,-7.634,1,0.0453,0.379,0.0,0.0896,0.0778,82.998,Country
+1351,1,188560,False,5guGWEiQ7ZzQvthC0j3HS7,False,True,She Cranks My Tractor,43,1,track,album,Dustin Lynch,2012,0.454,0.932,7,-4.14,1,0.0526,0.0144,3.85e-06,0.455,0.84,164.027,Country
+1356,1,270106,False,51cd3bzVmLAjlnsSZn4ecW,False,True,She's American,55,5,track,album,"I like it when you sleep, for you are so beautiful yet so unaware of it",2016,0.647,0.857,1,-3.94,1,0.0547,0.167,0.000437,0.0763,0.55,115.976,Country
+1357,1,162200,False,5yX3kZyw1nM14mRiZO1Irb,False,True,Your Side Of The Bed - Steve Reece Remix,62,3,track,single,Your Side Of The Bed (Remixes),2018,0.751,0.675,8,-4.654,1,0.0273,0.0698,0.0,0.131,0.596,109.991,Country
+1358,1,188386,False,4oqD7zXh23uvf583rDkunI,False,True,Blowin' Smoke,52,5,track,album,Same Trailer Different Park,2013,0.683,0.727,2,-6.941,1,0.0379,0.0461,1.85e-06,0.373,0.54,94.014,Country
+1359,1,244203,True,0lWwn2x0SXlEVR85TWQMqP,False,True,don’t rush (feat. Dom Kennedy),35,9,track,album,PRIME,2018,0.913,0.429,8,-8.812,1,0.424,0.00494,0.0458,0.374,0.168,139.999,Country
+1360,1,273480,False,5XsFHtfZJ8yHRWvKK4uQWO,False,True,Let There Be Cowgirls,59,4,track,album,Back In The Saddle,2012,0.537,0.788,11,-5.557,1,0.0362,0.0892,1.27e-06,0.164,0.727,161.991,Country
+1365,1,255386,False,38qDc4DgEnnkr9UaRI5owP,False,True,Beer With Jesus,49,12,track,album,It Goes Like This,2013,0.523,0.382,8,-8.386,1,0.0274,0.133,0.0,0.11,0.274,77.925,Country
+1366,1,219520,False,47tocAq9nH8JS43zj4qXQ1,False,True,Hope on the Rocks,38,1,track,album,Hope on the Rocks,2012,0.638,0.451,10,-6.412,1,0.0247,0.0316,0.00016,0.0947,0.28,94.022,Country
+1367,1,245133,True,4hrae8atte6cRlSC9a7VCO,False,True,Always On Time,74,5,track,album,Pain Is Love,2001,0.839,0.706,5,-6.104,0,0.199,0.208,0.0,0.242,0.839,96.673,Country
+1368,1,286520,False,4WnY4W5KrqglCdIus8X9Bo,False,True,You Don't Know Her Like I Do,60,14,track,album,Halfway To Heaven (Deluxe Edition),2010,0.49,0.716,4,-6.681,1,0.0441,0.022,0.00048,0.0526,0.288,74.988,Country
+1369,1,221373,False,08f0fHqZigPgPHCfRjk8SC,False,True,Why Ya Wanna,52,3,track,album,Jana Kramer,2012,0.299,0.676,4,-3.187,1,0.051,0.273,0.0,0.113,0.298,167.498,Country
+1370,1,227720,False,5ksoJlQJtduEkwQTo7UN7X,False,True,Cowboys and Angels,62,3,track,album,Dustin Lynch,2012,0.355,0.55,10,-5.772,1,0.0285,0.245,3.2e-05,0.0979,0.26,73.842,Country
+1371,1,232903,False,0Rj68IX1WqAtceUZQGk7aa,False,True,(Kissed You) Good Night,54,4,track,album,A Thousand Miles Left Behind,2012,0.523,0.747,11,-6.125,1,0.0292,0.0807,0.0,0.11,0.294,118.97,Country
+1372,1,201000,False,0MT21PlGXvd67TNk3ski6c,False,True,Better Than I Used To Be,50,6,track,album,Emotional Traffic,2012,0.452,0.566,5,-5.964,1,0.0292,0.175,1.24e-05,0.0888,0.407,138.154,Country
+1373,1,220520,False,0Nu9WA8kEbBWEsay2s8Q0U,False,True,Even If It Breaks Your Heart,66,1,track,album,Life At Best,2011,0.495,0.527,0,-4.742,1,0.0351,0.000159,0.0163,0.1,0.574,208.067,Country
+1374,1,199013,False,5qNkZdbdfL9tQm1ppZmUrW,False,True,Lovin' You Is Fun,58,2,track,album,All Over The Road,2012,0.703,0.83,8,-3.028,1,0.0327,0.32,0.0,0.364,0.597,109.958,Country
+1375,1,263386,False,05ZACkzW8YbRq3eFgIfSNB,False,True,Springsteen,74,9,track,album,Chief,2011,0.692,0.809,2,-5.935,1,0.0255,0.1,9.77e-05,0.185,0.927,104.023,Country
+1376,1,213546,False,3kv6omImmKEfOVJWjstusF,False,True,Drunk On You,66,3,track,album,Tailgates & Tanlines,2011,0.558,0.872,9,-4.401,1,0.0449,0.178,0.0,0.173,0.472,143.971,Country
+1377,1,157477,False,5uU1uuyaUIBOiiUSQG7Wl3,False,True,You Proof,86,1,track,single,You Proof,2022,0.731,0.85,9,-4.913,1,0.0336,0.252,0.0,0.605,0.644,119.706,Country
+1378,1,213826,False,6Ymvlzom4TQeoKqAWsZRD8,False,True,Somethin' 'Bout A Truck,68,3,track,album,Up All Night,2012,0.554,0.794,11,-5.417,1,0.035,0.0697,0.0,0.63,0.79,176.01,Country
+1379,1,196569,False,3XBMJF4N7ZdZrK30oGCxpN,False,True,Hard 2 Face Reality,71,1,track,album,Poo Bear Presents: Bearthday Music,2018,0.625,0.626,7,-5.281,1,0.0293,0.22,0.0,0.228,0.281,142.043,Country
+1380,1,226278,False,0jHVNBt8A9L8qEAB8XxGuB,False,True,Alone With You,64,1,track,single,Alone With You,2021,0.567,0.348,10,-12.658,1,0.0667,0.767,0.0145,0.114,0.305,124.692,Country
+1381,1,244693,False,5Az8KU81g2aLBbJN67F2CI,False,True,Mind Over Matter,72,5,track,album,Mind Over Matter,2014,0.466,0.763,0,-4.448,1,0.0318,0.000501,0.0,0.0973,0.293,154.914,Country
+1382,1,219973,False,7c1KTn1z8Gw8ouYdcF4qaG,False,True,I Don't Want This Night To End,71,5,track,album,Tailgates & Tanlines,2011,0.616,0.728,9,-4.02,0,0.0278,0.0275,0.0,0.228,0.375,111.934,Country
+1383,1,227198,False,3ss88YLxa2pYOtyKgyKIjM,False,True,Dancing Away with My Heart,50,5,track,album,Hell on an Angel,2018,0.317,0.554,9,-7.624,1,0.0291,0.000937,0.0966,0.205,0.384,145.446,Country
+1384,1,186626,False,63w0QA1wiV7QhF9jeiHETF,False,True,Angel Eyes,63,1,track,album,Love and Theft,2012,0.656,0.696,8,-5.917,1,0.0261,0.0134,0.0,0.0753,0.966,108.015,Country
+1385,1,209786,False,3oyMHCAAcnWFdcGuVgwfhd,False,True,A Woman Like You,60,2,track,album,Hard 2 Love,2012,0.592,0.584,7,-7.422,1,0.0305,0.245,0.0,0.0862,0.371,160.048,Country
+1386,1,216866,False,5B25Jpgu62IX8w1YtLibuA,False,True,You Gonna Fly,40,2,track,album,Get Closer (Deluxe Version),2010,0.457,0.846,4,-8.547,1,0.0477,0.0598,0.0,0.34,0.851,177.353,Country
+1387,1,291197,False,4Xwry2rjyXZg9unm8QaRFL,False,True,Not in a Hurry,57,3,track,album,Tell All My Friends,2017,0.619,0.347,9,-10.686,1,0.0354,0.414,0.0,0.076,0.39,74.004,Country
+1388,1,231933,False,2khs94jHAVzUm3Pu4mAMmv,False,True,All Your Life,52,4,track,album,The Band Perry,2010,0.536,0.521,9,-5.373,1,0.0261,0.227,0.0,0.165,0.455,131.937,Country
+1389,1,218200,False,17X2tSzibD9n9QRjdExcWT,False,True,Fly Over States,63,6,track,album,My Kinda Party,2010,0.487,0.736,7,-3.269,1,0.0326,0.069,0.0,0.114,0.184,81.587,Country
+1390,1,197600,False,6sXK2Fq7Ibi3SN6qYyQgIG,False,True,Fastest Girl in Town,50,3,track,album,Four The Record,2011,0.541,0.911,1,-3.6,0,0.0631,0.0205,0.00155,0.275,0.563,145.057,Country
+1391,1,311163,True,3Z4iF2sFcW63WclmUYd7IE,False,True,Drinks On Us,54,1,track,single,Drinks On Us,2015,0.774,0.628,10,-6.536,0,0.274,0.365,8.94e-05,0.0991,0.485,128.982,Country
+1392,1,215146,False,3xltN99Cj2KF5AZFhjDibh,False,True,Postcard From Paris,43,7,track,album,The Band Perry,2010,0.54,0.688,8,-5.366,1,0.0304,0.0732,0.0,0.0804,0.524,143.888,Country
+1393,1,187613,False,2o5mwv7hvas1jdUg14Nihv,False,True,Take A Little Ride,59,7,track,album,Night Train,2012,0.472,0.866,2,-3.771,1,0.0413,0.044,0.0,0.213,0.775,163.867,Country
+1394,1,200346,False,1udNc7oRKsxtPH5z1J0e3P,False,True,Banjo Odyssey,54,14,track,album,Good Company,2014,0.532,0.628,2,-5.648,0,0.0403,0.205,0.00012,0.115,0.508,92.593,Country
+1395,1,189893,True,59nOXPmaKlBfGMDeOVGrIK,False,True,WAIT FOR U (feat. Drake & Tems),90,7,track,album,I NEVER LIKED YOU,2022,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,Country
+1396,1,181013,True,3TTMUI5dFcbeNSDTTDY9M8,False,True,Come Thru (with Usher),71,5,track,album,Over It,2019,0.679,0.728,5,-3.092,0,0.154,0.159,0.0,0.107,0.46,152.001,Country
+1397,1,196077,False,43zdsphuZLzwA9k4DJhU0I,False,True,when the party's over,84,7,track,album,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,Country
+1398,1,237920,False,1EQn3Uc5AyUXoiPLeyCrrg,False,True,Ours,58,15,track,album,Speak Now (Deluxe Edition),2010,0.608,0.569,0,-7.227,1,0.0284,0.537,0.0,0.097,0.238,159.845,Country
+1399,1,214106,False,7B2ETOSXeXPfWQl4gLjcat,False,True,Keep Me in Mind,61,11,track,album,You Get What You Give,2010,0.684,0.715,6,-6.132,1,0.0336,0.159,0.0,0.181,0.564,96.018,Country
+1400,1,182893,False,2WKCH4ISejDV9ad7iPp5XU,False,True,5-1-5-0,65,10,track,album,Home,2012,0.554,0.849,1,-5.181,0,0.0357,0.0246,0.000233,0.31,0.683,116.992,Country
+1401,1,212320,False,2Gy3XMLbBxACZ4tXdFRGr7,False,True,Pontoon,65,2,track,album,Tornado,2013,0.721,0.819,9,-5.715,1,0.0269,0.413,0.0,0.196,0.867,96.02,Country
+1402,1,228893,False,1blSBtrZgDJIWQl0BlAyov,False,True,Love's Gonna Make It Alright,48,1,track,album,Here For A Good Time,2011,0.707,0.867,4,-5.418,1,0.0339,0.221,0.00039,0.268,0.649,110.996,Country
+1403,1,263253,False,5mCttXluvE0gaIArboAoFA,False,True,Come Wake Me Up,49,4,track,album,Changed,2012,0.454,0.605,4,-6.816,1,0.0314,0.255,0.0,0.109,0.18,155.861,Country
+1404,1,191306,False,1cktZnxiONH0hR6Q3DKy8h,False,True,Drink In My Hand,73,2,track,album,Chief,2011,0.626,0.913,0,-4.452,1,0.0318,0.00635,0.0,0.293,0.946,113.044,Country
+1405,1,205960,False,0jE0sgtzfZyZDEKzMtdayx,False,True,I’m Gonna Love You Through It - The Voice Performance,8,1,track,single,I’m Gonna Love You Through It (The Voice Performance),2013,0.499,0.774,5,-4.066,1,0.034,0.129,0.0,0.123,0.351,143.006,Country
+1406,1,201840,False,1YR1ChVR8n5EtLRIIDhRTF,False,True,Where I Come From,65,5,track,album,Rebels On The Run,2011,0.62,0.852,1,-4.203,1,0.0308,0.0108,4.94e-06,0.279,0.479,90.038,Country
+1407,1,206640,False,5MiRgE7Yta2jiOkVGHbiQC,False,True,Beers Ago,53,6,track,album,Clancy's Tavern,2011,0.565,0.84,0,-4.641,1,0.0296,0.0284,0.0,0.0928,0.742,144.04,Country
+1408,1,202466,False,2SEsRxNSXidnMOZoTEzX1k,False,True,Tattoos on This Town,58,1,track,album,My Kinda Party,2010,0.359,0.784,7,-4.404,1,0.0438,0.0181,2.72e-05,0.0989,0.444,78.494,Country
+1409,1,222253,False,0DAjiINHQTnPnnY939Qyhw,False,True,Let It Rain,56,1,track,single,Let It Rain,2011,0.56,0.619,4,-3.013,1,0.0405,0.385,1.03e-06,0.247,0.561,77.881,Country
+1410,1,208400,False,3crxySebCike4UZq4SvzxT,False,True,Truck Yeah,49,1,track,single,Truck Yeah,2012,0.608,0.931,7,-3.278,1,0.0336,0.114,0.0,0.067,0.768,97.973,Country
+1411,1,223386,False,4YKAOXyqkKZ5gOZR0AmVMN,False,True,Red Solo Cup,66,10,track,album,Clancy's Tavern,2011,0.535,0.56,4,-6.586,1,0.0901,0.287,0.0,0.209,0.785,164.17,Country
+1412,1,196141,False,191CjRdmcxUYOrFEDQx7QA,False,True,THIS OLE BOY,55,3,track,single,THIS OLE BOY,2018,0.516,0.833,8,-4.369,1,0.0339,0.169,0.00054,0.229,0.76,140.02,Country
+1413,1,233786,False,6EZgdjK4buOwWrmkTVbv7c,False,True,Got My Country On,45,1,track,album,Back In The Saddle,2012,0.505,0.839,7,-4.557,1,0.0538,0.185,0.0,0.0406,0.511,160.154,Country
+1414,1,241893,False,6WDjQq0Noeji2O3bFfFsNW,False,True,That's Why I Pray,37,3,track,album,Hillbilly Jedi,2012,0.57,0.727,8,-5.298,1,0.0256,0.0334,0.0,0.364,0.491,100.019,Country
+1415,1,198960,False,6QeYSvYqYUsfBzsApbjDHO,False,True,Cigarettes out the Window,80,3,track,album,Who Really Cares,2016,0.625,0.659,0,-5.669,1,0.0337,0.12,0.0,0.17,0.594,113.551,Country
+1416,1,197800,False,7BSZJLXPTktuZZAe8VYbbF,False,True,We Owned The Night,51,1,track,album,Own The Night,2011,0.657,0.714,1,-6.965,1,0.0273,0.281,0.000145,0.0838,0.488,99.991,Country
+1417,1,215013,False,0QBwd6OeiDQXVYx7sEXgnJ,False,True,Camouflage Hat,46,7,track,album,9,2019,0.565,0.754,3,-6.266,1,0.0286,0.0266,0.000134,0.0978,0.672,134.008,Country
+1418,1,239906,False,71DDK14XVxkXLmG3AVi1BP,False,True,Storm Warning,47,1,track,album,Hunter Hayes (Encore),2011,0.483,0.843,2,-5.62,1,0.0835,0.0331,0.0,0.134,0.772,185.998,Country
+1419,1,194573,False,56hUUEbFVeJXCmbdPfsy1T,False,True,Shinin' On Me,39,6,track,album,Free The Music,2012,0.651,0.773,7,-6.97,1,0.0366,0.318,0.0,0.27,0.69,83.995,Country
+1420,1,199346,False,6iWg88k0UH7BjBP2yWXM0i,False,True,Something To Do With My Hands,43,2,track,album,It Goes Like This,2013,0.561,0.932,1,-4.443,1,0.0433,0.00841,4.97e-05,0.0992,0.495,126.116,Country
+1421,1,229573,False,0Yvyj5YkjSBNgD4Ai0clSG,False,True,The Trouble With Girls,50,4,track,album,Clear As Day,2011,0.554,0.496,10,-7.266,1,0.0281,0.391,0.0,0.109,0.351,132.078,Country
+1422,1,231133,False,4328LiswXNpXdT57eYFFJN,False,True,You Wanted More,51,2,track,album,Sugar,1999,0.368,0.96,2,-4.514,1,0.108,0.00066,0.0,0.521,0.629,182.68,Country
+1423,1,208493,False,6cAxSUPzHyywECgGSvoLyf,False,True,Bait A Hook,59,6,track,album,Outlaws Like Me,2011,0.668,0.781,1,-6.151,1,0.0267,0.0191,0.0,0.113,0.695,105.945,Country
+1424,1,167040,False,1BrCXPoH8NrQpa4qRhpn2x,False,True,I Like Girls That Drink Beer,41,4,track,album,Hope on the Rocks,2012,0.635,0.881,0,-4.549,1,0.0313,0.00928,0.00135,0.132,0.937,133.026,Country
+1425,1,208240,False,6IwjYtPMOebrz61UEayrrS,False,True,Feel Like a Rock Star (Duet with Tim McGraw),40,2,track,album,Welcome To The Fishbowl,2012,0.475,0.896,6,-4.749,1,0.035,0.00318,0.0,0.29,0.868,169.999,Country
+1426,1,205626,False,4juW8JESG8nujlq5FL620A,False,True,Let's Don't Call It a Night,32,3,track,album,Casey James,2012,0.593,0.734,5,-4.337,0,0.0414,0.014,0.0,0.149,0.804,186.937,Country
+1427,1,221386,False,020b0QxseQbcMTPKV49qRm,False,True,Crying on a Suitcase,39,2,track,album,Casey James,2012,0.402,0.7,4,-4.613,1,0.0348,0.147,0.0,0.0992,0.496,198.972,Country
+1428,1,212640,False,1ipcb9qXpSHWhSUvdxJhsx,False,True,"Forever and Ever, Amen",71,6,track,album,Always & Forever,1987,0.677,0.724,2,-8.992,1,0.0245,0.143,0.000101,0.158,0.697,90.392,Country
+1429,1,258789,True,1MJErNPIQUoEMu4YUUmecm,False,True,Neon Guts (feat. Pharrell Williams),75,8,track,album,Luv Is Rage 2,2017,0.859,0.563,1,-6.635,0,0.112,0.0541,0.0,0.0685,0.412,119.934,Country
+1430,1,192000,True,3prcV50xERDtLYcgGwG3fu,False,True,Baggage Claim,45,5,track,album,"Cook Together, Eat Together",2021,0.7,0.59,2,-10.477,1,0.312,0.488,0.0,0.274,0.521,88.877,Country
+1431,1,170306,False,2g9x3RYK0aRRNkEI43KGN3,False,True,Wanna Make You Love Me,33,1,track,single,Wanna Make You Love Me,2012,0.507,0.693,9,-3.95,1,0.0271,0.00227,4.58e-05,0.0631,0.356,92.024,Country
+1432,1,226693,True,4ve2uzqdwnHr20G5YgMMqr,False,True,Missin You Crazy,70,4,track,album,ZOO,2018,0.716,0.729,5,-6.313,1,0.117,0.0991,0.0,0.0842,0.276,131.975,Country
+1433,1,222720,False,12ZGDuff6MYid7PJvYMExo,False,True,So You Don't Have To Love Me Anymore,42,5,track,album,Thirty Miles West,2012,0.641,0.333,0,-10.447,1,0.0285,0.267,4.05e-06,0.0942,0.204,128.007,Country
+1434,1,150293,False,4fRmFVMd0c1SGfzazBJIM8,False,True,True Believers,55,3,track,album,How I Spent My Summer Vacation,2001,0.237,0.981,0,-4.32,1,0.0989,0.000296,3.81e-05,0.202,0.475,98.181,Country
+1435,1,214826,False,454JIJlQ8GvrCoBvSfq3KA,False,True,Country Must Be Country Wide,58,8,track,album,Halfway To Heaven (Deluxe Edition),2010,0.409,0.765,11,-5.696,1,0.0412,0.0249,6.16e-06,0.104,0.5,83.093,Country
+1436,1,273200,False,3kGYLi6txRaQk4etwh3l3p,False,True,My Heart Can't Tell You No,44,3,track,album,Stronger,2011,0.557,0.652,6,-5.4,0,0.025,0.175,0.0,0.256,0.465,89.992,Country
+1437,1,232520,False,7uRznL3LcuazKpwCTpDltz,False,True,Mr. Know It All,48,1,track,album,Stronger (Deluxe Version),2011,0.676,0.807,5,-5.131,1,0.029,0.0284,0.0,0.0701,0.443,95.956,Country
+1438,1,229533,False,0w9LJae3sVlZlH2CnxTInF,False,True,God Gave Me You,63,3,track,album,Red River Blue (Deluxe Edition),2011,0.483,0.844,2,-5.043,1,0.0314,0.00481,7.29e-05,0.405,0.543,151.977,Country
+1439,1,181749,False,6Wa44gzPJKMMDZZtH9bkuO,False,True,too good to be true,52,1,track,single,too good to be true,2021,0.814,0.464,7,-10.677,0,0.351,0.494,0.0,0.379,0.664,135.134,Country
+1440,1,238946,False,1jFhSuunMt0YqQfzTfquTI,False,True,Ex-Old Man,32,1,track,single,Kristen Kelly EP,2012,0.879,0.655,11,-7.724,1,0.0379,0.0201,1.58e-05,0.0752,0.934,119.967,Country
+1441,1,219160,False,58Ga5VQlZMnCUV6ZRqf76k,False,True,Coming Around Again,55,1,track,album,Coming Around Again,1987,0.631,0.363,5,-14.331,1,0.0336,0.632,4.64e-05,0.084,0.266,138.367,Country
+1442,1,166560,False,4Ysok52J5hPSSi1vgUbgf8,False,True,Like My Dog,48,5,track,album,Enjoy Yourself,2010,0.697,0.724,10,-4.428,1,0.0322,0.479,0.0,0.14,0.477,96.953,Country
+1443,1,228706,False,3XVBdLihbNbxUwZosxcGuJ,False,True,If I Ain't Got You,81,6,track,album,The Diary Of Alicia Keys,2003,0.609,0.444,7,-9.129,1,0.106,0.603,6.86e-06,0.104,0.166,118.402,Country

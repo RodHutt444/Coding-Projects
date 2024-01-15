@@ -1,0 +1,408 @@
+,disc_number,duration_ms_x,explicit,id,is_local,is_playable,name,popularity,track_number,type_x,album_type,album_name,release_year,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,Genre
+0,1,203064,False,5nujrmhLynf4yMoMtj8AQF,False,True,Levitating (feat. DaBaby),85,12,track,album,Future Nostalgia,2020,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,Pop
+1,1,172324,True,35mvY5S1H3J2QZyna3TFe0,False,True,positions,85,12,track,album,Positions,2020,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,Pop
+2,1,215626,True,5QO79kh1waicV47BqGRL3g,False,True,Save Your Tears,89,11,track,album,After Hours,2020,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,Pop
+3,1,208666,True,3DarAbFujv6eYNliUTyqtz,False,True,Kiss Me More (feat. SZA),81,14,track,album,Planet Her,2021,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,0.781,110.97,Pop
+8,1,178146,True,4ZtFanR9U6ndgddUvNcjcG,False,True,good 4 u,88,6,track,album,SOUR,2021,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,Pop
+9,1,173710,True,6Im9k8u9iIzKMrmV7BWtlF,False,True,34+35,81,2,track,album,Positions,2020,0.83,0.585,0,-6.476,1,0.094,0.237,0.0,0.248,0.485,109.978,Pop
+10,1,137704,True,1SC5rEoYDGUK4NfG82494W,False,True,MONTERO (Call Me By Your Name),83,1,track,album,MONTERO,2021,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,Pop
+11,1,215506,True,6HU7h9RYOaPRFeh0R3UeAr,False,True,deja vu,88,5,track,album,SOUR,2021,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,Pop
+12,1,174321,False,54bFM56PmE4YLRnqpW6Tha,False,True,Therefore I Am,75,1,track,single,Therefore I Am,2020,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,Pop
+13,1,230746,False,3rmo8F54jFF8OgYsqTxm5d,False,True,Bad Habits,89,4,track,album,=,2021,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,Pop
+23,1,242013,True,5wANPM4fQCJwkGd4rN57mH,False,True,drivers license,88,3,track,album,SOUR,2021,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,Pop
+24,1,198081,True,4iJyoBOLtHqaGxP12qzhQI,False,True,Peaches (feat. Daniel Caesar & Giveon),86,12,track,album,Justice,2021,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,Pop
+25,1,176960,True,1IIKrJVP1C9N7iPtG6eOsK,False,True,Go Crazy,79,2,track,album,Slime & B,2020,0.755,0.578,0,-8.932,0,0.145,0.316,0.0,0.25,0.581,94.148,Pop
+30,1,169265,True,45bE4HXI0AwGZXfZtMp8JR,False,True,you broke me first,84,1,track,single,you broke me first,2020,0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,Pop
+35,1,212093,False,5u1n1kITHCxxp8twBcZxWy,False,True,Holy (feat. Chance The Rapper),75,1,track,single,Holy,2020,0.673,0.704,6,-8.056,1,0.36,0.196,0.0,0.0898,0.372,86.919,Pop
+36,1,210463,False,6AGOKlMZWLCaEJGnaROtF9,False,True,Put Your Records On,77,1,track,single,Put Your Records On,2020,0.399,0.491,6,-10.778,0,0.0538,0.0563,0.00089,0.11,0.151,91.066,Pop
+37,1,201882,False,3UoULw70kMsiVXxW0L3A33,False,True,pov,77,14,track,album,Positions,2020,0.487,0.534,0,-5.664,0,0.0555,0.36,0.0,0.1,0.173,131.798,Pop
+38,1,181990,False,3SeeaIXnrCfT88vHVCRWHl,False,True,Last Night Lonely,75,1,track,single,Last Night Lonely,2022,0.646,0.816,6,-2.65,1,0.0269,0.00496,0.0,0.179,0.865,102.972,Pop
+39,1,242096,False,02VBYrHfVwfEWXk5DXyf0T,False,True,Leave The Door Open,85,2,track,album,An Evening With Silk Sonic,2021,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,Pop
+40,1,186173,True,0k4d5YPDr1r7FX77VdqWez,False,True,You Right,84,8,track,album,Planet Her,2021,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,Pop
+45,1,160000,True,1tkg4EHVoqnhR6iFEXb60y,False,True,What You Know Bout Love,82,15,track,album,Shoot For The Stars Aim For The Moon,2020,0.709,0.548,10,-8.493,1,0.353,0.65,1.59e-06,0.133,0.543,83.995,Pop
+46,1,212000,True,27NovPIUIRrOZoCHxABJwK,False,True,INDUSTRY BABY (feat. Jack Harlow),86,1,track,single,INDUSTRY BABY (feat. Jack Harlow),2021,0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,Pop
+47,1,227395,False,5zFglKYiknIxks8geR8rcL,False,True,Beautiful Mistakes (feat. Megan Thee Stallion),83,1,track,album,JORDI (Deluxe),2021,0.713,0.676,10,-5.483,1,0.027,0.0377,0.0,0.154,0.721,99.048,Pop
+57,1,132780,True,3Ofmpyhv5UAQ70mENzB277,False,True,Astronaut In The Ocean,79,1,track,single,Astronaut In The Ocean,2021,0.778,0.695,4,-6.865,0,0.0913,0.175,0.0,0.15,0.472,149.996,Pop
+58,1,154983,False,4qu63nuBpdn0qHUHuObEj1,False,True,Leave Before You Love Me (with Jonas Brothers),86,1,track,single,Leave Before You Love Me,2021,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,Pop
+59,1,183624,False,1Xi84slp6FryDSCbzq4UCD,False,True,Arcade,80,1,track,single,Arcade,2019,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,Pop
+60,1,163485,False,2xMvDsq9CzHSAbytPmZawf,False,True,Can We Pretend That We’re Good?,60,1,track,single,Can We Pretend That We’re Good?,2022,0.539,0.521,0,-6.124,1,0.0747,0.0315,0.0,0.198,0.47,173.826,Pop
+61,1,211560,False,3Wrjm47oTz2sjIgck11l5e,False,True,Beggin',87,4,track,album,Chosen,2017,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,Pop
+62,1,190557,False,2cYqizR4lgvp4Qu6IQ3qGN,False,True,BUTTERFLY EFFECT,79,15,track,album,ASTROWORLD,2018,0.763,0.628,11,-5.85,1,0.05,0.0531,0.0,0.114,0.193,140.958,Pop
+67,1,339023,False,2vgUijXOTRMnWXDtvgMp2b,False,True,Take My Breath,74,4,track,album,Dawn FM,2022,0.698,0.769,8,-7.154,1,0.0368,0.0128,0.00166,0.238,0.354,121.02,Pop
+72,1,258004,False,3QZCDrpOOPikj26Ft6jRQf,False,True,Love Again,0,17,track,compilation,Sunday Funday,2022,0.659,0.667,11,-4.668,0,0.0339,0.00173,2.85e-05,0.1,0.468,115.982,Pop
+73,1,157477,False,5uU1uuyaUIBOiiUSQG7Wl3,False,True,You Proof,86,1,track,single,You Proof,2022,0.731,0.85,9,-4.913,1,0.0336,0.252,0.0,0.605,0.644,119.706,Pop
+74,1,229226,False,5CZ40GBx1sQ9agT82CLQCT,False,True,traitor,89,2,track,album,SOUR,2021,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,Pop
+75,1,190779,False,31qCy5ZaophVA81wtlwLc4,False,True,Anyone,76,1,track,single,Anyone,2021,0.686,0.538,2,-8.026,1,0.0345,0.181,3.13e-06,0.113,0.584,115.884,Pop
+76,1,160191,False,6tDDoYIxWvMLTdKpjFkc1B,False,True,telepatía,83,7,track,album,Sin Miedo (del Amor y Otros Demonios) ∞,2020,0.653,0.524,11,-9.016,0,0.0502,0.112,0.0,0.203,0.553,83.97,Pop
+77,1,243836,True,6gBFPUFcJLzWGx4lenP6h2,False,True,goosebumps,85,9,track,album,Birds In The Trap Sing McKnight,2016,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,0.43,130.049,Pop
+86,1,154486,False,0mBP9X2gPCuapvpZ7TGDk3,False,True,Left and Right (Feat. Jung Kook of BTS),93,1,track,single,Left and Right (Feat. Jung Kook of BTS),2022,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,Pop
+91,1,198370,False,3FAJ6O0NOHQV8Mc5Ri6ENp,False,True,Heartbreak Anniversary,84,6,track,album,TAKE TIME,2020,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087,Pop
+92,1,207133,False,3jjujdWJ72nww5eGnfs2E7,False,True,Adore You,86,3,track,album,Fine Line,2019,0.676,0.771,8,-3.675,1,0.0483,0.0237,7e-06,0.102,0.569,99.048,Pop
+97,1,181346,False,6o6urrgOIVbIzzmO4KJHCO,False,True,Don’t Start Now,38,7,track,album,VSQ Performs the Hits of 2020,2020,0.498,0.185,11,-12.205,0,0.0484,0.876,0.459,0.237,0.707,78.775,Pop
+98,1,275440,False,7HW5WIw7ZgZORCzUxv5gW5,False,True,Don't Go Breaking My Heart,79,10,track,album,Rock Of The Westies,1975,0.729,0.844,5,-8.824,1,0.0344,0.149,2.87e-06,0.0604,0.777,131.459,Pop
+99,1,215106,False,2gMXnyrvIjhVBUZwvLZDMP,False,True,Before You Go,84,13,track,album,Divinely Uninspired To A Hellish Extent (Extended Edition),2019,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,Pop
+100,1,258826,False,6VoIBz0VhCyz7OdEoRYDiA,False,True,Say It Ain't So,77,7,track,album,Weezer,1994,0.634,0.551,3,-7.136,1,0.0352,0.00737,1.82e-05,0.07,0.453,151.779,Pop
+105,1,212866,False,4umIPjkehX1r7uhmGvXiSV,False,True,Intentions (feat. Quavo),78,4,track,album,Changes,2020,0.806,0.546,9,-6.637,1,0.0575,0.3,0.0,0.102,0.874,147.986,Pop
+106,1,208706,False,2DgdHcjWmO3qd50RzuBLgZ,False,True,House of Memories,86,10,track,album,Death of a Bachelor,2016,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,0.506,109.952,Pop
+107,1,188343,True,6jRq8gaZhMUyy5RclRPcAf,False,True,hot girl bummer,81,1,track,album,everything means nothing,2020,0.782,0.559,6,-7.106,0,0.0767,0.125,0.0,0.385,0.685,129.992,Pop
+108,1,240133,False,1ZMiCix7XSAbfAJlEZWMCp,False,True,Falling,85,6,track,album,Fine Line,2019,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,Pop
+117,1,206458,False,4l0Mvzj72xxOpRrp6h8nHi,False,True,Lose You To Love Me,82,4,track,album,Rare,2020,0.488,0.343,4,-8.985,1,0.0436,0.556,0.0,0.21,0.0978,102.819,Pop
+122,1,245425,False,3ZCTVFBt2Brf31RLEnCkWJ,False,True,everything i wanted,86,1,track,single,everything i wanted,2019,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,Pop
+123,1,163636,True,696DnlkuDOXcMAnKlTgXXK,False,True,ROXANNE,78,1,track,single,ROXANNE,2019,0.621,0.601,6,-5.616,0,0.148,0.0522,0.0,0.46,0.457,116.735,Pop
+124,1,171374,True,1xQ6trAsedVPCdbtDAmk0c,False,True,Savage Love (Laxed - Siren Beat),77,1,track,single,Savage Love (Laxed - Siren Beat),2020,0.767,0.481,0,-8.52,0,0.0803,0.234,0.0,0.269,0.761,150.076,Pop
+133,1,209438,False,2XU0oxnq2qxCpomAAuJY8K,False,True,Dance Monkey,79,2,track,single,Dance Monkey (Stripped Back) / Dance Monkey,2019,0.824,0.588,6,-6.4,0,0.0924,0.692,0.000104,0.149,0.513,98.027,Pop
+134,1,211000,False,4EWCNWgDS8707fNSZ1oaA5,False,True,Heartless,86,3,track,album,808s & Heartbreak,2008,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999,Pop
+135,1,223480,True,4nK5YrxbMGZstTLbvj6Gxw,False,True,Supalonely,73,2,track,single,STELLA & STEVE,2019,0.863,0.631,7,-4.689,1,0.0534,0.305,3.04e-05,0.123,0.817,128.977,Pop
+136,1,221714,True,6cy3ki60hLwimwIje7tALf,False,True,RITMO (Bad Boys For Life),74,1,track,single,RITMO (Bad Boys For Life),2019,0.721,0.716,10,-7.037,0,0.0657,0.0334,0.00084,0.237,0.667,104.994,Pop
+137,1,173333,False,7eJMfftS33KTjuF7lTsMCx,False,True,death bed (coffee for your head),83,1,track,single,death bed (coffee for your head),2020,0.726,0.431,8,-8.765,0,0.135,0.731,0.0,0.696,0.348,144.026,Pop
+138,1,208687,False,2kJwzbxV2ppxnQoYw4GLBZ,False,True,If the World Was Ending (feat. Julia Michaels),79,1,track,single,If the World Was Ending (feat. Julia Michaels),2019,0.464,0.473,1,-10.086,1,0.129,0.866,0.0,0.109,0.604,75.801,Pop
+139,1,218364,True,3F5CgOj3wFlRv51JsHbxhe,False,True,Jimmy Cooks (feat. 21 Savage),91,14,track,album,"Honestly, Nevermind",2022,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,Pop
+140,1,176546,False,62aP9fBQKYKxi7PDXwcUAS,False,True,ily (i love you baby) (feat. Emilee),78,1,track,single,ily (i love you baby) (feat. Emilee),2019,0.674,0.774,11,-7.567,0,0.0892,0.0686,0.00188,0.393,0.33,112.05,Pop
+141,1,158571,False,1Cv1YLb4q0RzL6pybtaMLo,False,True,Sunday Best,77,7,track,album,Where the Light Is,2019,0.878,0.525,5,-6.832,1,0.0578,0.183,0.0,0.0714,0.694,112.022,Pop
+146,1,167693,False,2wrJq5XKLnmhRXHIAf9xBa,False,True,"10,000 Hours (with Justin Bieber)",78,1,track,single,"10,000 Hours (with Justin Bieber)",2019,0.654,0.63,10,-4.644,1,0.0259,0.153,0.0,0.111,0.43,89.991,Pop
+147,1,205484,True,2Y0wPrPQBrGhoLn14xRYCG,False,True,Come & Go (with Marshmello),81,12,track,album,Legends Never Die,2020,0.625,0.814,0,-5.181,1,0.0657,0.0172,0.0,0.158,0.535,144.991,Pop
+152,1,114893,False,1000nHvUdawXuUHgBod4Wv,False,True,Panini,72,2,track,single,Panini,2019,0.703,0.594,5,-6.146,0,0.0752,0.342,0.0,0.123,0.475,153.848,Pop
+153,1,191406,False,5f1joOtoMeyppIcJGZQvqJ,False,True,Be Like That - feat. Swae Lee & Khalid,76,1,track,single,Be Like That (feat. Swae Lee & Khalid),2020,0.727,0.626,7,-8.415,1,0.0726,0.0469,2.58e-05,0.126,0.322,86.97,Pop
+154,1,196652,True,0nbXyq5TXYPCO7pr3N8S4I,False,True,The Box,82,2,track,album,Please Excuse Me for Being Antisocial,2019,0.896,0.586,10,-6.687,0,0.0559,0.104,0.0,0.79,0.642,116.971,Pop
+155,1,182200,False,7ju97lgwC2rKQ6wwsf9no9,False,True,Rain On Me (with Ariana Grande),78,4,track,album,Chromatica,2020,0.672,0.855,9,-3.764,1,0.0397,0.021,0.0,0.323,0.646,123.056,Pop
+160,1,197293,False,7yFhA2fUsL2oIMWlw5DaHQ,False,True,The Bones,76,12,track,album,GIRL,2019,0.612,0.57,11,-6.642,0,0.0347,0.278,0.0,0.0963,0.334,77.004,Pop
+165,1,199053,False,5QDLhrAOJJdNAmCTJ8xMyW,False,True,Dynamite,86,8,track,album,BE,2020,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,Pop
+166,1,162546,True,6wJYhPfqk3KGhHRG76WzOh,False,True,Blueberry Faygo,74,1,track,single,Blueberry Faygo,2020,0.774,0.554,0,-7.909,1,0.0383,0.207,0.0,0.132,0.349,99.034,Pop
+167,1,205473,True,7lidXGPXPYLNThITAOTlkK,False,True,You should be sad,73,4,track,album,Manic,2020,0.591,0.585,2,-6.35,1,0.0277,0.143,0.0,0.109,0.324,110.94,Pop
+168,1,181805,False,2ufmtcIFdFpuUYBPXK5f67,False,True,Graveyard,69,3,track,album,Manic,2020,0.667,0.583,11,-5.127,0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,Pop
+169,1,247058,True,127QTOFJsJQp5LbJbu3A1y,False,True,Toosie Slide,74,1,track,single,Toosie Slide,2020,0.834,0.454,1,-9.75,0,0.201,0.321,6.15e-06,0.114,0.837,81.618,Pop
+170,1,290320,True,7lQ8MOhq6IN2w8EYcFNSUk,False,True,Without Me,89,10,track,album,The Eminem Show,2002,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,Pop
+171,1,181026,False,22vgEDb5hykfaTwLuskFGD,False,True,Sucker,81,1,track,album,Happiness Begins,2019,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,Pop
+176,1,219946,True,0SeXMsqHzmMFend7T5LVlk,False,True,I Don't Care,0,22,track,compilation,The State of Pop,2022,0.798,0.676,6,-5.041,1,0.0442,0.0902,0.0,0.0894,0.843,101.956,Pop
+177,1,171029,False,6Qs4SXO9dwPj5GKvVOv8Ki,False,True,Dancing With A Stranger (with Normani),77,1,track,single,Dancing With A Stranger (with Normani),2019,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,Pop
+182,1,190946,False,1rqqCSm0Qe4I9rUvWncaom,False,True,High Hopes,82,4,track,album,Pray for the Wicked,2018,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,Pop
+183,1,194087,False,2Fxmhks0bxGSBdJ92vM42m,False,True,bad guy,84,2,track,album,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,Pop
+184,1,149546,True,7xQAfvXzm3AkraOtGPWIZg,False,True,Wow.,82,17,track,album,Hollywood's Bleeding,2019,0.829,0.539,11,-7.359,0,0.208,0.136,1.78e-06,0.103,0.388,99.96,Pop
+185,1,190960,False,0TK2YIli7K1leLovkQiNik,False,True,Señorita,81,1,track,single,Señorita,2019,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,Pop
+186,1,178626,True,6ocbgoVGwYJhOv1GgI9NsF,False,True,7 rings,84,10,track,album,"thank u, next",2019,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,Pop
+187,1,207320,True,3e9HZxeyfWwjeyPAMmWSSQ,False,True,"thank u, next",83,11,track,album,"thank u, next",2019,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966,Pop
+192,1,187436,False,7DnAm9FOTWE3cUvso43HhI,False,True,Sweet but Psycho,81,16,track,album,Heaven & Hell,2020,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,Pop
+197,1,190800,False,6LsAAHotRLMOHfCsSfYCsz,False,True,If I Can't Have You,74,1,track,single,If I Can't Have You,2019,0.692,0.809,2,-4.198,1,0.0602,0.524,0.0,0.147,0.864,123.911,Pop
+198,1,242666,False,5veJDT0MLsLbhYsx42GXUD,False,True,Don't Stand So Close To Me,70,1,track,album,Zenyatta Mondatta (Remastered 2003),1980,0.799,0.506,2,-9.414,1,0.0606,0.0453,0.00107,0.0365,0.518,140.309,Pop
+199,1,190440,True,4kV4N9D1iKVxx1KLvtTpjS,False,True,"break up with your girlfriend, i'm bored",78,12,track,album,"thank u, next",2019,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,Pop
+200,1,216320,True,6K4t31amVTZDgR3sKmwUJJ,False,True,The Less I Know The Better,85,7,track,album,Currents,2015,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879,Pop
+201,1,157066,False,2YpeDb67231RjR0MgVLzsG,False,True,Old Town Road - Remix,79,1,track,single,7 EP,2019,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,Pop
+202,1,174853,True,0t3ZvGKlmYmVsDzBJAXK8C,False,True,Goodbyes (feat. Young Thug),81,14,track,album,Hollywood's Bleeding,2019,0.548,0.653,5,-3.875,1,0.081,0.456,0.0,0.103,0.163,150.068,Pop
+203,1,169666,False,22oEJW6r2rMb9z4IntfyEa,False,True,"Hey Look Ma, I Made It",70,3,track,album,Pray for the Wicked,2018,0.577,0.833,5,-3.337,1,0.0695,0.0137,0.0,0.121,0.58,107.936,Pop
+204,1,218943,True,2lLG56qpLP3UbcLuzMvkWX,False,True,Stop Breathing,75,3,track,album,Whole Lotta Red,2020,0.856,0.57,9,-4.486,1,0.286,0.00637,0.0,0.0984,0.155,154.967,Pop
+205,1,218826,True,2aIB1CdRRG7YLBu9hNw9nR,False,True,The Beautiful People,73,2,track,album,Antichrist Superstar,1996,0.621,0.834,10,-10.068,0,0.0557,0.000779,0.456,0.0611,0.937,143.973,Pop
+214,1,196373,True,3EPXxR3ImUwfayaurPi3cm,False,True,Be Alright,80,1,track,single,Be Alright,2018,0.553,0.586,11,-6.319,1,0.0362,0.697,0.0,0.0813,0.443,126.684,Pop
+215,1,312820,True,2xLMifQCjDGFmkHkpNLD9h,False,True,SICKO MODE,83,3,track,album,ASTROWORLD,2018,0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,Pop
+216,1,171360,False,6RRNNciQGZEXnqk8SQ9yv5,False,True,You Need To Calm Down,78,14,track,album,Lover,2019,0.771,0.671,2,-5.617,1,0.0553,0.00929,0.0,0.0637,0.714,85.026,Pop
+217,1,158098,False,2bjUEg4jBtKBlPdNrTAppI,False,True,Easier,70,4,track,album,CALM,2020,0.562,0.46,5,-4.173,1,0.259,0.476,0.0,0.107,0.623,176.055,Pop
+218,1,193200,False,2rxQMGVafnNaRaXlRMWPde,False,True,Beautiful Crazy,80,15,track,album,This One's for You Too (Deluxe Edition),2018,0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,Pop
+219,1,202204,False,6b2RcmUt1g9N9mQ3CbjX2Y,False,True,How Do You Sleep?,75,1,track,single,How Do You Sleep?,2019,0.477,0.682,1,-4.931,0,0.0925,0.153,0.0,0.0763,0.345,110.567,Pop
+220,1,233515,True,7ngdkrVQPgP3AoIxUrTpHT,False,True,Who Do You Love?,69,10,track,album,My Krazy Life,2014,0.68,0.411,9,-9.761,1,0.434,0.0336,0.0,0.0889,0.161,193.131,Pop
+221,1,213293,False,2V4bv1fNWfTcyRJKmej6Sj,False,True,Cooler Than Me - Single Mix,77,4,track,album,31 Minutes to Takeoff,2010,0.768,0.82,7,-4.63,0,0.0474,0.179,0.0,0.689,0.625,129.965,Pop
+226,1,178567,True,6Sq7ltF9Qa7SNFBsV5Cogx,False,True,Me Porto Bonito,98,3,track,album,Un Verano Sin Ti,2022,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,Pop
+231,1,197946,False,4NBTZtAt1F13VvlSKe6KTl,False,True,This Feeling,74,1,track,album,Sick Boy,2018,0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049,Pop
+236,1,191822,True,1PckUlxKqWQs3RlWXVBLw3,False,True,About Damn Time,90,1,track,single,About Damn Time,2022,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,Pop
+237,1,223523,False,5PYQUBXc7NYeI1obMKSJK0,False,True,Never Really Over,72,1,track,single,Never Really Over,2019,0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,Pop
+238,1,196077,False,43zdsphuZLzwA9k4DJhU0I,False,True,when the party's over,84,7,track,album,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,Pop
+239,1,213386,False,3GJ4hzg4lrGwU51Y3VARbF,False,True,Speechless,73,7,track,album,Dan + Shay,2018,0.616,0.438,1,-5.968,1,0.0298,0.356,0.0,0.24,0.386,135.929,Pop
+240,1,121680,True,4mHgYpuGHu99Mw69E83CP2,False,True,Taking A Walk,79,2,track,album,LIFE'S A TRIP,2018,0.767,0.538,0,-6.044,0,0.052,0.68,0.0,0.192,0.343,81.031,Pop
+241,1,209320,False,2ekn2ttSfGqwhhate0LSR0,False,True,New Rules,82,10,track,album,Dua Lipa (Deluxe),2017,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,Pop
+242,1,184447,False,58HvfVOeJY7lUuCqF0m3ly,False,True,MIDDLE OF THE NIGHT,90,1,track,single,MIDDLE OF THE NIGHT,2020,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,Pop
+243,1,263400,False,0tgVpDi06FyKpA1z0VMD4v,False,True,Perfect,87,5,track,album,÷ (Deluxe),2017,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,Pop
+244,1,226973,False,4eWQlBRaTjPPUlzacqEeoQ,False,True,Never Be the Same,74,1,track,album,Camila,2018,0.637,0.713,0,-4.333,1,0.0747,0.181,0.000637,0.137,0.243,129.923,Pop
+245,1,216062,True,3XgGQ1wjo5khvq2UImjyNF,False,True,ALL MINE,81,6,track,album,WASTELAND,2022,0.617,0.378,9,-8.54,1,0.0315,0.428,9.16e-05,0.11,0.22,141.967,Pop
+246,1,217306,False,1rfofaqEpACxVEHIZBJe6W,False,True,Havana (feat. Young Thug),81,4,track,album,Camila,2018,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,Pop
+247,1,207904,False,4hQ6UGyWQIGJmHSo0J88JW,False,True,Back To You - From 13 Reasons Why – Season 2 Soundtrack,74,1,track,single,Back To You (From 13 Reasons Why – Season 2 Soundtrack),2018,0.601,0.724,6,-4.856,1,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,Pop
+248,1,265480,True,5TxRUOsGeWeRl3xOML59Ai,False,True,ARE WE STILL FRIENDS?,82,12,track,album,IGOR,2019,0.216,0.497,10,-8.025,1,0.0371,0.128,2.39e-06,0.111,0.313,187.308,Pop
+249,1,221440,True,3swc6WTsr7rl9DqQKQA55C,False,True,Psycho (feat. Ty Dolla $ign),79,8,track,album,beerbongs & bentleys,2018,0.75,0.56,8,-8.094,1,0.105,0.546,0.0,0.111,0.459,140.06,Pop
+250,1,205920,False,2qT1uLXPVPzGgFOx4jtEuo,False,True,no tears left to cry,78,10,track,album,Sweetener,2018,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,Pop
+251,1,212120,False,52okn5MNA47tk87PeZJLEL,False,True,Let You Down,80,6,track,album,Perception,2017,0.662,0.714,5,-5.68,0,0.121,0.312,0.0,0.179,0.464,147.997,Pop
+252,1,181279,False,7y9iMe8SOB6z3NoHE2OfXl,False,True,Bad At Love,74,11,track,album,hopeless fountain kingdom (Deluxe),2017,0.675,0.751,0,-3.539,1,0.0296,0.0604,0.0,0.0893,0.612,118.384,Pop
+253,1,163870,False,7iDa6hUg2VgEL1o1HjmfBn,False,True,Meant to Be (feat. Florida Georgia Line),76,6,track,single,All Your Fault: Pt. 2,2017,0.643,0.783,10,-6.458,1,0.0856,0.047,0.0,0.083,0.579,154.084,Pop
+254,1,232253,False,6NFyWDv5CjfwuzoCkw47Xf,False,True,Delicate,79,5,track,album,reputation,2017,0.75,0.404,9,-10.178,0,0.0682,0.216,0.000357,0.0911,0.0499,95.045,Pop
+255,1,268866,True,5k38wzpLb15YgncyWdTZE4,False,True,Him & I (with Halsey),79,3,track,album,The Beautiful & Damned,2017,0.589,0.731,2,-6.343,1,0.0868,0.0534,0.0,0.308,0.191,87.908,Pop
+256,2,182080,False,2WP8G2pdddDmnh1xbfKBOI,False,True,Finesse,74,5,track,album,Scorpion,2018,0.807,0.319,0,-8.152,0,0.0581,0.133,0.000338,0.101,0.299,94.992,Pop
+257,1,163311,False,6VVqPBFZIbcmv14zNfOc13,False,True,She Likes It (feat. Jake Scott),77,1,track,single,She Likes It (feat. Jake Scott),2021,0.79,0.325,4,-11.689,1,0.127,0.509,0.0,0.155,0.539,126.877,Pop
+258,1,197436,False,2P91MQbaiQOfbiz9VqhqKQ,False,True,I Like Me Better,83,1,track,album,I met you when I was 18. (the playlist),2018,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,Pop
+259,1,211420,True,6huNf4dutXRjJyGn7f5BPS,False,True,Pray For Me,78,7,track,compilation,The Highlights,2021,0.732,0.678,2,-4.977,1,0.0886,0.0867,2.41e-05,0.112,0.196,100.626,Pop
+260,1,223846,False,5A6BJLZArq1MPjsnmcuk5f,False,True,Lights Down Low,65,5,track,album,Hell's Kitchen Angel,2016,0.623,0.493,5,-7.727,0,0.0338,0.0632,0.0,0.104,0.594,81.019,Pop
+261,1,199758,True,33gwZOGJWEZ7dRWPqPxBEZ,False,True,Wolves (feat. Post Malone),77,4,track,album,Detroit 2,2020,0.724,0.675,2,-5.267,1,0.0867,0.0978,9.41e-06,0.351,0.325,160.048,Pop
+262,1,198973,True,6DCZcSspjsKoFjzjrWoCdn,False,True,God's Plan,84,5,track,album,Scorpion,2018,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,Pop
+263,1,197546,True,5OCJzvD7sykQEKHH7qAC3C,False,True,God is a woman,80,5,track,album,Sweetener,2018,0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,Pop
+264,1,189893,True,59nOXPmaKlBfGMDeOVGrIK,False,True,WAIT FOR U (feat. Drake & Tems),90,7,track,album,I NEVER LIKED YOU,2022,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,Pop
+265,1,200853,False,6wmAHw1szh5RCKSRjiXhPe,False,True,How Long,73,4,track,album,Voicenotes,2018,0.845,0.561,1,-5.253,0,0.0778,0.211,3.49e-06,0.0383,0.811,109.974,Pop
+266,1,211360,False,2QZ7WLBE8h2y1Y5Fb8RYbH,False,True,In My Blood,76,1,track,album,Shawn Mendes,2018,0.622,0.712,5,-7.321,1,0.066,0.0573,0.0,0.13,0.487,140.025,Pop
+267,1,201240,False,6Qn5zhYkTa37e91HC1D7lb,False,True,Whatever It Takes,82,3,track,album,Evolve,2017,0.672,0.655,10,-5.021,0,0.0311,0.0362,0.0,0.117,0.556,134.945,Pop
+268,1,214846,False,7ef4DlsgrMEH11cDZd32M6,False,True,One Kiss (with Dua Lipa),90,1,track,single,One Kiss (with Dua Lipa),2018,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,Pop
+269,1,292880,False,57bgtoPSgt236HzfBOd8kj,False,True,Thunderstruck,84,1,track,album,The Razors Edge,1990,0.502,0.89,4,-5.175,1,0.0364,0.000147,0.0117,0.217,0.259,133.52,Pop
+270,2,217925,True,2G7V7zsVDxg1yRsu7Ew9RJ,False,True,In My Feelings,77,9,track,album,Scorpion,2018,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,Pop
+271,1,260000,True,5WvAo7DNuPRmk4APhdPzi8,False,True,No Brainer,67,1,track,single,No Brainer,2018,0.552,0.76,0,-4.706,1,0.342,0.0733,0.0,0.0865,0.639,135.702,Pop
+272,1,170773,False,50ekLb1wXqwCalbH4onfGU,False,True,I’m a Raven (Shake Children),36,6,track,album,Lateness of Dancers,2014,0.502,0.504,1,-7.497,1,0.0275,0.102,0.0,0.282,0.866,170.438,Pop
+277,1,218093,False,3ZFTkvIE7kyPt6Nu3PEa7V,False,True,Hips Don't Lie (feat. Wyclef Jean),84,3,track,album,"Oral Fixation, Vol. 2 (Expanded Edition)",2005,0.778,0.824,10,-5.892,0,0.0707,0.284,0.0,0.405,0.758,100.024,Pop
+278,1,240506,False,2Za1AlJNvksouPPWbXpR2X,False,True,Good Old Days (feat. Kesha),71,6,track,album,GEMINI,2017,0.712,0.51,8,-8.162,1,0.0633,0.446,2.46e-05,0.112,0.268,122.964,Pop
+279,1,239835,True,285pBltuF7vW8TeWk8hdRR,False,True,Lucid Dreams,86,3,track,album,Goodbye & Good Riddance,2018,0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,0.218,83.903,Pop
+284,1,140666,True,4ZUpTMKPYFTfJqamWFU9Zv,False,True,IDGAF (with blackbear),76,7,track,album,Serotonin Dreams,2022,0.782,0.728,5,-5.93,1,0.0768,0.427,0.0,0.25,0.876,97.975,Pop
+285,2,210746,True,3CA9pLiwRIGtUBiMjbZmRw,False,True,Nice For What,79,4,track,album,Scorpion,2018,0.585,0.909,8,-6.474,1,0.0707,0.0891,9.7e-05,0.119,0.758,93.372,Pop
+286,1,244826,False,2x0WlnmfG39ZuDmstl9xfX,False,True,End Game,74,2,track,album,reputation,2017,0.649,0.589,2,-6.237,1,0.0558,0.00845,0.0,0.108,0.151,159.073,Pop
+291,1,231400,True,06u5LrUpbosQlQ1QJFhPpG,False,True,Drew Barrymore,73,4,track,album,Ctrl,2017,0.577,0.523,0,-5.538,0,0.0429,0.491,0.0,0.147,0.29,134.93,Pop
+292,1,189466,False,2FY7b99s15jUprqC0M5NCT,False,True,Natural,83,1,track,album,Origins (Deluxe),2018,0.704,0.611,2,-6.112,1,0.0409,0.217,0.0,0.0812,0.22,100.0,Pop
+293,1,233712,False,7qiZfU4dY1lWllzX7mPBI3,False,True,Shape of You,86,4,track,album,÷ (Deluxe),2017,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,Pop
+294,1,199440,False,7JJmb5XwzOO8jgpou264Ml,False,True,There's Nothing Holdin' Me Back,87,1,track,album,Illuminate (Deluxe),2017,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,Pop
+295,1,220780,False,12GEpg2XOPyqk03JZEZnJs,False,True,It Ain’t Me (with Selena Gomez),67,1,track,single,It Ain't Me,2017,0.64,0.533,0,-6.596,1,0.0706,0.119,0.0,0.0864,0.515,99.968,Pop
+296,1,180066,False,2pIUpMhHL6L9Z5lnKxJJr9,False,True,Attention,88,1,track,single,NewJeans 1st EP 'New Jeans',2022,0.811,0.648,10,-3.684,0,0.0368,0.236,0.0,0.0761,0.695,104.988,Pop
+297,1,229360,False,6habFhsOp2NvshLv26DqMb,False,True,Despacito,81,9,track,album,VIDA,2019,0.655,0.797,2,-4.787,1,0.153,0.198,0.0,0.067,0.839,177.928,Pop
+298,1,188174,False,2cOUlop2ZakjOKe4WinesN,False,True,Slow Hands,76,4,track,album,Flicker (Deluxe),2017,0.735,0.425,0,-6.648,1,0.0464,0.011,0.0,0.055,0.848,85.896,Pop
+299,1,247160,False,55n9yjI6qqXh5F2mYvUc2y,False,True,I Don’t Wanna Live Forever (Fifty Shades Darker),80,10,track,album,reputation Stadium Tour Surprise Song Playlist,2017,0.731,0.445,0,-8.418,1,0.0533,0.0586,1.96e-05,0.14,0.106,117.97,Pop
+300,1,230240,False,0wI7QkCcs8FUQE1OkXUIqd,False,True,Scars To Your Beautiful,79,10,track,album,Know-It-All,2015,0.573,0.739,0,-5.74,1,0.129,0.0285,0.0,0.111,0.451,97.085,Pop
+301,1,247160,False,6RUKPb4LETWmmr3iAEQktW,False,True,Something Just Like This,86,5,track,album,Memories...Do Not Open,2017,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,Pop
+302,1,204502,False,4Ro98RCK90oHqqSZUnTFq5,False,True,Strip That Down,68,1,track,single,Strip That Down,2017,0.874,0.497,6,-5.484,1,0.0562,0.22,0.0,0.0761,0.542,106.023,Pop
+303,1,144893,False,76IcptNYzwtx5YEo6Pa52P,False,True,Don’t You Wanna Know,52,3,track,album,Thoughtfully Reckless,2022,0.504,0.549,7,-9.109,0,0.165,0.0863,0.0,0.111,0.305,93.723,Pop
+304,1,224000,True,5oO3drDxtziYU2H1X23ZIp,False,True,Love On The Brain,83,11,track,album,ANTI (Deluxe),2016,0.509,0.637,4,-4.83,0,0.0471,0.0717,1.08e-05,0.0789,0.378,172.006,Pop
+305,1,204346,False,0pqnGHJpmpxLKifKRmU6WP,False,True,Believer,88,4,track,album,Evolve,2017,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,Pop
+306,1,226160,True,43bCmCI0nSgcT7QdMXY6LV,False,True,Side To Side,69,5,track,album,Dangerous Woman,2016,0.65,0.736,6,-5.84,0,0.229,0.0528,0.0,0.235,0.613,159.173,Pop
+307,1,269186,False,3dhjNA0jGA8vHBQ1VdD6vV,False,True,I Feel It Coming,81,18,track,album,Starboy,2016,0.773,0.819,0,-5.946,0,0.118,0.428,0.0,0.0679,0.585,92.987,Pop
+308,1,239293,False,1PSBzsahR2AKwLJgx8ehBj,False,True,Bad Things (with Camila Cabello),73,10,track,album,bloom,2017,0.697,0.691,2,-4.757,1,0.146,0.214,0.0,0.185,0.305,137.853,Pop
+309,1,260173,False,5E30LdtzQTGqRvNd7l6kG5,False,True,Daddy Issues,87,6,track,album,Wiped Out!,2015,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,Pop
+310,1,219333,True,4Li2WHPkuyCdtmokzW2007,False,True,Ni**as In Paris,85,3,track,album,Watch The Throne (Deluxe),2011,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,Pop
+311,1,150073,True,7EHOorGNbnzDGmJDFVOhcJ,False,True,I’m The One,64,12,track,album,Realer 2,2022,0.883,0.575,1,-7.293,1,0.173,0.0456,0.0,0.117,0.321,128.045,Pop
+321,1,214801,False,7i2DJ88J7jQ8K7zqFX2fW8,False,True,Now Or Never,67,6,track,album,hopeless fountain kingdom (Deluxe),2017,0.67,0.585,6,-4.861,0,0.0354,0.107,1.11e-06,0.131,0.447,110.03,Pop
+322,1,211466,False,5uCax9HTNlzGybIStD3vDh,False,True,Say You Won't Let Go,85,2,track,album,Back from the Edge,2016,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,Pop
+323,1,208733,False,0AS63m1wHv9n4VVRizK6Hc,False,True,Mercy,83,3,track,album,Illuminate (Deluxe),2017,0.555,0.662,11,-4.952,0,0.0827,0.125,0.0,0.111,0.356,148.128,Pop
+324,1,251088,False,5knuzwU65gJK7IF5yJsuaW,False,True,Rockabye (feat. Sean Paul & Anne-Marie),76,1,track,single,Rockabye (feat. Sean Paul & Anne-Marie),2016,0.72,0.763,9,-4.068,0,0.0523,0.406,0.0,0.18,0.742,101.965,Pop
+325,1,204664,True,45XhKYRRkyeqoW3teSOkCM,False,True,Wild Thoughts (feat. Rihanna & Bryson Tiller),66,4,track,album,Grateful,2017,0.613,0.681,8,-3.089,1,0.0778,0.0287,0.0,0.126,0.619,97.621,Pop
+326,1,230453,True,7MXVkk9YMctZqd1Srtv4MB,False,True,Starboy,90,1,track,album,Starboy,2016,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,Pop
+327,1,163253,False,6QgjcU0zLnzq5OrUoSZ3OK,False,True,Feel It Still,77,4,track,album,Woodstock,2017,0.801,0.795,1,-5.115,0,0.0504,0.0417,0.000113,0.0717,0.754,79.028,Pop
+328,1,261153,False,6PCUP3dWmTjcTtXY02oFdT,False,True,Castle on the Hill,79,2,track,album,÷ (Deluxe),2017,0.461,0.834,2,-4.868,1,0.0989,0.0232,1.14e-05,0.14,0.471,135.007,Pop
+329,1,250173,True,5tz69p7tJuGPeMGwNTxYuV,False,True,1-800-273-8255,78,10,track,album,Everybody,2017,0.62,0.574,5,-7.788,0,0.0479,0.569,0.0,0.19,0.357,100.023,Pop
+330,1,222786,False,5lNuqFVMca4vPupY10cH0J,False,True,No Promises (feat. Demi Lovato),61,1,track,single,No Promises (feat. Demi Lovato),2017,0.739,0.619,10,-6.669,1,0.162,0.0572,0.0,0.105,0.58,112.961,Pop
+331,1,181880,False,4Ce37cRWvM1vIGGynKcs22,False,True,Starving,75,1,track,single,Starving,2016,0.728,0.616,4,-4.238,1,0.0645,0.378,0.0,0.105,0.508,99.962,Pop
+332,1,225983,False,6b8Be6ljOzmkOmFslEb23P,False,True,24K Magic,80,1,track,album,24K Magic,2016,0.818,0.803,1,-4.282,1,0.0797,0.034,0.0,0.153,0.632,106.97,Pop
+337,1,233901,True,3B54sVLJ402zGa6Xm4YGNe,False,True,Unforgettable,82,2,track,album,Jungle Rules,2017,0.726,0.769,6,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,Pop
+338,1,202735,False,6zSpb8dQRaw0M1dK8PBwQz,False,True,Cold Heart - PNAU Remix,89,1,track,single,Cold Heart (PNAU Remix),2021,0.796,0.798,1,-6.312,1,0.0317,0.034,4.19e-05,0.0952,0.942,116.032,Pop
+339,1,230266,False,0jdny0dhgjUwoIp5GkqEaA,False,True,Praying,71,5,track,album,Rainbow,2017,0.543,0.39,10,-7.202,1,0.0322,0.489,0.0,0.111,0.303,73.415,Pop
+340,1,217603,True,0SuLAslEMFZAXf0SwY7syi,False,True,All Time Low,69,3,track,album,The Human Condition,2016,0.617,0.567,0,-4.188,1,0.0828,0.0584,0.0,0.0933,0.505,90.246,Pop
+341,1,211853,False,1P17dC1amhFzptugyAO7Il,False,True,Look What You Made Me Do,80,6,track,album,reputation,2017,0.766,0.709,9,-6.471,0,0.123,0.204,1.41e-05,0.126,0.506,128.07,Pop
+342,1,120308,False,4UG2Fm0E98LhE2dlNxiAXx,False,True,this is what falling in love feels like,83,1,track,single,this is what falling in love feels like,2021,0.424,0.438,11,-5.53,1,0.0553,0.617,0.0,0.0837,0.325,128.983,Pop
+343,1,165386,False,7mldq42yDuxiUNn08nvzHO,False,True,Body Like A Back Road,72,1,track,single,Body Like A Back Road,2017,0.732,0.458,5,-7.225,1,0.0311,0.447,0.0,0.136,0.661,98.938,Pop
+344,1,237733,False,7qvxFz3JodM0A7xEM7k3YD,False,True,Chained To The Rhythm,70,9,track,album,Witness (Deluxe),2017,0.562,0.8,0,-5.404,1,0.112,0.0814,0.0,0.199,0.471,95.029,Pop
+345,1,232852,False,0qvzXomUDJVaUboy2wMfiS,False,True,This Town,81,2,track,album,Flicker (Deluxe),2017,0.677,0.401,9,-8.467,1,0.0308,0.712,0.0,0.116,0.195,111.825,Pop
+346,1,269600,False,0Qh38w01QRXK6KHIv0e3hb,False,True,What About Us,75,4,track,album,Beautiful Trauma,2017,0.491,0.588,1,-6.177,1,0.0506,0.0281,2.01e-06,0.0906,0.193,113.608,Pop
+347,1,175889,False,0ARKW62l9uWIDYMZTUmJHF,False,True,Shut Down,89,2,track,album,BORN PINK,2022,0.82,0.686,0,-5.102,1,0.038,0.00412,0.0,0.184,0.668,110.058,Pop
+348,1,212066,False,0nnwn7LWHCAu09jfuH1xTA,False,True,Slide,71,2,track,album,Dizzy up the Girl,1998,0.395,0.843,8,-4.476,1,0.0374,0.00483,0.0,0.0404,0.481,112.423,Pop
+349,1,240439,False,4jL6WWKFDqCOPo2hC3VhSS,False,True,Water Under the Bridge,69,6,track,album,25,2015,0.59,0.833,5,-6.503,0,0.0615,0.0142,5.4e-06,0.105,0.538,94.963,Pop
+350,1,233720,False,50kpGaPAhYJ3sGmk6vplg0,False,True,Love Yourself,85,5,track,album,Purpose (Deluxe),2015,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,Pop
+351,1,211666,False,3S4px9f4lceWdKf0gWciFu,False,True,Cheap Thrills,71,6,track,album,This Is Acting (Deluxe Version),2016,0.628,0.698,6,-5.608,0,0.105,0.0472,0.00143,0.0907,0.732,89.976,Pop
+352,2,209453,False,40XeGNGFchGYw7y0ue1GiG,False,True,Don’t Let Me Down - First Rooftop Performance,60,12,track,album,Let It Be (Super Deluxe),2021,0.455,0.502,4,-7.539,1,0.0493,0.699,0.000156,0.094,0.674,163.347,Pop
+353,1,202333,False,3CRDbSIZ4r5MsZ0YwxuEkn,False,True,Stressed Out,85,2,track,album,Blurryface,2015,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,Pop
+354,1,197933,True,1MtUq6Wp1eQ8PC6BbPCj8P,False,True,I Took A Pill In Ibiza - Seeb Remix,74,13,track,album,"At Night, Alone.",2016,0.664,0.714,7,-6.645,0,0.111,0.0353,8.42e-06,0.0843,0.71,101.969,Pop
+355,1,222160,False,0azC730Exh71aQlOt9Zj3y,False,True,This Is What You Came For,82,1,track,single,This Is What You Came For,2016,0.631,0.927,9,-2.787,0,0.0332,0.199,0.119,0.148,0.465,123.962,Pop
+356,1,173986,False,1zi7xx7UVEFkmKfv06H8x0,False,True,One Dance,86,12,track,album,Views,2016,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,Pop
+357,1,186017,True,4VHkjPgAis9JNfc1URn7zZ,False,True,Sorry Bout That,75,2,track,album,4L,2021,0.73,0.643,6,-7.811,0,0.0984,8.47e-05,0.0,0.203,0.492,141.961,Pop
+358,1,214506,False,2Z8WuEywRWYTKe1NybPQEW,False,True,Ride,83,3,track,album,Blurryface,2015,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,Pop
+359,1,223725,False,1ksBnjQFB8NivbG3JYQsuQ,False,True,Can’t Stop the Feeling,44,15,track,album,"Cover Sessions, Vol. 4",2017,0.756,0.405,5,-7.02,1,0.0539,0.428,0.0,0.0847,0.43,113.35,Pop
+360,1,191638,False,1mw0RgNXIpYRyyCdBQbLgA,False,True,Love Of My Life,83,13,track,album,Harry's House,2022,0.555,0.536,7,-8.233,1,0.0452,0.669,0.0,0.0623,0.203,118.057,Pop
+361,1,202746,True,0PDUDa38GO8lMxLCRc4lL1,False,True,PILLOWTALK,78,2,track,album,Mind Of Mine (Deluxe Edition),2016,0.584,0.7,11,-4.275,1,0.0456,0.117,0.0,0.0939,0.438,124.944,Pop
+362,1,219146,True,76hfruVvmfQbw0eYn1nmeC,False,True,Cake By The Ocean,83,3,track,album,DNCE,2016,0.774,0.753,4,-5.446,0,0.0517,0.152,0.0,0.0371,0.896,119.002,Pop
+363,1,187973,False,3QGsuHI8jO1Rx4JWLUh9jd,False,True,Treat You Better,84,4,track,album,Illuminate,2017,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,Pop
+364,1,214480,False,4tCtwWceOPWzenK2HAIJSb,False,True,Work from Home (feat. Ty Dolla $ign),76,2,track,album,7/27 (Deluxe),2016,0.803,0.585,8,-5.861,1,0.0432,0.103,3.94e-06,0.0644,0.593,105.017,Pop
+365,1,251466,True,40YcuQysJ0KlGQTeGUosTC,False,True,"Me, Myself & I",78,3,track,album,When It's Dark Out,2015,0.756,0.674,0,-6.518,0,0.0959,0.0184,0.0,0.158,0.389,111.995,Pop
+366,1,190534,True,2r6OAV3WsYtXuXjvJ1lIDi,False,True,Hello (feat. A Boogie Wit da Hoodie),79,30,track,album,Shoot For The Stars Aim For The Moon (Deluxe),2020,0.905,0.647,10,-5.065,0,0.107,0.0187,0.0,0.282,0.367,130.97,Pop
+367,1,185360,False,7zsXy7vlHdItvUSH8EwQss,False,True,Cold Water,69,1,track,single,Cold Water,2016,0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,Pop
+372,1,235946,False,6RUhbFEhrvGISaQ8u2j2JN,False,True,Dangerous Woman,69,2,track,album,Dangerous Woman,2016,0.664,0.602,4,-5.369,0,0.0412,0.0529,0.0,0.356,0.289,134.049,Pop
+373,1,237300,False,5kqIPrATaCc2LqxVWzQGbk,False,True,7 Years,81,1,track,album,Lukas Graham,2016,0.765,0.473,10,-5.829,1,0.0514,0.287,0.0,0.391,0.34,119.992,Pop
+374,1,95466,True,3GVkPk8mqxz0itaAriG1L7,False,True,Everybody Dies In Their Nightmares,85,4,track,album,17,2017,0.734,0.57,7,-7.066,0,0.133,0.847,2.14e-05,0.112,0.689,129.953,Pop
+375,1,185733,False,6dGnYIeXmHdcikdzNNDMm2,False,True,Here Comes The Sun - Remastered 2009,83,7,track,album,Abbey Road (Remastered),1969,0.557,0.54,9,-10.484,1,0.0347,0.0339,0.00248,0.179,0.394,129.171,Pop
+376,1,200680,False,1LoriJC05IrHIDwj3q0KC1,False,True,Hands To Myself,65,3,track,album,Revival (Deluxe),2015,0.811,0.499,5,-7.161,0,0.118,0.0147,2.44e-06,0.342,0.466,111.016,Pop
+377,1,223078,False,0t7fVeEJxO2Xi4H2K5Svc9,False,True,Send My Love (To Your New Lover),74,2,track,album,25,2015,0.688,0.533,6,-8.363,0,0.0865,0.0355,3.48e-06,0.172,0.567,164.069,Pop
+378,1,195920,False,6i0V12jOa3mr6uu4WYhUBr,False,True,Heathens,82,1,track,single,Heathens,2016,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024,Pop
+379,1,213427,False,6hmhG1b4LEyNuashVvuIAo,False,True,Never Forget You,74,7,track,album,So Good,2017,0.583,0.732,11,-5.728,0,0.0457,0.00312,9.86e-06,0.269,0.276,145.992,Pop
+380,1,207761,False,6ZtiywT2Qm50a1uR0jlY35,False,True,"Sit Still, Look Pretty",69,8,track,album,"Sit Still, Look Pretty",2016,0.846,0.734,2,-3.601,1,0.108,0.286,8.27e-05,0.425,0.717,90.98,Pop
+381,1,215413,False,7K5dzhGda2vRTaAWYI3hrb,False,True,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",70,1,track,single,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",2016,0.632,0.702,7,-5.92,1,0.148,0.0114,0.0,0.108,0.523,162.958,Pop
+386,1,191368,False,7fPyCCiXVwbzPQ1MtoUChl,False,True,Hide Away,63,6,track,album,"Sit Still, Look Pretty",2016,0.884,0.826,11,-3.672,0,0.0853,0.222,2.29e-06,0.0651,0.465,94.997,Pop
+387,1,268434,True,7eBqSVxrzQZtK2mmgRG6lC,False,True,Murder On My Mind,79,13,track,album,I AM YOU,2018,0.759,0.73,0,-7.985,0,0.0516,0.145,3.06e-06,0.11,0.74,115.007,Pop
+388,1,217706,False,37FXw5QGFN7uwwsLy8uAc0,False,True,We Don't Talk Anymore (feat. Selena Gomez),70,5,track,album,Nine Track Mind,2016,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,Pop
+389,1,260533,False,13HVjjWUZFaWilh2QUJKsP,False,True,Let It Go,71,3,track,album,Chaos And The Calm,2014,0.546,0.311,1,-10.396,1,0.0288,0.818,1.65e-05,0.107,0.246,147.464,Pop
+390,1,234909,True,5WI2ltQIdwgzf1SNE76JyR,False,True,Never Be Like You (feat. Kai),68,2,track,album,Skin,2016,0.444,0.557,0,-5.476,1,0.0602,0.453,0.0,0.152,0.296,115.058,Pop
+391,1,225053,False,2YlZnw2ikdb837oKMKjBkW,False,True,Like I'm Gonna Lose You (feat. John Legend),79,6,track,album,Title (Deluxe),2015,0.63,0.53,0,-7.259,1,0.0434,0.4,0.0,0.177,0.417,108.038,Pop
+392,1,251033,True,7vRriwrloYVaoAe3a9wJHe,False,True,"i hate u, i love u (feat. olivia o'brien)",78,6,track,album,us,2016,0.492,0.275,6,-13.4,0,0.3,0.687,0.0,0.101,0.18,92.6,Pop
+393,1,235320,True,2wAJTrFhCnQyNSD3oUgTZO,False,True,Work Out,81,16,track,album,Cole World: The Sideline Story,2011,0.831,0.427,2,-6.903,1,0.106,0.0531,0.0,0.307,0.216,93.004,Pop
+394,1,194453,False,7soJgKhQTO8hLP2JPRkL5O,False,True,One Call Away,67,1,track,album,Nine Track Mind,2016,0.667,0.613,1,-5.353,1,0.0344,0.403,0.0,0.115,0.47,91.024,Pop
+399,1,292799,True,68Dni7IE4VyPkTOH9mRWHr,False,True,No Role Modelz,88,9,track,album,2014 Forest Hills Drive,2014,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,Pop
+400,1,267066,False,0wwPcA6wtMf6HUMpIRdeP7,False,True,Hotline Bling,79,20,track,album,Views,2016,0.891,0.628,2,-7.863,1,0.0551,0.00258,0.00019,0.0504,0.552,134.966,Pop
+401,1,213593,True,2JvzF1RMd7lE3KmFlsyZD8,False,True,MIDDLE CHILD,81,1,track,single,MIDDLE CHILD,2019,0.837,0.364,8,-11.713,1,0.276,0.149,0.0,0.271,0.463,123.984,Pop
+402,1,188493,False,0bmm9xZUJQDR1tBhWtIXVM,False,True,Wild Things,65,6,track,album,Know-It-All,2015,0.741,0.626,1,-4.826,0,0.0886,0.02,0.0,0.0828,0.706,108.029,Pop
+403,1,269666,True,32OlwWuMpZ6b0aN2RZOeMS,False,True,Uptown Funk (feat. Bruno Mars),84,4,track,album,Uptown Special,2015,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,Pop
+404,1,199080,False,4kbj5MwxO1bq9wjT5g9HaA,False,True,Shut Up and Dance,84,3,track,album,TALKING IS HARD,2014,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,Pop
+405,1,201106,False,2TZu0eg6gBNwbqPyzSDqnf,False,True,Can’t Feel My Face,42,4,track,album,"Punk Goes Pop, Vol. 7",2017,0.43,0.856,9,-6.301,0,0.0549,0.000997,0.0,0.273,0.295,108.091,Pop
+406,1,211933,False,273dCMFseLcVsoSWx59IoE,False,True,Bad Blood,68,8,track,album,1989,2014,0.65,0.802,7,-6.114,1,0.181,0.0871,6.54e-06,0.148,0.295,170.146,Pop
+407,1,231826,False,1p80LdxRV74UKvL8gnD7ky,False,True,Blank Space,76,2,track,album,1989,2014,0.753,0.678,5,-5.421,1,0.0644,0.085,1.64e-06,0.13,0.583,96.006,Pop
+408,1,180386,True,7KA4W4McWYRpgf0fWsJZWB,False,True,See You Again (feat. Kali Uchis),85,4,track,album,Flower Boy,2017,0.558,0.559,6,-9.222,1,0.0959,0.371,7.49e-06,0.109,0.62,78.558,Pop
+409,1,253520,False,0Cy7wt6IlRfBPHXXjmZbcP,False,True,Love Me Like You Do,80,17,track,compilation,Fifty Shades Freed (Original Motion Picture Soundtrack),2018,0.489,0.597,5,-6.633,0,0.0292,0.27,0.0,0.105,0.324,95.012,Pop
+410,1,281560,False,34gCuhDGsG4bRPIf9bb02f,False,True,Thinking out Loud,84,11,track,album,x (Deluxe Edition),2014,0.781,0.445,2,-6.061,1,0.0295,0.474,0.0,0.184,0.591,78.998,Pop
+411,1,588139,True,3EG9FJ0ToLfgnc1IG2Z1wz,False,True,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),77,10,track,album,CALL ME IF YOU GET LOST,2021,0.468,0.652,0,-4.912,1,0.0722,0.333,0.000318,0.55,0.39,140.223,Pop
+412,1,231000,False,4lIxdJw6W3Fg4vUIYCB0S5,False,True,Style,75,3,track,album,1989,2014,0.598,0.786,2,-5.572,1,0.0383,0.00253,0.0016,0.117,0.456,95.019,Pop
+413,1,221280,False,578Eooad7oUyn4stovZiPg,False,True,Good For You,64,6,track,album,Revival (Deluxe),2015,0.607,0.673,5,-6.484,0,0.0611,0.181,0.0,0.069,0.215,88.952,Pop
+414,1,180560,False,023OVLNzXhX0j7CxswUt6D,False,True,Cheerleader - Felix Jaehn Remix Radio Edit,68,1,track,album,Me 4 U,2015,0.78,0.68,4,-6.081,1,0.0305,0.141,1.2e-05,0.138,0.594,118.026,Pop
+415,1,192560,False,5b2bu6yyATC1zMXDGScJ2d,False,True,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",63,10,track,album,Listen (Deluxe),2014,0.596,0.73,9,-4.091,1,0.151,0.24,0.0,0.325,0.525,85.979,Pop
+416,1,153693,False,1qRA5BS78u3gME0loMl9AA,False,True,For What It's Worth,78,1,track,album,Buffalo Springfield,1966,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883,Pop
+417,1,122338,False,1aXV8GrmQLvgoFtBPERP7E,False,True,Jealous,84,1,track,single,Jealous,2019,0.474,0.921,9,-10.431,0,0.0457,0.00491,0.85,0.476,0.696,93.01,Pop
+418,1,238426,True,2tpfxAXiI52znho4WE3XFA,False,True,Talking Body,68,4,track,album,Queen Of The Clouds,2014,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,Pop
+419,1,241693,False,1CS7Sd1u5tWkstBhpssyjP,False,True,Take Me to Church,77,1,track,album,Hozier (Expanded Edition),2014,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,Pop
+420,1,277680,True,4frLb7nWtsz2ymBE6k2GRP,False,True,Earned It (Fifty Shades Of Grey),76,9,track,album,Beauty Behind The Madness,2015,0.659,0.291,2,-8.275,0,0.0348,0.405,0.0,0.0771,0.406,119.829,Pop
+421,1,258986,False,1HNkqx9Ahdgi1Ixy2xkKkL,False,True,Photograph,85,6,track,album,x (Deluxe Edition),2014,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,Pop
+422,1,227480,False,7x5xYW5W42OGPAdHUyyguy,False,True,Locked Away (feat. Adam Levine),79,2,track,album,What Dreams Are Made Of,2015,0.509,0.671,1,-5.709,1,0.0678,0.304,0.0,0.0452,0.55,118.413,Pop
+423,1,229360,True,2bJvI42r8EF3wxjOuDav4r,False,True,Time of Our Lives,81,4,track,album,Globalization,2014,0.721,0.802,1,-5.797,1,0.0583,0.0921,0.0,0.694,0.724,124.022,Pop
+424,1,214739,True,3uwnnTQcHM1rDqSfA4gQNz,False,True,Cool for the Summer,82,2,track,album,Confident,2015,0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,0.336,114.06,Pop
+425,1,250285,False,66hayvUbTotekKU3H4ta1f,False,True,Where Are Ü Now (with Justin Bieber),75,9,track,album,Skrillex and Diplo present Jack Ü,2015,0.432,0.781,4,-4.038,0,0.0567,0.041,4.21e-06,0.0789,0.197,139.432,Pop
+430,1,201875,False,4RYQQajHToempAp8DhWasp,False,True,I’m Not The Only One,35,3,track,album,Selfies on Kodachrome,2015,0.347,0.659,5,-5.289,1,0.0717,0.55,2.41e-06,0.192,0.648,201.044,Pop
+431,1,242253,True,7fBv7CLKzipRk6EC6TWHOB,False,True,The Hills,88,5,track,album,Beauty Behind The Madness,2015,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,Pop
+432,1,220433,False,1Ov37jtRQ2YNAe8HzfczkL,False,True,Wildest Dreams (Taylor's Version),83,1,track,single,Wildest Dreams (Taylor's Version),2021,0.583,0.67,8,-7.289,1,0.0646,0.0374,0.0001,0.126,0.498,140.061,Pop
+433,1,182666,False,6gj08XDlv9Duc2fPOxUmVD,False,True,Lips Are Movin,71,11,track,album,Title (Deluxe),2015,0.775,0.825,7,-5.402,1,0.0464,0.0506,1.03e-06,0.111,0.95,139.091,Pop
+434,1,236133,False,5J4ZkQpzMUFojo1CtAZYpn,False,True,Love Me Harder,78,9,track,album,My Everything (Deluxe),2014,0.472,0.714,1,-4.389,0,0.0334,0.00937,0.0,0.0764,0.24,98.992,Pop
+435,1,205680,False,4B0JvthVoAAuygILe3n4Bs,False,True,What Do You Mean?,79,3,track,album,Purpose (Deluxe),2015,0.845,0.567,5,-8.118,0,0.0956,0.59,0.00142,0.0811,0.793,125.02,Pop
+436,1,231013,False,2bL2gyO6kBdLkNSkxXNh6x,False,True,Animals,80,2,track,album,V,2014,0.279,0.742,4,-6.46,0,0.0898,0.000185,0.0,0.593,0.328,189.868,Pop
+437,1,139246,True,1smeI4gqEuepGWxlSw3tnC,False,True,"New Chains, Same Shackles",70,3,track,single,KILL YOURSELF Part XIII: The Atlantis Saga,2017,0.7,0.56,2,-6.163,1,0.0733,0.09,0.0,0.111,0.328,100.035,Pop
+438,1,197266,False,7xoUc6faLbCqZO6fQEYprd,False,True,One Last Time,83,3,track,album,My Everything (Deluxe),2014,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,Pop
+439,1,211573,False,5PUawWFG1oIS2NwEcyHaCr,False,True,Uma Thurman,69,5,track,album,American Beauty/American Psycho,2015,0.623,0.962,4,-2.616,0,0.0895,0.103,0.000174,0.264,0.676,149.963,Pop
+440,1,199263,False,4MflGTO2ZTcSQ12bWcyRgI,False,True,"Honey, I'm Good.",73,1,track,album,Magazines Or Novels,2014,0.752,0.775,9,-7.289,1,0.0546,0.0324,0.0,0.351,0.595,122.014,Pop
+441,1,247266,False,57kR5SniQIbsbVoIjjOUDa,False,True,You Know You Like It,70,1,track,single,You Know You Like It,2014,0.407,0.725,5,-5.346,0,0.188,0.0141,2.46e-06,0.306,0.247,196.093,Pop
+442,1,204013,False,37f4ITSlgPX81ad2EvmVQr,False,True,Fight Song,78,5,track,album,Wildfire,2016,0.564,0.714,7,-4.987,1,0.129,0.0549,0.0,0.155,0.33,175.924,Pop
+443,1,52114,False,5BDTkNm8D43uQPIBaHxZ1O,False,True,G.D.F.R.,45,1,track,single,G.D.F.R.,2014,0.595,0.793,4,-8.685,1,0.0617,0.897,0.598,0.0753,0.975,74.905,Pop
+444,1,192120,False,2K87XMYnUMqLcX3zvtAF4G,False,True,Drag Me Down,81,2,track,album,Made In The A.M. (Deluxe Edition),2015,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,Pop
+445,1,227373,False,6wJwkMo278iWVlWl1XQ4WA,False,True,The Heart Wants What It Wants,72,1,track,single,The Heart Wants What It Wants,2014,0.616,0.789,7,-4.874,0,0.0377,0.053,0.0,0.142,0.621,83.066,Pop
+446,1,188238,False,78TTtXnFQPzwqlbtbwqN0y,False,True,FourFiveSeconds,78,1,track,single,FourFiveSeconds,2015,0.582,0.272,2,-5.662,1,0.0501,0.875,0.0,0.13,0.354,205.846,Pop
+447,1,189413,False,5fnA9mkIfScSqHIpeDyvck,False,True,Prayer in C - Robin Schulz Radio Edit,73,1,track,single,Prayer in C,2014,0.763,0.875,9,-5.797,0,0.0262,0.024,5.41e-06,0.599,0.8,123.013,Pop
+457,1,188579,True,4VY32hdU4byJ6cpEBAXRul,False,True,Outside,74,1,track,single,Outside,2022,0.729,0.513,6,-7.507,1,0.0554,0.125,0.0,0.112,0.775,97.254,Pop
+458,1,226600,False,5O2P9iiztwhomNh8xkR9lJ,False,True,Night Changes,88,7,track,album,FOUR (Deluxe),2014,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,Pop
+459,1,215672,False,5jrdCoLpJSvHHorevXBATy,False,True,Dark Horse,76,6,track,album,PRISM (Deluxe),2013,0.645,0.585,6,-6.122,1,0.0513,0.00314,0.0,0.165,0.353,131.931,Pop
+460,1,257839,False,6sy3LkhNFjJWlaeSMNwQ62,False,True,Counting Stars,79,1,track,album,Native,2014,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.115,0.477,122.017,Pop
+461,1,269560,False,3U4isOIWM3VvDubwSI3y7a,False,True,All of Me,85,6,track,album,Love In The Future (Expanded Edition),2013,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,Pop
+462,1,245866,False,1fidCEsYlaVE3pHwKCvpFZ,False,True,Am I Wrong,78,2,track,album,Black Star Elephant,2014,0.729,0.675,8,-6.003,1,0.0312,0.175,1.58e-06,0.55,0.779,119.968,Pop
+463,1,177685,True,6g6A7qNhTfUgOSH7ROOxTD,False,True,Talk Dirty (feat. 2 Chainz),66,1,track,album,Talk Dirty,2013,0.76,0.652,6,-7.321,1,0.232,0.0348,0.0,0.307,0.759,100.315,Pop
+464,1,224840,False,6RtPijgfPKROxEzTHNRiDp,False,True,Rude,81,1,track,album,Don't Kill the Magic,2014,0.773,0.758,1,-4.993,1,0.0381,0.0422,0.0,0.305,0.925,144.033,Pop
+465,1,193058,False,3G6hD9B2ZHOsgf4WfNu7X1,False,True,Team,78,6,track,album,Pure Heroine,2013,0.69,0.578,6,-7.436,1,0.0929,0.167,0.0,0.305,0.416,99.961,Pop
+466,1,172723,False,5Nm9ERjJZ5oyfXZTECKmRt,False,True,Stay With Me,84,3,track,album,In The Lonely Hour,2014,0.418,0.42,0,-6.444,1,0.0414,0.588,6.39e-05,0.11,0.184,84.094,Pop
+467,1,227426,False,5kNe7PE09d6Kvw5pAsx23n,False,True,Die A Happy Man,73,4,track,album,Tangled Up,2015,0.595,0.389,2,-9.245,1,0.0349,0.418,1.39e-06,0.116,0.4,166.052,Pop
+468,1,244000,True,0sY6ZUTh4yoctD8VIXz339,False,True,champagne problems,79,2,track,album,evermore,2020,0.462,0.24,0,-12.077,1,0.0377,0.92,0.0,0.113,0.32,171.319,Pop
+469,1,214147,False,3gbBpTdY8lnQwqxNCcf795,False,True,Pompeii,74,1,track,album,Bad Blood,2013,0.679,0.715,9,-6.383,1,0.0407,0.0755,0.0,0.271,0.571,127.435,Pop
+470,1,204160,False,3cHyrEgdyYRjgJKSOiOtcS,False,True,Timber (feat. Ke$ha),82,13,track,album,Global Warming: Meltdown (Deluxe Version),2012,0.581,0.963,11,-4.087,1,0.0981,0.0295,0.0,0.139,0.788,129.992,Pop
+471,1,250188,True,48RrDBpOSSl1aLVCalGl5C,False,True,The Monster,77,12,track,album,The Marshall Mathers LP2,2013,0.781,0.853,1,-3.68,0,0.0715,0.0525,0.0,0.12,0.624,110.049,Pop
+472,1,255866,False,1DunhgeZSEgWiIYbHqXl0c,False,True,Latch,72,3,track,album,Settle (Deluxe),2013,0.729,0.735,1,-5.455,1,0.0919,0.0178,0.000193,0.089,0.544,121.986,Pop
+473,1,187920,True,5jE48hhRu8E6zBDPRSkEq7,False,True,All About That Bass,74,2,track,album,Title (Deluxe),2015,0.807,0.887,9,-3.726,1,0.0503,0.0573,2.87e-06,0.124,0.961,134.052,Pop
+474,1,169866,False,0Y1MWB026LYxGvhq4EcMiC,False,True,Boom Clap,60,6,track,album,SUCKER,2014,0.659,0.911,4,-2.28,1,0.0786,0.154,0.000304,0.191,0.576,91.999,Pop
+475,1,209423,True,7pNC5ZIKtwUK0ReSpM3P9f,False,True,Black Widow,66,10,track,album,The New Classic,2014,0.743,0.72,11,-3.753,1,0.124,0.192,0.000386,0.109,0.519,163.99,Pop
+476,1,161853,False,58UKC45GPNTflCN6nwCUeF,False,True,Fancy Like,78,6,track,album,Country Stuff The Album,2022,0.647,0.765,1,-6.459,1,0.06,0.111,0.0,0.315,0.855,79.994,Pop
+477,1,219200,False,5xTtaWoae3wi06K5WfVUUH,False,True,Shake It Off,74,6,track,album,1989,2014,0.647,0.785,7,-5.414,1,0.165,0.0561,0.0,0.148,0.943,160.015,Pop
+478,1,688453,True,3nB82yGjtbQFSU0JLAwLRH,False,True,Not a Bad Thing,57,11,track,album,The 20/20 Experience - 2 of 2 (Deluxe),2013,0.308,0.563,0,-9.169,1,0.0719,0.527,4.58e-06,0.134,0.109,85.901,Pop
+479,1,268856,False,5jfhLCSIFUO4ndzNRh4w4G,False,True,"Burn, Burn, Burn",77,1,track,single,"Burn, Burn, Burn",2022,0.508,0.296,3,-10.513,1,0.0755,0.897,5e-05,0.11,0.134,82.532,Pop
+480,1,189960,False,4gbVRS8gloEluzf0GzDOFc,False,True,Maps,83,1,track,album,V,2014,0.742,0.713,1,-5.522,0,0.0303,0.0205,0.0,0.059,0.879,120.032,Pop
+481,1,160565,True,6LUr2QQla9sLekmdfJvDOS,False,True,Ain’t It Funny,52,1,track,single,Ain’t It Funny,2022,0.508,0.497,5,-7.594,0,0.262,0.0142,2.93e-05,0.134,0.142,98.186,Pop
+482,1,178426,False,1BxfuPKGuaTgP7aM0Bbdwr,False,True,Cruel Summer,85,2,track,album,Lover,2019,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994,Pop
+483,1,214840,False,12KUFSHFgT0XCoiSlvdQi4,False,True,Break Free,76,5,track,album,My Everything (Deluxe),2014,0.687,0.702,7,-5.324,0,0.0455,0.0064,4.35e-05,0.204,0.284,129.956,Pop
+484,1,245493,False,4nVBt6MZDDP6tRVdQTgxJg,False,True,Story of My Life,83,2,track,album,Midnight Memories (Deluxe),2013,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,Pop
+485,1,227833,False,3s4U7OHV7gnj42VV72eSZ6,False,True,Rather Be (feat. Jess Glynne),73,1,track,single,Rather Be (feat. Jess Glynne),2014,0.799,0.586,11,-6.735,1,0.0377,0.162,2.03e-06,0.193,0.549,120.97,Pop
+486,1,209160,False,14OxJlLdcHNpgsm4DRwDOB,False,True,Habits (Stay High),74,13,track,album,Queen Of The Clouds,2014,0.729,0.65,5,-3.539,1,0.0313,0.0702,6.69e-05,0.0829,0.347,110.02,Pop
+487,1,175426,False,6FE2iI43OZnszFLuLtvvmg,False,True,Classic,82,2,track,album,MKTO,2012,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,Pop
+488,1,193733,False,1oew3nFNY3vMacJAsvry0S,False,True,Me And My Broken Heart,79,5,track,album,Let The Road,2014,0.545,0.783,5,-4.261,0,0.0345,0.00489,0.0,0.132,0.551,174.084,Pop
+489,1,129829,True,2CaSCI1tuGkl94MjQ13yAH,False,True,Tell Me You Love Me Even Though You Don’t,7,10,track,album,Emo Savage 2,2019,0.674,0.577,4,-7.004,0,0.288,0.389,0.0,0.115,0.559,148.149,Pop
+490,1,229400,False,6Vc5wAMmXdKIAM7WUoEb7N,False,True,Say Something,75,13,track,album,Is There Anybody Out There?,2014,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,Pop
+491,1,175200,False,3LlAyCYU26dvFZBDUIMb7a,False,True,Demons,75,4,track,album,Night Visions,2012,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.329,0.428,89.938,Pop
+492,1,252733,False,1KxwZYyzWNyZSRyErj2ojT,False,True,Let Her Go,76,2,track,album,All The Little Lights,2012,0.479,0.545,7,-7.346,1,0.0688,0.365,0.0,0.0963,0.243,74.897,Pop
+493,1,213733,False,67awxiNHNyjMXhVgsHuIrs,False,True,Turn Down for What,71,1,track,single,Turn Down for What,2013,0.818,0.799,1,-4.1,0,0.156,0.00107,0.128,0.057,0.0815,100.014,Pop
+494,1,233173,False,34MJ07N9Bhu6iKPaxSVnCT,False,True,Neon Lights,63,4,track,album,Demi,2013,0.631,0.819,9,-4.24,1,0.122,0.0767,0.0,0.1,0.733,125.928,Pop
+495,1,217346,False,2QtJA4gbwe1AcanB2p21aP,False,True,Stay The Night - Featuring Hayley Williams Of Paramore,66,11,track,album,Clarity (Deluxe),2012,0.596,0.738,8,-3.109,1,0.0411,0.109,0.0,0.0947,0.461,127.961,Pop
+500,1,312626,True,0Z2J91b2iTGLVTZC4fKgxf,False,True,Hit 'Em Up - Single Version,82,12,track,compilation,Greatest Hits,1998,0.916,0.844,7,-3.967,1,0.236,0.0394,0.0,0.0778,0.586,95.19,Pop
+501,1,216120,False,2s1sdSqGcKxpPr5lCl7jAV,False,True,Chandelier,71,1,track,album,1000 Forms Of Fear (Deluxe Version),2015,0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,Pop
+502,1,201600,False,5vTPxzm4h2bY9rYyVrGEU5,False,True,Really Don't Care,71,8,track,album,Demi,2013,0.706,0.728,7,-3.602,1,0.0852,0.123,0.0,0.185,0.851,121.017,Pop
+503,1,237626,False,13P5rwmk2EsoFRIz9UCeh9,False,True,Cool Kids,78,3,track,album,Talking Dreams (Deluxe Edition),2013,0.719,0.671,8,-6.279,1,0.0336,0.0372,8.21e-06,0.12,0.786,130.027,Pop
+504,1,243413,False,32lm3769IRfcnrQV11LO4E,False,True,Bailando - Spanish Version,69,3,track,album,SEX AND LOVE (Deluxe),2014,0.723,0.777,7,-3.503,1,0.108,0.0426,3.68e-06,0.0451,0.961,91.017,Pop
+505,1,175203,True,4IWGnyOHDrVZEtPWfs4s7q,False,True,Do What I Want,67,1,track,album,The Perfect LUV Tape,2016,0.681,0.701,9,-6.336,1,0.0767,0.106,0.0,0.208,0.398,139.952,Pop
+506,1,205280,False,7dDrR6vMK1JAwZZ5MIWgme,False,True,Birthday Cake,77,1,track,single,Birthday Cake,2022,0.436,0.255,3,-8.623,1,0.0364,0.955,3.28e-05,0.106,0.15,113.265,Pop
+507,1,263826,False,0n4bITAu0Y0nigrz3MFJMb,False,True,Blurred Lines,77,1,track,album,Blurred Lines (Deluxe),2013,0.853,0.599,7,-4.756,1,0.0411,0.00334,7.93e-06,0.0759,0.843,119.993,Pop
+508,1,233478,False,3w3y8KPTfNeOKPiqUTakBh,False,True,Locked out of Heaven,87,2,track,album,Unorthodox Jukebox,2012,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,Pop
+509,1,219720,False,6FB3v4YcR57y4tXFcdxI1E,False,True,I Knew You Were Trouble.,78,8,track,album,Red (Big Machine Radio Release Special),2012,0.622,0.469,3,-6.798,0,0.0363,0.00454,2.25e-06,0.0335,0.679,77.019,Pop
+510,1,90906,False,7GRu6XaTVRIdV4E0Ty4QGX,False,True,Can’t Hold Us (ANR154),21,14,track,compilation,Armada Night Radio 154 (Incl. APEK & Husman Guest Mix),2017,0.556,0.871,10,-6.351,1,0.0752,0.000744,0.00498,0.253,0.219,128.044,Pop
+511,1,271426,False,60wwxj6Dd9NJlirf84wr2c,False,True,Clarity,75,5,track,album,Clarity,2012,0.509,0.781,8,-3.48,1,0.072,0.0398,0.0,0.0749,0.176,128.0,Pop
+512,1,484146,False,4rHZZAmHpZrA3iH5zx8frV,False,True,Mirrors,79,9,track,album,The 20/20 Experience (Deluxe Version),2013,0.574,0.512,5,-6.664,0,0.0503,0.234,0.0,0.0946,0.512,76.899,Pop
+513,1,186813,False,4G8gkOterJn0Ywt6uhqbhp,False,True,Radioactive,73,1,track,album,Night Visions,2012,0.448,0.784,9,-3.686,1,0.0627,0.106,0.000108,0.668,0.236,136.245,Pop
+514,1,131626,False,6CdE1dACd4EpT7YgVcx4Iv,False,True,Don’t you worry child,13,17,track,album,Il serale di #Amici14 – La finale,2015,0.506,0.812,11,-5.09,0,0.0564,0.0488,0.0,0.963,0.569,117.98,Pop
+515,1,235613,True,6CjtS2JZH9RkDz5UVInsa9,False,True,Thrift Shop (feat. Wanz),77,3,track,album,The Heist,2012,0.781,0.526,6,-6.986,0,0.293,0.0633,0.0,0.0457,0.665,94.993,Pop
+516,1,164533,False,51Zw1cKDgkad0CXv23HCMU,False,True,Daylight,84,5,track,album,Harry's House,2022,0.686,0.445,0,-7.189,1,0.0398,0.484,0.00144,0.175,0.626,145.5,Pop
+517,1,242733,False,1mKXFLRA179hdOWQBwUk9e,False,True,Just Give Me a Reason (feat. Nate Ruess),81,4,track,album,The Truth About Love,2012,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002,Pop
+518,1,223546,False,27tNWlhdAryQY04Gb2ZhUI,False,True,Roar,78,1,track,album,PRISM,2013,0.671,0.771,7,-4.821,0,0.0316,0.00492,7.28e-06,0.354,0.436,90.003,Pop
+519,1,213826,False,0nJW01T7XtvILxQgC5J7Wh,False,True,When I Was Your Man,86,6,track,album,Unorthodox Jukebox,2012,0.612,0.28,0,-8.648,1,0.0434,0.932,0.0,0.088,0.387,72.795,Pop
+520,1,163133,False,0W4Kpfp1w2xkY3PrV714B7,False,True,Ho Hey,75,5,track,album,The Lumineers,2012,0.685,0.466,0,-9.074,1,0.0304,0.794,2.06e-06,0.0915,0.353,79.936,Pop
+521,1,192789,False,6Z8R6UsFuGXGtiIxiD8ISb,False,True,Safe And Sound,83,1,track,album,In A Tidal Wave Of Mystery (Deluxe Edition),2013,0.655,0.819,0,-4.852,1,0.0316,0.000176,0.00374,0.104,0.766,117.956,Pop
+522,1,248413,False,2Foc5Q5nqNiosCNqttzHof,False,True,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,83,1,track,single,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],2013,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047,Pop
+523,1,291293,False,2tUBqZG2AbRi7Q0BIrVrEj,False,True,I Wanna Dance with Somebody (Who Loves Me),82,1,track,album,Whitney,1987,0.709,0.824,1,-8.824,1,0.0453,0.207,0.000307,0.0888,0.867,118.818,Pop
+524,1,231986,False,6LoQHIo74tOzQ8EsLEkhgF,False,True,Come & Get It,72,5,track,album,Stars Dance (Bonus Track Version),2013,0.546,0.787,7,-4.1,0,0.0517,0.0101,0.00021,0.0809,0.573,79.979,Pop
+525,1,234506,False,05SBRd4fXgn8FX7bf8BCAE,False,True,I Need Your Love (feat. Ellie Goulding),71,8,track,album,18 Months,2012,0.695,0.869,8,-5.066,1,0.0483,0.41,0.0,0.237,0.58,124.989,Pop
+530,1,206400,True,2wGSgTmgSF3xjRrHkTc25R,False,True,Hate It Or Love It,83,4,track,album,The Documentary,2005,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,Pop
+531,1,212560,False,24LS4lQShWyixJ0ZrJXfJ5,False,True,Sweet Nothing (feat. Florence Welch),72,10,track,album,18 Months,2012,0.573,0.929,8,-3.942,0,0.109,0.197,0.000112,0.0567,0.582,127.934,Pop
+532,1,227986,False,190jyVPHYjAqEaOGmMzdyk,False,True,Beauty And A Beat,75,10,track,album,Believe (Deluxe Edition),2012,0.602,0.843,0,-4.831,1,0.0593,0.000688,5.27e-05,0.0682,0.526,128.003,Pop
+533,1,160212,True,0ada5XsQGLPUVbmTCkAP49,False,True,Hate The Other Side (with Marshmello & The Kid Laroi),76,9,track,album,Legends Never Die,2020,0.701,0.65,6,-6.313,1,0.104,0.291,0.0,0.112,0.647,90.003,Pop
+534,1,190185,False,2dLLR6qlu5UJ5gk0dKz0h3,False,True,Royals,79,3,track,album,Pure Heroine,2013,0.674,0.428,7,-9.504,1,0.122,0.121,0.0,0.132,0.337,84.878,Pop
+535,1,236026,False,7hlA8gMMz6jSp91Twsnuv3,False,True,The Devil Wears a Suit and Tie,68,7,track,album,Imaginary Appalachia,2015,0.625,0.319,6,-12.119,0,0.0805,0.79,0.104,0.0921,0.438,127.799,Pop
+536,1,264773,False,1Ist6PR2BZR3n2z2Y5R6S1,False,True,Summertime Sadness,76,11,track,album,Born To Die – Paradise Edition (Special Version),2012,0.566,0.647,1,-6.815,0,0.0335,0.0477,0.0,0.121,0.22,111.96,Pop
+537,1,210840,False,1V6gIisPpYqgFeWbMLI0bA,False,True,Heart Attack,79,1,track,album,Demi,2013,0.504,0.785,8,-4.802,1,0.104,0.0738,0.0,0.239,0.502,173.968,Pop
+538,1,178560,True,55h7vJchibLdUkxdlX3fK7,False,True,Treasure,80,4,track,album,Unorthodox Jukebox,2012,0.874,0.692,5,-5.28,0,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,Pop
+539,1,229506,False,0Hf4aIJpsN4Os2f0y0VqWl,False,True,Feel This Moment (feat. Christina Aguilera),78,3,track,album,Global Warming: Meltdown (Deluxe Version),2012,0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,Pop
+540,1,338413,True,37jTPJgwCCmIGMPB45jrPV,False,True,Holy Grail,65,1,track,album,Magna Carta... Holy Grail,2013,0.676,0.534,2,-6.901,0,0.0831,0.0594,8.59e-06,0.256,0.156,145.082,Pop
+541,1,219640,False,6mDokQBBmkDhu7uDEFhyQ7,False,True,Try Losing One,71,4,track,single,What Do They Know,2021,0.455,0.4,2,-7.749,1,0.0293,0.546,0.0,0.0971,0.103,139.828,Pop
+542,1,212333,False,5ka2ajep9OAvU5Sgduhiex,False,True,Applause,73,14,track,album,ARTPOP,2013,0.669,0.78,7,-4.287,0,0.053,0.0265,1.63e-06,0.143,0.738,139.945,Pop
+543,1,148816,True,6EbVuwU7EnKeF2hdpViXCH,False,True,Die Young (feat. 347aidan),82,1,track,single,Die Young (feat. 347aidan),2022,0.808,0.582,11,-6.26,1,0.338,0.827,0.0,0.111,0.675,77.471,Pop
+544,1,208960,False,0i5el041vd6nxrGEU8QRxy,False,True,Cruise,74,1,track,album,Here's To The Good Times,2012,0.457,0.948,10,-3.364,1,0.0354,0.0191,0.0,0.0536,0.878,148.0,Pop
+545,1,186826,False,2E43WFS4rRc09za2r2GmZl,False,True,My Songs Know What You Did In The Dark (Light Em Up),73,2,track,album,Save Rock And Roll,2013,0.558,0.924,9,-4.341,0,0.064,0.0271,3.32e-06,0.537,0.567,151.99,Pop
+546,1,198009,False,7a4YwlUER1m7rkWJjYJRAD,False,True,"If I Don't Laugh, I'll Cry",71,1,track,single,"If I Don't Laugh, I'll Cry",2022,0.674,0.595,4,-5.18,1,0.0365,0.358,0.0,0.146,0.207,81.045,Pop
+547,1,128013,False,6mH3qVIeOsnQIAho5eWwhH,False,True,Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version,65,1,track,compilation,Ultimate Pitch Perfect (Original Motion Picture Soundtrack),2015,0.878,0.455,0,-8.845,1,0.077,0.0462,0.00484,0.0353,0.79,129.953,Pop
+552,1,231240,False,2y4lAQpi5VTNLu2ldeTdUH,False,True,We Can't Stop,78,2,track,album,Bangerz (Deluxe Version),2013,0.613,0.622,1,-5.794,0,0.0334,0.00882,0.0,0.37,0.484,80.003,Pop
+553,1,281613,False,3gdewACMIVMEWVbyb8O9sY,False,True,"Rocket Man (I Think It's Going To Be A Long, Long Time)",81,5,track,album,Honky Chateau,1972,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,Pop
+554,1,227880,False,2aSC2xhRxOLiiZZVjhbylH,False,True,"Hold On, We're Going Home",73,8,track,album,Nothing Was The Same,2013,0.777,0.414,6,-7.44,0,0.0946,0.00421,2.73e-05,0.0724,0.287,100.002,Pop
+555,1,221360,False,2vwlzO0Qp8kfEtzTsCXfyE,False,True,Wrecking Ball,78,6,track,album,Bangerz (Deluxe Version),2013,0.53,0.422,5,-6.262,1,0.0342,0.407,0.0,0.107,0.349,119.964,Pop
+556,1,185586,False,6s8nHXTJVqFjXE4yVZPDHR,False,True,Troublemaker (feat. Flo Rida),75,2,track,album,Right Place Right Time (Expanded Edition),2012,0.762,0.863,0,-3.689,0,0.0561,0.015,0.0,0.125,0.965,106.012,Pop
+557,1,251626,False,4kte3OcW800TPvOVgrLLj8,False,True,Let Me Love You (Until You Learn To Love Yourself),69,3,track,album,R.E.D. (Deluxe Edition),2012,0.658,0.677,5,-6.628,1,0.0393,0.248,0.0,0.368,0.248,124.91,Pop
+558,1,237506,True,5TRPicyLGbAF2LGBFbHGvO,False,True,Flashing Lights,85,9,track,album,Graduation,2007,0.639,0.628,6,-7.578,0,0.0399,0.0381,0.0,0.386,0.43,90.482,Pop
+559,1,215226,False,6qn9YLKt13AGvpq9jfO8py,False,True,We Found Love,78,3,track,album,Talk That Talk,2011,0.734,0.766,1,-4.485,1,0.0383,0.025,0.00138,0.108,0.6,127.986,Pop
+560,1,197935,False,5yDL13y5giogKs2fSNf7sj,False,True,Glad You Came,80,1,track,album,Battleground (Deluxe Edition),2011,0.722,0.851,7,-3.873,0,0.0639,0.0319,0.0,0.108,0.452,126.885,Pop
+561,1,193400,False,3TGRqZ0a2l1LRblBkJoaDx,False,True,Call Me Maybe,73,3,track,album,Kiss (Deluxe),2012,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,Pop
+562,1,231386,True,1LmN9SSHISbtp9LoaR5ZVJ,False,True,Payphone,72,2,track,album,Overexposed,2021,0.739,0.756,4,-4.828,1,0.0394,0.0136,0.0,0.37,0.523,110.028,Pop
+563,1,248133,False,2LEF1A8DOZ9wRYikWgVlZ8,False,True,Good Feeling,77,4,track,album,Wild Ones,2012,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,Pop
+564,1,250626,False,7a86XRg84qjasly9f6bPSD,False,True,We Are Young (feat. Janelle Monáe),74,3,track,album,Some Nights,2012,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,Pop
+565,1,215039,False,5OLfObog5za3O71jQgZFsB,False,True,Wide Awake (feat. Charlie Houston),66,2,track,album,The Last Goodbye,2022,0.616,0.886,6,-5.436,0,0.0416,0.163,0.0517,0.129,0.0694,124.987,Pop
+566,1,242973,False,73CMRj62VK8nUS4ezD2wvi,False,True,Set Fire to the Rain,79,5,track,album,21,2011,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.68e-06,0.112,0.446,107.993,Pop
+567,1,221946,False,6D60klaHqbCl9ySc8VcRss,False,True,Stronger (What Doesn't Kill You),67,2,track,album,Stronger (Deluxe Version),2011,0.562,0.939,0,-4.282,1,0.0475,0.046,0.0,0.112,0.684,116.044,Pop
+568,1,257720,False,0RUGuh2uSNFJpGMSsD1F5C,False,True,It Will Rain,71,3,track,compilation,The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack),2011,0.576,0.835,2,-6.826,1,0.0486,0.337,0.0,0.082,0.476,150.017,Pop
+569,1,210626,True,1oHNvJVbFkexQc0BpQp7Y4,False,True,Starships,74,10,track,album,Pink Friday ... Roman Reloaded,2011,0.747,0.716,11,-2.457,0,0.075,0.135,0.0,0.251,0.751,125.008,Pop
+570,1,227333,False,6hkOqJ5mE093AQf2lbZnsG,False,True,The One That Got Away,72,7,track,album,Teenage Dream,2010,0.691,0.795,1,-4.021,0,0.0355,0.000812,1.02e-06,0.156,0.876,133.971,Pop
+571,1,199986,False,4cluDES4hQEUhmXj6TXkSo,False,True,What Makes You Beautiful,84,1,track,album,Up All Night,2012,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,Pop
+572,1,242680,False,5WQQIDU3HRaMyPkob8mpFb,False,True,Where Have You Been,73,2,track,album,Talk That Talk,2011,0.719,0.847,0,-6.34,0,0.0916,0.00201,0.0204,0.221,0.444,127.963,Pop
+573,1,232946,False,1NpW5kyvO4XrNJ3rnfcNy3,False,True,Wild Ones (feat. Sia),78,2,track,album,Wild Ones,2012,0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,Pop
+574,1,205346,False,3sP3c86WFjOzHHnbhhZcLA,False,True,Give Your Heart a Break,71,10,track,album,Unbroken,2011,0.651,0.695,6,-3.218,1,0.0487,0.23,0.0,0.144,0.569,123.008,Pop
+575,1,255586,True,4k80K0b6KZ2QjAYkXON7q6,False,True,Blow Me (One Last Kiss),67,2,track,album,The Truth About Love,2012,0.597,0.919,7,-2.954,1,0.0439,0.000145,0.0,0.282,0.729,113.991,Pop
+576,1,231693,False,6MAdEUilV2p9RQUqE5bMAK,False,True,Domino,67,14,track,album,Who You Are (Platinum Edition),2011,0.757,0.547,7,-4.573,1,0.0355,0.0115,0.0,0.0445,0.793,126.977,Pop
+577,1,154800,False,1qzHqfvKrZWo6dVHM1dXrj,False,True,Turn Me On,69,7,track,album,Come Away With Me (Super Deluxe Edition),2002,0.429,0.18,10,-10.694,1,0.0551,0.864,4.4e-06,0.104,0.485,170.645,Pop
+578,1,245040,False,0lHAMNU8RGiIObScrsRgmP,False,True,Titanium (feat. Sia),70,1,track,album,Nothing but the Beat 2.0,2011,0.604,0.788,0,-3.673,0,0.103,0.0678,0.153,0.127,0.301,126.06,Pop
+579,1,216160,False,6yARPLK0PV4heEyh7pVMGz,False,True,Part Of Me,69,14,track,album,Teenage Dream: The Complete Confection,2012,0.667,0.922,5,-4.645,1,0.0353,0.000354,0.0,0.0867,0.761,130.01,Pop
+580,1,199480,False,0obBFrPYkSoBJbvHfUIhkv,False,True,Sexy And I Know It,65,4,track,album,Sorry For Party Rocking (Deluxe Version),2011,0.707,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.021,Pop
+581,1,177280,False,2iUmqdfGZcHIhS3b9E9EWq,False,True,Everybody Talks,80,3,track,album,Picture Show,2012,0.471,0.924,8,-3.906,1,0.0586,0.00301,0.0,0.313,0.725,154.961,Pop
+582,1,214720,False,2S8UMuLJ0z8agFgFGJ6Ztt,False,True,GOOD TIME,71,6,track,album,GOOD TIME,2021,0.802,0.59,5,-7.189,1,0.0493,0.0874,0.0,0.275,0.687,138.084,Pop
+583,1,214333,False,00WvmRXTkPBZNhhRK3xfdy,False,True,As Long as You Love Me,63,3,track,album,Backstreet Boys,1996,0.775,0.816,0,-5.534,1,0.0281,0.164,0.0,0.126,0.753,98.219,Pop
+584,1,224653,False,3bC1ahPIYt1btJzSSEyyrF,False,True,Whistle,78,1,track,album,Wild Ones,2012,0.747,0.937,0,-5.746,1,0.0453,0.0208,0.0,0.29,0.739,103.976,Pop
+585,1,277040,True,6t6oULCRS6hnI7rm0h5gwl,False,True,Some Nights,71,2,track,album,Some Nights,2012,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,Pop
+586,1,222213,True,3bfqkspKABT4pPicm6wC9F,False,True,Ass Back Home (feat. Neon Hitch),62,7,track,album,The Papercut Chronicles II,2011,0.716,0.838,10,-4.289,1,0.0513,0.134,0.0,0.148,0.646,130.034,Pop
+587,1,193146,False,0VwNdo84DaVYLIkbVO86ND,False,True,We Are Never Ever Getting Back Together,75,16,track,album,Red (Big Machine Radio Release Special),2012,0.628,0.676,7,-5.911,1,0.0916,0.00957,2.65e-05,0.121,0.75,85.984,Pop
+588,1,259440,True,5IFCyWplye09HytIP80RCF,False,True,Too Close,67,2,track,album,Rated Next,1997,0.847,0.402,7,-9.952,1,0.0641,0.0118,0.0,0.283,0.752,99.693,Pop
+589,1,188453,False,0laYHRpNTS6i8FXdupHkJ4,False,True,Love You Like A Love Song,80,1,track,album,When The Sun Goes Down,2011,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009,Pop
+590,1,176531,True,1NCWXbUyF88ee30OMAe7dO,False,True,Let Go,78,4,track,album,CHASE,2019,0.87,0.498,9,-8.339,0,0.0622,0.046,0.0,0.146,0.692,110.017,Pop
+591,1,227280,False,62zFEHfAYl5kdHYOivj4BC,False,True,International Love (feat. Chris Brown),76,8,track,album,Planet Pit (Deluxe Version),2011,0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,Pop
+592,1,206413,False,1gihuPhrLraKYrJMAEONyc,False,True,Feel So Close - Radio Edit,80,3,track,album,18 Months,2012,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,Pop
+593,1,227146,False,4urcG6Nfubqsuqy3juMjBi,False,True,Brokenhearted,65,2,track,album,Hello,2012,0.765,0.765,1,-2.732,0,0.0585,0.00765,3.82e-06,0.0527,0.886,120.001,Pop
+594,1,210960,False,0qOnSQQF0yzuPWsXrQ9paz,False,True,Stereo Hearts (feat. Adam Levine),82,4,track,album,The Papercut Chronicles II,2011,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,Pop
+595,1,277386,True,124NFj84ppZ5pAxTuVQYCQ,False,True,Take Care,77,5,track,album,Take Care (Deluxe),2011,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,Pop
+596,1,218520,False,6j7hih15xG2cdYwIJnQXsq,False,True,Not Over You,69,2,track,album,Sweeter,2011,0.63,0.894,10,-4.592,1,0.0544,0.255,0.0,0.181,0.364,142.051,Pop
+597,1,214573,False,6E11E0lT5Zy7yb6iT3y8DN,False,True,Want U Back,66,1,track,album,Sticks & Stones,2012,0.694,0.891,9,-2.94,1,0.0949,0.0562,0.0,0.561,0.563,97.939,Pop
+598,1,223266,False,2A73XBDBQgmdXO8VsXPWIs,False,True,Rumour Has It,67,2,track,album,21,2011,0.612,0.749,0,-5.014,1,0.0446,0.615,0.0,0.167,0.574,120.052,Pop
+599,1,195973,False,0KAiuUOrLTIkzkpfpn9jb9,False,True,Drive By,78,2,track,album,California 37,2012,0.765,0.837,1,-3.113,0,0.032,0.00107,1.06e-05,0.0801,0.721,122.028,Pop
+600,1,188894,False,3LEgGAl9zLcQWGTp7ptqtQ,False,True,Don’t Wake Me Up,77,1,track,single,Don’t Wake Me Up,2022,0.621,0.747,11,-5.084,1,0.0337,0.222,0.000194,0.147,0.426,124.015,Pop
+601,1,207333,True,5HQVUIKwCEXpe7JIHyY734,False,True,"Young, Wild & Free (feat. Bruno Mars)",79,1,track,single,"Young, Wild & Free (feat. Bruno Mars)",2011,0.715,0.655,0,-6.425,1,0.137,0.0525,0.0,0.115,0.531,95.078,Pop
+602,1,201160,False,7LcfRTgAVTs5pQGEQgUEzN,False,True,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",72,13,track,album,Hands All Over,2010,0.722,0.758,11,-4.477,0,0.0471,0.0111,0.0,0.308,0.62,128.047,Pop
