@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.ColorAdjust?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="779.0" prefWidth="709.0" style="-fx-background-color: #636f5e;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classProject.sceneController">
+   <children>
+      <ImageView fitHeight="70.0" fitWidth="690.0" layoutX="10.0" layoutY="16.0" pickOnBounds="true">
+         <image>
+            <Image url="@../../../../Downloads/20392_black-line-png.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="566.0" layoutY="115.0" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#profileLogin" prefHeight="27.0" prefWidth="75.0" style="-fx-background-color: #1a2413;" text="Sign In" textFill="WHITE">
+         <effect>
+            <ColorAdjust />
+         </effect>
+      </Button>
+      <TableView fx:id="resultTable" layoutX="62.0" layoutY="211.0" prefHeight="421.0" prefWidth="587.0">
+        <columns>
+            <TableColumn fx:id="idCol" prefWidth="75.0" text="ID" visible="false" />
+          <TableColumn fx:id="routeName" prefWidth="236.26670455932617" text="Route Name" />
+            <TableColumn fx:id="routeDifficulty" prefWidth="90.93331909179688" sortType="DESCENDING" text="Difficulty" />
+          <TableColumn fx:id="routeLocation" prefWidth="259.46661376953125" text="Location" />
+        </columns>
+      </TableView>
+      <TextField fx:id="searchText" layoutX="62.0" layoutY="169.0" onAction="#resultSceneNotLoggedIn" prefHeight="25.0" prefWidth="203.0" promptText="Search" />
+      <Button layoutX="62.0" layoutY="115.0" mnemonicParsing="false" onAction="#homeScene" prefHeight="27.0" prefWidth="58.0" style="-fx-background-color: #1a2413;" text="Back" textFill="WHITE" />
+      <Button layoutX="10.0" layoutY="12.0" mnemonicParsing="false" onAction="#homeScene" style="-fx-background-color: #1a2413;">
+         <graphic>
+            <ImageView fitHeight="70.0" fitWidth="77.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../docs/Picture1.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="130.0" layoutY="115.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#homeScene" prefHeight="27.0" prefWidth="90.0" style="-fx-background-color: #1a2413 #1a2413;" text="Home" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="232.0" layoutY="115.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#resultSceneNotLoggedIn" prefHeight="27.0" prefWidth="115.0" style="-fx-background-color: #1a2413 #1a2413;" text="Activity Guide" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="360.0" layoutY="115.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#profileLogin" prefHeight="27.0" prefWidth="115.0" style="-fx-background-color: #1a2413 #1a2413;" text="My Account" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

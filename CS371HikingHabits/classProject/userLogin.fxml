@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane blendMode="MULTIPLY" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="779.0" prefWidth="709.0" style="-fx-background-color: #636f5e;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classProject.sceneController">
+   <children>
+      <Button layoutX="595.0" layoutY="62.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#homeScene" prefHeight="28.0" prefWidth="70.0" style="-fx-background-color: #1a2413 #1a2413;" text="Log Out" textFill="WHITE" />
+      <TextField fx:id="searchText" layoutX="70.0" layoutY="267.0" onAction="#resultScene" prefHeight="35.0" prefWidth="569.0" promptText="Ex. Soledad Canyon">
+         <font>
+            <Font size="13.0" />
+         </font></TextField>
+      <Label layoutX="71.0" layoutY="237.0" prefHeight="25.0" prefWidth="329.0" text="Search for your next adventure..." textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Button layoutX="71.0" layoutY="314.0" mnemonicParsing="false" onAction="#uploadActivityLocation" prefHeight="25.0" prefWidth="152.0" style="-fx-background-color: #1a2413 #1a2413;" text="Upload your own routes" textFill="WHITE" />
+      <Button layoutX="118.0" layoutY="62.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#loggedInScene" prefHeight="28.0" prefWidth="115.0" style="-fx-background-color: #1a2413 #1a2413;" text="Home" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="243.0" layoutY="62.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#resultScene" prefHeight="28.0" prefWidth="115.0" style="-fx-background-color: #1a2413 #1a2413;" text="Activity Guide" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="371.0" layoutY="62.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#myAccount" prefHeight="28.0" prefWidth="115.0" style="-fx-background-color: #1a2413 #1a2413;" text="My Account" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="10.0" layoutY="13.0" mnemonicParsing="false" onAction="#loggedInScene" prefHeight="77.0" prefWidth="91.0" style="-fx-background-color: #1a2413;">
+         <graphic>
+            <ImageView fitHeight="60.0" fitWidth="70.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../docs/Picture1.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Line endX="409.33331298828125" endY="-45.0" layoutX="262.0" layoutY="420.0" startX="-225.66665649414062" startY="-45.0" />
+      <Text fill="WHITE" layoutX="70.0" layoutY="426.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Not sure where to start?">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="71.0" layoutY="457.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Let us help!">
+         <font>
+            <Font name="System Bold Italic" size="13.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="71.0" layoutY="507.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Type:">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="70.0" layoutY="573.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Difficulty:">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="71.0" layoutY="636.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Location:">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <Button layoutX="71.0" layoutY="687.0" mnemonicParsing="false" onAction="#resultSceneAdvanced" style="-fx-background-color: #1a2413 #1a2413;" text="Find Trails" textFill="WHITE">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Button>
+      <ChoiceBox fx:id="trailType" layoutX="164.0" layoutY="488.0" prefHeight="25.0" prefWidth="118.0" />
+      <ChoiceBox fx:id="difficultyType" layoutX="164.0" layoutY="555.0" prefHeight="25.0" prefWidth="118.0" />
+      <TextField fx:id="locationString" layoutX="164.0" layoutY="618.0" prefHeight="25.0" prefWidth="118.0" promptText="Where to?" />
+      <ImageView fitHeight="142.0" fitWidth="174.0" layoutX="323.0" layoutY="377.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../docs/MountainBike.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="265.0" fitWidth="174.0" layoutX="323.0" layoutY="518.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../docs/PeopleHiking.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="174.0" layoutX="518.0" layoutY="652.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../docs/Hiking.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="265.0" fitWidth="174.0" layoutX="518.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../docs/MountainClimbing.jpg" />
+         </image>
+      </ImageView>
+      <Text layoutX="119.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="MOUNTAIN GOAT">
+         <font>
+            <Font name="LEMON MILK Regular" size="24.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

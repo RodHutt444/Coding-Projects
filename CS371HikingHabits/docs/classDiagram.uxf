@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>693</x>
+      <y>63</y>
+      <w>396</w>
+      <h>216</h>
+    </coordinates>
+    <panel_attributes>routeSearchModel
+--
+-routeName: SimpleStringProperty
+-difficulty: SimpleStringProperty
+-location: SimpleStringProperty
+--
++routeSearchModel(routeName: SSP, difficulty: SSP, location: SSP)
++getRouteName(): SSP
++getDifficulty(): SSP
++getLocation(): SSP
++setRouteName(routeName: SSP)
++setDifficulty(difficulty: SSP)
++setLocation(location: SSP)
+--
+Responsibilities
+-- Stores data that represent search items</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>261</x>
+      <y>342</y>
+      <w>378</w>
+      <h>297</h>
+    </coordinates>
+    <panel_attributes>sceneController
+--
+-stage: Stage
+-scene: Scene
+-root: Parent
+-resultTable: TableView
+-routeDifficulty: TableColumn
+-routeLocation: TableColumn
+-routeName: TableColumn
+-searchText: TextField
+-routeSearchObservableList: ObservableList&lt;routeSearchModel&gt;
+--
++initialize(url: URL, resource: ResourceBundle)
++homeScene(event: ActionEvent)
++loggedInScene(event: ActionEvent)
++resultScene(event: ActionEvent)
++resultSceneNotLoggedIn(event: ActionEvent)
+--
+Responsibilities
+-- Controls ALL scenes in the GUI
+-- Defines all scenes in the GUI
+-- Defines all actions in all scenes</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>774</x>
+      <y>414</y>
+      <w>270</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>retrieveData
+--
+-userID: String
+-password: String
+-address: String
++search; String
+--
++getList(): ObservableList&lt;routeSearchModel&gt;
+--
+Responsibilities
+-- Connects to an external database
+-- Searches the database for keywords</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>369</x>
+      <y>162</y>
+      <w>153</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Main
+--
+
+--
++start(stage: Stage)
+--
+Responsibilities
+-- Initiates the system GUI</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>351</x>
+      <y>54</y>
+      <w>189</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>/javafx.application::Application/
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLInterface</id>
+    <coordinates>
+      <x>45</x>
+      <y>414</y>
+      <w>198</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>javafx.fxml::Initializable
+--
+Initializes individual GUI scenes</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>441</x>
+      <y>72</y>
+      <w>81</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>441</x>
+      <y>252</y>
+      <w>90</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+m1=1..1
+m2=1..*
+initializes &gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>144</x>
+      <y>414</y>
+      <w>135</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;130.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>459</y>
+      <w>162</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..*
+m2=1..1
+&lt; sends list</panel_attributes>
+    <additional_attributes>10.0;20.0;160.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>891</x>
+      <y>270</y>
+      <w>117</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+m1=0..*
+m2=1..1
+belongs in list &gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;160.0</additional_attributes>
+  </element>
+</diagram>

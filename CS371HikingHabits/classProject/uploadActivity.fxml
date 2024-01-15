@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="779.0" prefWidth="709.0" style="-fx-background-color: #636f5e;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classProject.sceneController">
+   <children>
+      <AnchorPane layoutX="115.0" layoutY="87.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="470.0" style="-fx-background-color: #928871;">
+         <children>
+            <Label layoutX="28.0" layoutY="27.0" prefHeight="43.0" prefWidth="303.0" text="Activity Information" textFill="#3c2506">
+               <font>
+                  <Font name="System Bold" size="29.0" />
+               </font>
+            </Label>
+            <Label layoutX="39.0" layoutY="90.0" text="Activity Name:" textFill="#3c2506" underline="true">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <TextField fx:id="activityName" layoutX="39.0" layoutY="118.0" prefHeight="25.0" prefWidth="149.0" promptText="Ex. Dripping Springs Trail" style="-fx-background-color: #fffcf9;" />
+            <Label layoutX="39.0" layoutY="165.0" prefHeight="21.0" prefWidth="209.0" text="GPS Coordinates:" textFill="#3c2506" underline="true">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <TextField fx:id="gpsCoord" layoutX="39.0" layoutY="193.0" promptText="Latitude, Longitude" style="-fx-background-color: #fffcf9;" />
+            <Label layoutX="39.0" layoutY="241.0" prefHeight="21.0" prefWidth="187.0" text="Activity Type:" textFill="#3c2506" underline="true">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <Label layoutX="39.0" layoutY="319.0" prefHeight="21.0" prefWidth="187.0" text="Difficulty (1-10):" textFill="#3c2506" underline="true">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <TextField fx:id="activityDifficulty" layoutX="39.0" layoutY="350.0" promptText="Ex. 9" style="-fx-background-color: #fffcf9;" />
+            <Button layoutX="180.0" layoutY="469.0" mnemonicParsing="false" onAction="#loggedInScene" style="-fx-background-color: #1a2413;" text="FINISH UPLOADING" textFill="WHITE">
+               <font>
+                  <Font name="System Italic" size="12.0" />
+               </font></Button>
+            <ImageView blendMode="DARKEN" fitHeight="59.0" fitWidth="149.0" layoutX="358.0" layoutY="566.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../docs/moutains.png" />
+               </image>
+            </ImageView>
+            <ImageView blendMode="DARKEN" fitHeight="59.0" fitWidth="149.0" layoutX="58.0" layoutY="566.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true">
+               <image>
+                  <Image url="@../docs/moutains.png" />
+               </image>
+            </ImageView>
+            <Line endX="-214.00001525878906" endY="52.800018310546875" layoutX="242.0" layoutY="340.0" opacity="0.65" startX="-214.0" startY="-249.6666717529297" stroke="#3c2506" strokeWidth="0.5" />
+            <ChoiceBox fx:id="activityTypeMenu" layoutX="38.0" layoutY="276.0" prefWidth="150.0" />
+            <Button layoutX="210.0" layoutY="505.0" mnemonicParsing="false" onAction="#resultScene" prefHeight="27.0" prefWidth="67.0" style="-fx-background-color: #1a2413;" text="CANCEL" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+      <Button layoutX="14.0" mnemonicParsing="false" onAction="#loggedInScene" style="-fx-background-color: #1a2413;">
+         <graphic>
+            <ImageView fitHeight="60.0" fitWidth="70.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../docs/Picture1.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>
